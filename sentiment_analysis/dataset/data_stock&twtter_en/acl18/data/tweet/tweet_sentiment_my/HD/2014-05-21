@@ -1,6 +1,0 @@
-sentence,label,score
-$low #18:  miserable response from mgmt.  if add-back +150 bps weather impact... still underperformed relative to $hd.,negative,0.4879518747329712
-$hd the home depot inc (nyse:hd) – the home depot's (hd) ceo frank blake on ... URL,positive,0.6440101265907288
-"rt AT_USER $low #1:  for the 20th consecutive quarter, comp sales at low underperform the comp sales at $hd.",negative,0.582904040813446
-get #pennystock research on $acgl $mkc $hd  $grpn must see URL,positive,0.9009504318237305
-$hd: maybe rates simply jumped too high URL,positive,0.899631917476654

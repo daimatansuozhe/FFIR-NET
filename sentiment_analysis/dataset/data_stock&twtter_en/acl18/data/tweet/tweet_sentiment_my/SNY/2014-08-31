@@ -1,3 +1,0 @@
-sentence,label,score
-rt AT_USER $regn and $sny announce presentation of detailed positive results from four pivotal alirocumab trials URL,positive,0.9777237772941589
-"rt AT_USER sanofi, regeneron's pcsk9 inhibitor alirocumab halves major cardiovascular events in trial URL $sny $regn …",positive,0.6998070478439331

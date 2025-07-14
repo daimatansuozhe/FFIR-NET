@@ -1,6 +1,0 @@
-sentence,label,score
-intel: intel as a competitor URL $amd $ibm $orcl $tsm $intc,positive,0.6838768720626831
-$intc intel corporation (intc): intel's dividend disappointment: don't panic URL,negative,0.8338231444358826
-$intc - intel missed mobile and now it has become a dividend dud -&gt; URL #stock #stocks #stockaction,negative,0.8047058582305908
-dollar$onpennies: $intc daily URL,positive,0.708148717880249
-get great research on stocks $hibb $ely $pse $intc view now URL,positive,0.9626601338386536

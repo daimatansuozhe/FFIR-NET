@@ -1,7 +1,0 @@
-sentence,label,score
-"$qcom $dow $msft #liquidity i am emily, new researcher. please review my work under URL
-… URL",positive,0.8621762990951538
-"rt AT_USER access curated tweets- high relevancy, less spam- us tech giants URL $aapl $goog $msft $fb $twtr",positive,0.7722857594490051
-"rt AT_USER you spoke, AT_USER listened. what makes #windows10 so good: URL $msft URL",positive,0.9300416111946106
-$suti has now seen 400% gains in the past 2 weeks! special update: URL $lstza $cost $msft,positive,0.9525575041770935
-...and that is why $msft and $orcl wanted to acquire $crm URL,positive,0.8979853987693787

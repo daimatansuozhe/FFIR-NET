@@ -1,5 +1,0 @@
-sentence,label,score
-.AT_USER AT_USER look to new deals: URL $ko $dps #cocacola #drpeppersnapple,positive,0.885234534740448
-rt AT_USER jeremy grantham's top 10 stocks: $esrx $pm $rcl $msft $aapl $amzn $jnj $ko $googl $pg  URL URL,positive,0.8879054188728333
-"rt AT_USER susana trimarco sigue en silencio frente a los proxenetas k zaffaroni y angelina zapico ?  
-a$ko.",neutral,0.5038108229637146

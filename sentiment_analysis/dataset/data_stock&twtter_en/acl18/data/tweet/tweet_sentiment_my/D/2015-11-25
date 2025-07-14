@@ -1,6 +1,0 @@
-sentence,label,score
-rt AT_USER l$d,positive,0.7499744892120361
-l$d,positive,0.677925705909729
-rt AT_USER a$ap rocky - l$d URL,positive,0.7452085018157959
-"rt AT_USER #uruguay y la #inflación maquillada del gobierno: 1 kilo no 3kilos, 1 kilo de papas está a 65$ = poco más de 2 u$d = 2 eur…",neutral,0.5310572385787964
-i ❤ l$d.,positive,0.5796802639961243

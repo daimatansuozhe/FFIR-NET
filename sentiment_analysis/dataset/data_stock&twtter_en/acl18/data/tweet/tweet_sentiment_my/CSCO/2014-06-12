@@ -1,5 +1,0 @@
-sentence,label,score
-$csco - cisco: the chambers clock is starting -&gt; URL #stock #stocks #stockaction,positive,0.8844459652900696
-rt AT_USER why cisco is heading to $32 URL $csco,positive,0.9058302640914917
-$enh #stocks you might want to sell $wsm $csco $tsla #financialnews URL,positive,0.5524910092353821
-free chaikin analytics trial URL $msez $ebay $trtc $lnkd $clf $jcp $gs $domk $erbb $btc $gmcr $azn $csco $googl,positive,0.8337105512619019

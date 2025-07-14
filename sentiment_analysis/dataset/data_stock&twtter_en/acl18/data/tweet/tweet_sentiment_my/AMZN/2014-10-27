@@ -1,5 +1,0 @@
-sentence,label,score
-#sentishiftup $spx $spy $s $amzn $fb $he $dax $ibio $aapl $quad #quantheta,positive,0.830387532711029
-"rt AT_USER $amzn's jeff bezos has lost more than any us tech #billionaire in 2014, down $9.4 billion ytd:  URL",negative,0.8617733120918274
-twitter is officially more profitable than amazon $twtr $amzn,positive,0.953032374382019
-#amazon just launched a #crowdsourced #publishing program URL $amzn,positive,0.7871344685554504

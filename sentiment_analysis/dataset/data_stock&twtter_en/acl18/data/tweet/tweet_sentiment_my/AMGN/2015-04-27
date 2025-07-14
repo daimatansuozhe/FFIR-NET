@@ -1,3 +1,0 @@
-sentence,label,score
-"rt AT_USER $snta new ceo, has led licensing and merger-and-acquisition transactions valued at more than $8b with partners $gsk $amgn $p…",positive,0.9375544190406799
-"""AT_USER $ibb top 10 holdings (no particular order) so far today $myl $vrtx $amgn $biib $alxn $bmrn $celg $regn $gild $ilmn""",positive,0.9371239542961121

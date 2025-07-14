@@ -1,3 +1,0 @@
-sentence,label,score
-"rt AT_USER pepsi ceo:""if you can find a good co to buy, let us know. the small ones are too $$, big ones have their warts"" $pep URL",positive,0.6001619100570679
-rt AT_USER $pep: analyst action by susquehanna on pepsico: URL URL,positive,0.6667688488960266

@@ -1,6 +1,0 @@
-sentence,label,score
-"a year ago $msft brought office to ipad. today’s port requires android 4.4, so only ~50% on google play can run it URL",positive,0.5727673768997192
-"rt AT_USER 17 years ago today, microsoft released windows 98 to the world. • $msft
-URL",positive,0.8375858068466187
-$msft:us microsoft makes word available on android phones #microsoft corp  URL #sp500,positive,0.6677999496459961
-box: ibm integration underlines my microsoft and general takeover target thesis URL $ibm $msft $box,positive,0.9413954019546509

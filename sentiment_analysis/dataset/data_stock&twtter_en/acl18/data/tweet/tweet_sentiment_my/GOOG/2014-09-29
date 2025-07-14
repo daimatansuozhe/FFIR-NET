@@ -1,4 +1,0 @@
-sentence,label,score
-goog short possibility $goog URL,negative,0.6014970541000366
-"""#fbi director james #comey 'very concerned' about new #apple, #google #privacy features"": URL #nsa $appl $goog #snowden",negative,0.7979952096939087
-what does chief technology officer of the u.s. do? $goog $googl $twtr  URL via AT_USER #cto,positive,0.7283965945243835

@@ -1,8 +1,0 @@
-sentence,label,score
-"$didg company info URL
-
-also see: $oclr $seek $nwsa $wmt ~",positive,0.9003899097442627
-"$erbb stock forum URL
-
-also see: $mrk $avew $kgc $wmt ~",positive,0.9140578508377075
-are you considering buying $wmt $pwr $avx $cadx #money URL,positive,0.9117417931556702

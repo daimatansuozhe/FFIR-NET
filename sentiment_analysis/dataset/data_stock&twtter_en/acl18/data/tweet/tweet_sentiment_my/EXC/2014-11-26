@@ -1,9 +1,0 @@
-sentence,label,score
-"after-hours s&amp;p movers:
-$ne +0.56%
-$rig +0.47%
-$vlo +0.33%
-$exc -1.23%
-$cvc -0.45%
-$bk -0.27%
-#afterhours $spx",positive,0.91083824634552

@@ -1,9 +1,0 @@
-sentence,label,score
-"intl intl fcstone inc. day high
-URL
-
-$intl $agg $juno $jpm #intl #stocks #investing",positive,0.9457576870918274
-"vti vanguard long-term treasury fund current price
-URL
-
-$vti $upro $bk $jpm #vti #stock #share",positive,0.8002762198448181

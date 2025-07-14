@@ -1,6 +1,0 @@
-sentence,label,score
-rt AT_USER oil &amp; gas having one of best days in recent memory $bp $cop $cpe $cvx $xom $sdrl $pbr $line URL URL,positive,0.9451937675476074
-rt AT_USER unusual put activity URL $kr $x $cost $hlf $nke $f $fcx $xop $gdx $bp $cbs $dvn $vix $vrx $slv $su…,positive,0.76878821849823
-$bp - bp maintains executive wage freeze amid low oil prices URL,negative,0.6838067770004272
-rt AT_USER $bp lost $5.2 billion—but its ceo's bonus went up 40% URL URL,negative,0.6114897131919861
-rt AT_USER $bp lost $5.2 billion—but its ceo's bonus went up 40% URL URL,negative,0.6114897131919861

@@ -1,9 +1,0 @@
-sentence,label,score
-"hd home depot, inc. quotes
-URL
-
-$hd $bbry $tasr $feye #hd #invest #investing",positive,0.8786666989326477
-"jnj johnson &amp; johnson day low
-URL
-
-$jnj $one $scty $hd #jnj #share #finance",negative,0.7015578150749207

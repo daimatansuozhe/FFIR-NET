@@ -1,8 +1,0 @@
-sentence,label,score
-"rt AT_USER billionaire george soros’ latest move involves $cy; his holdings return -2.2% in q2
-$baba, $dow, $endp
-URL",positive,0.8372675776481628
-"alibaba group holding ltd jack ma, financial it company under fire - URL - $baba URL",positive,0.5449880957603455
-"$twtr twitter inc URL
-
-$baba $aapl $fb $twtr $nflx $googl $tsla $amzn $pcln $prmtx $fold $scmp $fv #prmtx #tradeideas...",positive,0.7933747172355652

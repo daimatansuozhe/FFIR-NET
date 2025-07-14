@@ -1,5 +1,0 @@
-sentence,label,score
-dow #stocks trend $dis $utx $ge $jpm $axp $cat $mmm $gs $ba $cvx $intc $msft $trv $hd $xom $ibm $ko $dd $nke  @ URL,positive,0.8983760476112366
-AT_USER true. $33b. could argue you don't need $trv since dow has $axp $jpm $gs. but $aapl should be there. $wfc too for that matter.,positive,0.5245141386985779
-"it is hard to miss the price capping and manipulation on the metals market at the comex, unless one does willfully so.  $jpm",negative,0.7986657023429871
-godaddy to tap public markets with ipo via $ms $jpm $c ~ URL #ipo AT_USER,positive,0.9641550779342651

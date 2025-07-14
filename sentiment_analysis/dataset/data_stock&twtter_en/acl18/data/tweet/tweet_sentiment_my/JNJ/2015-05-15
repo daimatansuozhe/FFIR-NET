@@ -1,7 +1,0 @@
-sentence,label,score
-"tim anderson sees merck coming out of sglt2 safety woes with stronger januvia sales.
-$mrk $jnj $lly",positive,0.9615594148635864
-"rt AT_USER fda warning on sglt2 inhibitors $jnj $lly $bmy $azn
-
-URL",negative,0.8182269930839539
-generic adhd drug maker locks horns with fda URL $jnj $mnk $act,positive,0.7798868417739868

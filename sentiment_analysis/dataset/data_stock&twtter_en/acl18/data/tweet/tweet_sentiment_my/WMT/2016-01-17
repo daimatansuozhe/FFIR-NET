@@ -1,7 +1,0 @@
-sentence,label,score
-wal-mart $wmt to close hundreds of stores: URL cnn came up with a list of stores closing in the… URL,negative,0.7060637474060059
-wal-mart $wmt to close hundreds of stores: URL cnn came up with a list of… URL #usstockmarkettoday,positive,0.747678816318512
-"ewz facebook, inc. chart
-URL
-
-$ewz $per $crus $wmt #ewz #share #stocks",positive,0.8456236720085144

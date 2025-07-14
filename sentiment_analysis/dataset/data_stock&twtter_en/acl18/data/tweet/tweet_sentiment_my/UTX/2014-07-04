@@ -1,5 +1,0 @@
-sentence,label,score
-$utx should you buy $arg $viab $cadx view now URL,positive,0.9607992768287659
-$utx #stocks you might want to sell $tkr $lh $chtp must have URL,positive,0.6952325701713562
-$fis looking for the next $nbr $utx $vfc #research URL,positive,0.9023972153663635
-$fast todays movers to research $ilmn $utx $spy #research URL,positive,0.9169546961784363

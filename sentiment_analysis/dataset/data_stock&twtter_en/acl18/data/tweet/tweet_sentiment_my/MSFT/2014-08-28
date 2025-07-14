@@ -1,8 +1,0 @@
-sentence,label,score
-know the real risks in your positions URL $ibm $msft $hpq,negative,0.5932108163833618
-"stocks with major news: $jpm, $aapl, $dg, $goog, $anf, $ry, $nyt, $fdo, $fb, $msft, $gm, $tef, $sig, $pfpt, $ibm, $gs",positive,0.9157627820968628
-"hewlett-packard gains server share; ibm, dell decline 
-
-URL AT_USER  $hpq $ibm $csco $orcl $msft $intc",positive,0.7134823799133301
-$msft: report: microsoft shifting to faster updates after windows 9 (msft) URL URL,positive,0.8219411969184875
-microsoft ceo nadella to visit china amid antitrust probe: source. #bullish or #bearish on $msft. share with us here: URL,positive,0.6059020161628723

@@ -1,3 +1,0 @@
-sentence,label,score
-"$ge news: ""the great recession's 'devastating effect' on the '4% rule' $ge …"" URL board view: URL",positive,0.6125266551971436
-"$ko $pg news: ""the great recession's 'devastating effect' on the '4% rule' $ge …"" URL board view: URL",positive,0.6322296857833862

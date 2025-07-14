@@ -1,7 +1,0 @@
-sentence,label,score
-"should you buy, sell or hold $orcl $teg $fmc $lgnd #research URL",positive,0.8913241624832153
-avoid mistakes like $ne $orcl $dte $lgnd #overvalued URL,positive,0.892772376537323
-"rt AT_USER .AT_USER $sne up post the interview flop, AT_USER $orcl oh-yeah! AT_USER downbeat outlook $dnkn
-URL",negative,0.7131079435348511
-everyone's talking about $orcl today URL AT_USER,positive,0.8629308938980103
-focus list for today $dnkn $rad $pwe $glng $bhi $tasr $swks $lnkd $opk $swir $goog $wfm $yhoo $baba $gpro $orcl $dgly URL,positive,0.8722848296165466

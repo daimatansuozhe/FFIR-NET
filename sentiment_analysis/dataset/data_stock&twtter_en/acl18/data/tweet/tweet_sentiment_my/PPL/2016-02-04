@@ -1,7 +1,0 @@
-sentence,label,score
-"rt AT_USER $aes $ppl:
-
-analyst price target review on utilities stocks: aes corp (nyse …:
-
-URL",positive,0.7234236598014832
-"ppl corp $ppl issues quarterly  earnings results, misses estimates by $0.01 eps URL",negative,0.8253851532936096

@@ -1,8 +1,0 @@
-sentence,label,score
-rt AT_USER current market screenshot $aapl $amzn $jnj $fb $ge $bac $dd $c $dis $t $vz $nke $ko $pep URL,positive,0.8310030102729797
-rt AT_USER two-year contracts are becoming a thing of the past. AT_USER is last holdout to give them up URL $t URL,positive,0.6761694550514221
-"t at&amp;t, inc. ask
-URL
-
-$t $celg $ilmn $upro #t #stockmarket #pennystocks",positive,0.8290613889694214
-track crowd curated news &amp; tweets for multiple tickers $yndx $t $tsla URL,positive,0.8730427026748657

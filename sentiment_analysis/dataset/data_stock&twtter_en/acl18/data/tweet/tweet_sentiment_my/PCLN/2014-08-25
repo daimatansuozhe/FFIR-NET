@@ -1,5 +1,0 @@
-sentence,label,score
-"rt AT_USER $aapl $goog $pcln $nflx $fb #options 
-$king big volume options strike:14 URL",positive,0.7157102823257446
-$pcln tomm will be epic,positive,0.9046505093574524
-dennyt: pcln stock quote $pcln $xlu $vxx $dia $pkd URL,positive,0.7939279079437256

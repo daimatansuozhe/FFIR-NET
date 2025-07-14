@@ -1,7 +1,0 @@
-sentence,label,score
-"$abbv:
-
-teva quarterly profit drops 6.6% on lower generic revenue:
-
-URL",negative,0.8579487204551697
-"$pbr news updated thursday, february 5, 2015 3:59:27 pm $bac $abbv $incc $qcom URL",positive,0.8811053037643433

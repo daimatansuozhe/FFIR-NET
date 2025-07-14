@@ -1,6 +1,0 @@
-sentence,label,score
-"rt AT_USER 15 actionable quotes from warren buffett’s 2015 annual report
-URL
-$de, $cinf, $afl, $pm",positive,0.7491294145584106
-"$pm correcting and replacing philip morris international (pmi) declares regular quarterly dividend of $1.02 p
-from our stock news alerts app",positive,0.5123803019523621

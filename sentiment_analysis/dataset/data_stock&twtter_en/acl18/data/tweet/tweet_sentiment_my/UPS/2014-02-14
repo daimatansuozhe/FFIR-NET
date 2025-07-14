@@ -1,7 +1,0 @@
-sentence,label,score
-"bot $emr, $nwl, $ups 
-
-$ups - URL
-$nwl - URL
-$emr - URL",positive,0.902135968208313
-sacbee - ups increases dividend by 8 percent URL $ups #dividend,positive,0.9473706483840942

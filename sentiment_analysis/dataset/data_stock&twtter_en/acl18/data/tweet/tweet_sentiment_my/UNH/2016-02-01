@@ -1,9 +1,0 @@
-sentence,label,score
-rt AT_USER aetna warns of 'serious concerns' with obamacare exchanges' viability URL $aet $unh,negative,0.7376718521118164
-URL &lt;-- *review* timfundamentals part deux $wfm $unh $cldx $fxe $nvax $ego,positive,0.7413585782051086
-"$unh $aet:
-
-aetna ceo has `serious concerns’ about obamacare sustainability:
-
-URL",negative,0.7732095718383789
-$unh is the sole dow component in the green in early trade,positive,0.8198553323745728

@@ -1,9 +1,0 @@
-sentence,label,score
-"10/10: earnings could change everything. citi, jp morgan and wells fargo all report earnings tuesday -&gt; URL $c $jpm $wfc",positive,0.7123277187347412
-AT_USER $wfc just reported earnings for q3 2014 – URL,positive,0.8049885630607605
-rt AT_USER $wfc mortgage profit decline 46% over past quarter. new mortgages fall to lowest level since financial crisis. URL,negative,0.8312777876853943
-esp gap down: $amd $apt $jpm $wfc $ibio,negative,0.739614725112915
-URL ddt : $wfc chart &lt; link back: ddt URL URL,positive,0.8926942944526672
-wells fargo  $wfc  shares cross below 200 dma $iyg #dividends URL,negative,0.799034595489502
-rt AT_USER third time's a charm? citigroup seems poised to finally conquer fed stress tests URL $bac $wfc $c,positive,0.8241693377494812
-"rt AT_USER there's a ton of bullish sentiment surrounding the biggest banks. here's sentiment for $c, $jpm and $wfc. URL",positive,0.9681006073951721

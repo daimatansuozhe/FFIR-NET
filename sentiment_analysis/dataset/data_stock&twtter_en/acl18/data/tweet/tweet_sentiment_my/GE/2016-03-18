@@ -1,5 +1,0 @@
-sentence,label,score
-have an opinion on a stock? send it into the pulsestream. $ge $bac #stocks #stockmarket URL,positive,0.8570857048034668
-read this from #nasdaq: investing in the #czechrepublic &gt;&gt; URL $ge $hon $bud #investing,positive,0.9006428122520447
-"$sfor: mobiletrust explainer URL via AT_USER
-$msft $goog $fb $twtr $ibm $aapl $symc $amzn $ge $pfe $c $f $t",positive,0.8478899002075195

@@ -1,9 +1,0 @@
-sentence,label,score
-"jnj johnson &amp; johnson dividend
-see here --&gt; URL
-
-$jnj $key.to $ibb #nasdaq",positive,0.9154924750328064
-"akg asanko gold inc. exchange
-see here --&gt; URL
-
-$akg $av.l $jnj #finance",positive,0.8095675706863403

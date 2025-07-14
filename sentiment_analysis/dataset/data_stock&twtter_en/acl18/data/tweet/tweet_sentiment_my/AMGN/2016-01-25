@@ -1,6 +1,0 @@
-sentence,label,score
-"rt AT_USER $mcd $aapl $ba $biib $fb $ebay
-$pypl $vrtx $lvs $crus $baba
-$ua $cat $celg $amzn $msft
-$ea $amgn $swks $ftnt $stx URL",positive,0.8134655356407166
-"$amgn bsufa sept 25, f the pdufa....bsufa",positive,0.7518368363380432

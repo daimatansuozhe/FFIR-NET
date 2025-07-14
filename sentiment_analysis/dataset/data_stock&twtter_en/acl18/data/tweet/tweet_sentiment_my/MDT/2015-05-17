@@ -1,9 +1,0 @@
-sentence,label,score
-"mdt medtronic, inc. last trade
-click here -&gt; URL
-
-trending $mdt $clf $abgb $eem #mdt #nasdaq #tradeideas",positive,0.8893560171127319
-"mdt medtronic, inc. last price
-click here -&gt; URL
-
-trending $mdt $qld $crto $syn #mdt #finance #finance",positive,0.8428983688354492
