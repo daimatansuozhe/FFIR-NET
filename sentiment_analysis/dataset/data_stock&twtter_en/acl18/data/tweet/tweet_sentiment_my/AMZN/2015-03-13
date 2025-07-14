@@ -1,0 +1,3 @@
+sentence,label,score
+"rt AT_USER hulu, amazon and yahoo are all bidding on seinfeld. netflix took a pass. URL $amzn $yhoo $nflx",positive,0.8629376292228699
+"$fb acquires thefind, getting ready to take on $amzn / $ebay apparently. thefind is a cool shopping search engine URL",positive,0.9294317960739136

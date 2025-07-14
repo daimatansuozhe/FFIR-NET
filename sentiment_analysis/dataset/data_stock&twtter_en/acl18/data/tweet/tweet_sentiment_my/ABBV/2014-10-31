@@ -1,0 +1,12 @@
+sentence,label,score
+"$amgn $abbv $afmd $azn $lly $mgnx $xncr
+
+AT_USER bi-spec abs rise again
+URL
+#immunoonc URL",positive,0.9559513926506042
+"$bbh % change
+
+click here: URL
+
+also see: $abbv $mhys $tan $oil ~",positive,0.8621798157691956
+$abbv - market snapshot: u.s. stocks rally; dow up triple-digits URL,positive,0.971687376499176

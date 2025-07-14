@@ -1,0 +1,17 @@
+sentence,label,score
+"xlf financials select sector spdr bid
+URL
+
+$xlf $xom $iyr $mvv #xlf #stock #financexlk technology select sector spdr…",positive,0.7616627812385559
+"mbly methode electronics, inc. summary
+URL
+
+$mbly $amgn $xom $drv #mbly #tradeideas #investing",positive,0.8689521551132202
+"mnkd mannkind corp. stock message board
+URL
+
+$mnkd $xom $tlt $scty #mnkd #pennystocks #share",positive,0.6808457970619202
+"rig guggenheim s&amp;p 500 equal weight etf ex-div date
+URL
+
+$rig $td $xom $ibm #rig #invest #stockmarket",positive,0.915436327457428

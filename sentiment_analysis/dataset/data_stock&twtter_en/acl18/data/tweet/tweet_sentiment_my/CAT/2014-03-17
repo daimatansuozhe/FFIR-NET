@@ -1,0 +1,4 @@
+sentence,label,score
+$cat how chinas slowdown will hit the u.s. URL,negative,0.5216894745826721
+$cat [video] china's slowdown: longer term investment opportunity remains URL,negative,0.7234652042388916
+$cat france has a formula for china's baby-milk needs URL,positive,0.845625638961792

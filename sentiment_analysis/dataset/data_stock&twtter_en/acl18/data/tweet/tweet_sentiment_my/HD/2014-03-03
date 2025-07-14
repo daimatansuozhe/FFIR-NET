@@ -1,0 +1,3 @@
+sentence,label,score
+$hd the home depot inc (nyse:hd) – home depot's management presents at ... URL,positive,0.7271793484687805
+$hd dow today: home depot (hd) lower URL,negative,0.7697162628173828

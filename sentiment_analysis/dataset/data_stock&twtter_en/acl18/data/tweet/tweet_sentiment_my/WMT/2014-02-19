@@ -1,0 +1,3 @@
+sentence,label,score
+$wmt *wal-mart says `looking' at support of minimum wage increase,positive,0.9148833155632019
+"$wmt grocery stores growing stale? consumers turn to target, wal-mart URL",positive,0.8832761645317078

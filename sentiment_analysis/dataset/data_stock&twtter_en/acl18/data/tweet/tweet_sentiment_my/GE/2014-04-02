@@ -1,0 +1,3 @@
+sentence,label,score
+find out  the latest on $pf $btu $ge $usd #financial URL,positive,0.8636875152587891
+$ge and powerstream launch ontario microgrid demonstration project to help address growing demand for electricity:  URL,positive,0.9668927788734436

@@ -1,0 +1,5 @@
+sentence,label,score
+"$hlf news: ""today's market: 5 stocks moving on news $abmd $bmy $hlf $mrk $sons"" URL  quote: URL",positive,0.8321905136108398
+"$bmy $mrk news: ""today's market: 5 stocks moving on news $abmd $bmy $hlf $mrk $sons"" URL  quote: URL",positive,0.8156597018241882
+merck says melanoma drug meets goal; study halted $mrk URL,negative,0.49769580364227295
+rt AT_USER merck announces new $10b stock repurchase program. $mrk,positive,0.9353052973747253

@@ -1,0 +1,3 @@
+sentence,label,score
+$sny: should you take a chance with pfizer? URL,positive,0.7827112674713135
+"""AT_USER allergan $agn said to explore sale to sanofi-aventis $sny, johnson &amp; johnson $jnj instead of valeant $vrx - bloomberg""",positive,0.8345845341682434

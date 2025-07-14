@@ -1,0 +1,21 @@
+sentence,label,score
+"cat caterpillar, inc. quotes
+URL
+
+$cat $bby $hznp $sds #cat #investing #nasdaq",positive,0.8758888244628906
+"cat caterpillar, inc. financials
+URL
+
+$cat $mnkd $uco $aveo #cat #tradeideas #share",positive,0.8380924463272095
+"cat cameco corp. open
+URL
+
+$cat $twtr $rusl $xle #cat #investing #share",positive,0.8703047633171082
+"iyr real estate ishares ask
+URL
+
+$iyr $upro $bidu $cat #iyr #investing #nasdaq",positive,0.8496663570404053
+"wmt wal-mart stores, inc. quotes
+URL
+
+$wmt $dal $jnug $cat #wmt #finance #stock",positive,0.7383899092674255

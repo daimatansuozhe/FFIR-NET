@@ -1,0 +1,11 @@
+sentence,label,score
+"$wmt short sales updated friday, february 20, 2015 12:11:33 pm $cste $ibm $dbe $uco URL",negative,0.7382422089576721
+talented blonde ceo kristen benz: target won't raise wages just yet $tgt $wmt  URL via AT_USER #target has canada issue,positive,0.8792254328727722
+what the “foodie” revolution means for consumer goods: URL $wfm $hain $wmt #organic #restaurants URL,positive,0.8290992379188538
+"$tsla recent news updated friday, february 20, 2015 07:59:24 am $myec $gold $sgg $wmt URL",positive,0.8561004400253296
+rt AT_USER one reason wal-mart is raising pay: employee turnover. URL $wmt,positive,0.8861659169197083
+walmart raises minimum wage URL $wmt,positive,0.8486379384994507
+$wmt wal-mart stores inc raises workers wages: is the pay hike really a big deal? URL,positive,0.8089368343353271
+one reason wal-mart is raising pay: employee turnover. URL $wmt,positive,0.918785810470581
+"rt AT_USER walmart needs to ""wake up and smell the #applepay"" - AT_USER on AT_USER $wmt",positive,0.7459760904312134
+rt AT_USER nearly 40 percent of wal-mart's us workers to get pay raises URL $wmt URL,negative,0.48216819763183594

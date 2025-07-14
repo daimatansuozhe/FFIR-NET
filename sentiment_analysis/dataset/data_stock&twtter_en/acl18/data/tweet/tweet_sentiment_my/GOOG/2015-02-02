@@ -1,0 +1,5 @@
+sentence,label,score
+rt AT_USER who won the social super bowl? URL $fb $twtr $goog,positive,0.934176504611969
+"$goog: gapdn 2.72[-0.5%,fill:54%], prvcl:534.52, prvlo:515.52, pdaygp+, alltfs+, bigflt:574m, p$vol:1158.87m; tlm:1.9; ilm:2.7",positive,0.5516173839569092
+find active and helpful professional daytraders stock traders here URL $goog $aapl $qqq URL,positive,0.9213104248046875
+rt AT_USER me buy every dip.. $goog $fb $aapl $amzn $biib,positive,0.8767629861831665

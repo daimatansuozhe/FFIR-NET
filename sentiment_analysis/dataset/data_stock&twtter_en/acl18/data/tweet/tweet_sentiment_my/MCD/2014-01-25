@@ -1,0 +1,3 @@
+sentence,label,score
+$mcd daily 93.00 the big number here URL,positive,0.8473554253578186
+mcdonald's says its restaurants have gotten too complicated $mcd URL,negative,0.6921647191047668

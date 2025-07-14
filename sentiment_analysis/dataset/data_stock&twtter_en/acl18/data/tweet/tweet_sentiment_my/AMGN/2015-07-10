@@ -1,0 +1,22 @@
+sentence,label,score
+"mcrb seres therapeutics, inc. market cap
+URL
+
+$mcrb $amgn $ddd $pep #mcrb #stockmarket #stocks",positive,0.8315992951393127
+"fnma federal national mortgage shares
+URL
+
+$fnma $scty $nvax $amgn #fnma #tradeideas #stocks",positive,0.6637536883354187
+"poetf poet technologies inc. ask size
+URL
+
+$poetf $fslr $amgn $intc #poetf #invest #finance",positive,0.7637077569961548
+"amgn amgen, inc. investor opinions
+URL
+
+$amgn $cop $jpm $slv #amgn #stockmarket #tradeideas",positive,0.9144688844680786
+"$xlb percent change updated thursday, july 9, 2015 7:06:56 pm $smn $baba $amgn $pvsp URL",positive,0.7651504874229431
+"gild gilead sciences, inc. current price
+URL
+
+$gild $amgn $bx $drt.to #gild #stockmarket #stocks",positive,0.8040924668312073

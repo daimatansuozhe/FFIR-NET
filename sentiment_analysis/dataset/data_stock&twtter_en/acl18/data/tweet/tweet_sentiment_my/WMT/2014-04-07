@@ -1,0 +1,3 @@
+sentence,label,score
+$wmt narrowed smoker discounts still seen as unhealthy URL,positive,0.7539854645729065
+"rt AT_USER #tyson recalls over 75,000 pounds of frozen nuggets $tsn $wmt  URL",negative,0.8105825185775757

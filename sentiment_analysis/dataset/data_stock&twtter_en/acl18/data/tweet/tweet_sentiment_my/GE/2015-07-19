@@ -1,0 +1,8 @@
+sentence,label,score
+"rt camaleon2040: $twtr twitter inc URL     
+
+$aapl $bac $fb $spy $ge $baba $nflx $c $fe $tsla… URL",positive,0.7567703723907471
+"$twtr twitter inc URL    
+
+$aapl $bac $fb $spy $ge $baba $nflx $c $fe $tsla $f $t $uwti $rad $gild $vxx $ua #fx",positive,0.7747377753257751
+"URL via AT_USER mccain called 15k us citizens ""crazies"" u AT_USER are pathetic.AT_USER AT_USER AT_USER $ge $t AT_USER AT_USER AT_USER $nflx",positive,0.5909237265586853

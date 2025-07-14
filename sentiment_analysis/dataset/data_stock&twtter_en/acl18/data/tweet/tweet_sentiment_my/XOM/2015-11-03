@@ -1,0 +1,12 @@
+sentence,label,score
+"$xom active, relative volume: 11.19, 1h, 1:00 am, #nyse $spy $dji URL … … … URL",positive,0.8154525756835938
+"rt AT_USER biib biogen inc. tick
+URL
+
+$biib $msci $xoma $xom #biib #stockmarket #stockmarket",positive,0.9378167986869812
+"myec myecheck, inc. message board posts
+URL
+
+$myec $axp $fxi $xom #myec #stocks #investnat nordic american tanker…",positive,0.772558867931366
+"$xom - correction to chevron, exxon cut spending URL",negative,0.7630366086959839
+"$xom active, relative volume: 11.19, 1h, 1:00 am, #nyse $spy $dji URL … … … … … … … … … … URL",positive,0.7813150882720947

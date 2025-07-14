@@ -1,0 +1,8 @@
+sentence,label,score
+"earnings:
+mon $aa, $apol
+tues $csx, $prgs
+wed $svu, $wabc
+thu $intc, $jpm, $tsm
+fri $blk, $wfc, $c, $pnc",positive,0.8633459210395813
+wells fargo upgraded by goldman sachs to buy. URL $wfc #wfc,positive,0.9533379077911377

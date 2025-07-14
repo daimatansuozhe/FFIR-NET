@@ -1,0 +1,14 @@
+sentence,label,score
+"intc top news - jan 13th, 2016 $intc URL",positive,0.960680365562439
+"rt AT_USER tech earnings season officially kicks off tomorrow with intel.
+here's what to expect:
+URL
+$intc URL",positive,0.8807468414306641
+"intc invensense inc. news
+URL
+
+$intc $wfc $bce.to $cmrx #intc #finance #nasdaq",positive,0.8821266293525696
+"slw silver wheaton corp. exchange
+URL
+
+$slw $dis $sbfm $intc #slw #stocks #stock",positive,0.7958612442016602

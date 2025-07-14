@@ -1,0 +1,3 @@
+sentence,label,score
+rt AT_USER 'AT_USER chief of finance told AT_USER why he's not worried about #amazon URL AT_USER $amzn $ups,negative,0.7190477252006531
+will 2016 be #ups's worst year yet? URL  $ups $fdx $amzn,positive,0.6224479079246521

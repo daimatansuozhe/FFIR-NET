@@ -1,0 +1,4 @@
+sentence,label,score
+breaking: $gs $jpm $bp #china $spy $msft #cnbc $es $spx $appl $ba $amzn #japan #reuters #germany #uk #france #news URL,positive,0.8966315984725952
+create watchlist to track major constituents of #nasdaq 100 $rds $bp $azn URL,positive,0.8710265159606934
+$bp - bp says carbon charge needed to make renewables cost competitive URL,positive,0.7253350615501404

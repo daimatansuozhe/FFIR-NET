@@ -1,0 +1,9 @@
+sentence,label,score
+"zwb.to  market cap
+URL
+
+$zwb.to $yri.to $pot.to $wmt  #stocks #tradeideas",positive,0.8405629992485046
+rt AT_USER wal-mart cuts more staff at headquarters $wmt URL,negative,0.8139384984970093
+rt AT_USER wal-mart cuts more staff at headquarters $wmt URL,negative,0.8139384984970093
+wsj: wal-mart cuts more staff at headquarters $wmt URL,negative,0.8342434167861938
+"rt AT_USER wal-mart stores, inc. (nyse:wmt) lays off more employees at headquarters URL $wmt $amzn $baba",negative,0.6358246207237244

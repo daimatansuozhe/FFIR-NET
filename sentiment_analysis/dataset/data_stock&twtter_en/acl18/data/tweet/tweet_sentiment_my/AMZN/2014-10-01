@@ -1,0 +1,4 @@
+sentence,label,score
+#amazon and disney back together $amzn URL,positive,0.8269257545471191
+rt AT_USER which states make you pay an amazon sales tax: URL $amzn URL,positive,0.6590670347213745
+"moving to alaska #byefelicia ""AT_USER which states make you pay an amazon sales tax: URL $amzn URL",positive,0.7801752090454102

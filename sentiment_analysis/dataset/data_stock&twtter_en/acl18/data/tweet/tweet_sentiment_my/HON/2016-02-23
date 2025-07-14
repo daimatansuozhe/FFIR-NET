@@ -1,0 +1,14 @@
+sentence,label,score
+"AT_USER AT_USER AT_USER david, ask him how many job cuts, plant/office closings would occur with a $hon $utx merger?",negative,0.7336598038673401
+"rt AT_USER exclusive » united technologies ceo on potential merger between $utx and $hon: ""you just can't get this deal done""
+URL",positive,0.8906591534614563
+honeywell: regulation not an obstacle to united tech merger URL $hon $utx,positive,0.5264679193496704
+"$amda percent change updated tuesday, february 23, 2016 09:59:23 am $efa $ko $hon $dust URL",positive,0.7327635884284973
+"$hyg recent news updated tuesday, february 23, 2016 12:59:24 pm $vlo $spxl $cenx $hon URL",positive,0.8667415976524353
+"$gps, $hd, $hon stocks look to consumer for direction with key data in focus - URL → via AT_USER",positive,0.917163074016571
+"rt AT_USER just in: $utx confirms it engaged in ""preliminary, exploratory"" $hon talks, didn't proceed due to various issues. URL",negative,0.5030167102813721
+"if $hon gets a $utx deal done, faber should get a cut of the investment banking fee.",negative,0.548272430896759
+"aig american intl group, inc. stock forum
+URL
+
+$aig $hon $cm.to $oclr  #stockmarket #investing",positive,0.875644326210022

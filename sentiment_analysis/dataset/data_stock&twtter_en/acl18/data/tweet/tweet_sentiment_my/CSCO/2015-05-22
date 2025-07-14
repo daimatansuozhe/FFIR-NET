@@ -1,0 +1,15 @@
+sentence,label,score
+"csco csx corp. change
+click here -&gt; URL
+
+trending $csco $ge $udn $mmm #csco #nasdaq #invest",positive,0.894914984703064
+"am_alerts: $csco active, relative volume: 5.03, 1h, 4:00 pm, #nasdaq $dji $ndx $spyURL",positive,0.8720269203186035
+"dxj wisdom tree japan hedged equity 52wk low
+click here -&gt; URL
+
+trending $dxj $ery $csco $isrg #dxj #share #finance",negative,0.532102108001709
+"$aapl financials updated thursday, may 21, 2015 8:59:22 pm $gpro $xlu $csco $fcx URL",positive,0.8419718146324158
+"rlgy realogy holdings corp. stock message board
+click here -&gt; URL
+
+trending $rlgy $cmg $csco $fcel #rlgy #stock…",positive,0.8629329800605774

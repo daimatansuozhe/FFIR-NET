@@ -1,0 +1,3 @@
+sentence,label,score
+"block trade: $intc 1,500,000 shares @ $31.30 [14:43:44]",positive,0.6473492383956909
+"your down prediction for $intc on 2/17/2015 was correct.  the price change was: -8.88%, AT_USER",negative,0.7339991927146912

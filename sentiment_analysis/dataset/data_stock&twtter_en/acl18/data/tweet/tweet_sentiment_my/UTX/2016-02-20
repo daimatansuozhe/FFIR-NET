@@ -1,0 +1,3 @@
+sentence,label,score
+"rt AT_USER $wtw stock price updated friday, february 19, 2016 6:59:25 pm $tvix $utx $splv $lsg URL",positive,0.8583282828330994
+"rt AT_USER carrier employees react to layoff, jobs moving to mexico URL #usa $utx #nafta #tpp #ttip #tisa",negative,0.5612947344779968

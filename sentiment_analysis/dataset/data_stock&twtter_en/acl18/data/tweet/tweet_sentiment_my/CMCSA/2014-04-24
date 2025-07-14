@@ -1,0 +1,3 @@
+sentence,label,score
+#stock market reports on stocks like $cmcsa $syk $clr $slw goto URL,positive,0.7433564066886902
+$tivo $nflx $cmcsa tivo turns positive after firm suggests netflix consider takeover: full story URL,positive,0.9759159088134766

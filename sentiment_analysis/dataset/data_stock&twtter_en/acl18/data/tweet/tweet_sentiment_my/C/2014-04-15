@@ -1,0 +1,9 @@
+sentence,label,score
+"rt AT_USER u.s. dollar cost of funds index, april 14, 2014 $bac $c $jpm $wfc #bonds  URL via AT_USER",positive,0.6437303423881531
+$c: higher costs drag on northern trust earnings URL,negative,0.5179334878921509
+$c - european markets steadying after last week's heavy losses URL,positive,0.9321669936180115
+citigroup just hit a home run URL $c,positive,0.8326941132545471
+#stocks to hold onto $c $dei $ir $feye visit URL,positive,0.8947721719741821
+earnings preview - goldman sachs q1 2014 URL $bac $c $jpm $ms $wfc $gs,positive,0.9400315880775452
+rt AT_USER citigroup saves the market $biib $c $nflx  URL,positive,0.9184237718582153
+$c should you consider citigroup? URL,positive,0.5352088809013367

@@ -1,0 +1,9 @@
+sentence,label,score
+"canf can-fite biopharma ltd. short sales
+URL
+
+$canf $wmt $tza $bas #canf #stocks #investing",negative,0.7027508616447449
+"exk endeavour silver corp. news
+URL
+
+$exk $x $wmt $hot #exk #invest #nasdaq",positive,0.7684323787689209

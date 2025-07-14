@@ -1,0 +1,5 @@
+sentence,label,score
+$amzn &lt;study the charts&gt; the k.i.s.s. version : URL,positive,0.6166462898254395
+"$amzn stock quote, 1:45pm: 377.505 -0.985 (-0.260%).",positive,0.41085612773895264
+$amzn now closed up/down past 9 days.,negative,0.7703790068626404
+$amzn - read this before you quit on cable URL,positive,0.6720200181007385

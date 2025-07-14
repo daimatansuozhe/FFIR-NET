@@ -1,0 +1,4 @@
+sentence,label,score
+check this #finsev $msft $csco $dd URL,positive,0.8850958347320557
+cisco set to report on wednesday URL $csco,positive,0.9501938819885254
+$csco earnings and revenue per employee trends #cml URL,positive,0.7492167353630066

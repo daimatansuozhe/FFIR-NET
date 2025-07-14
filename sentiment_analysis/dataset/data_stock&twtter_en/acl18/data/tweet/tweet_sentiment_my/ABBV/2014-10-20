@@ -1,0 +1,4 @@
+sentence,label,score
+abbvie target of unusually high options trading $abbv URL,positive,0.8832148909568787
+"rt AT_USER $abbv $shpg abbvie, shire announce termination of proposed merger: full story URL",positive,0.714399516582489
+"rt AT_USER abbvie, shire halt merger talks. URL $abbv $shpg",positive,0.5079278945922852

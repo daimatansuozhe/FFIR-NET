@@ -1,0 +1,7 @@
+sentence,label,score
+"-lo quiero
++serían 1785 u$d
+-... deme la caja de 6 colores, por favor URL",positive,0.48212796449661255
+"rt AT_USER #preguntasrevolucionarias si maduro firmo 56 acuerdos con cuba por 1.259 millones de u$d que abarcan agricultura, salud,porque…",neutral,0.523661196231842
+"según el  banco muncial la deuda externa argentina del periíodo 2010-2014 u$d 136.271.863 m
+URL",positive,0.441069632768631

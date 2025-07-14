@@ -1,0 +1,16 @@
+sentence,label,score
+"not today $spy not today, everything is a sell $fb $twtr $aapl $goog $baba $gild $sndk $amzn $tsla other than bear $etf 's.",negative,0.5019975900650024
+"here, read this first!  mot g phone is the most successful smart phone...ever!
+URL $s $goog $googl",positive,0.9293100833892822
+"rt AT_USER the power of visual data: apple, twitter and fang URL
+
+$aapl $fb $twtr $amzn $goog $nflx URL",positive,0.8157728910446167
+"rt AT_USER the power of visual data: apple, twitter and fang URL
+
+$aapl $fb $twtr $amzn $goog $nflx URL",positive,0.8157728910446167
+rt AT_USER understanding the stock market URL $aapl $goog $nflx $bac $twtr $shak $t $cat $fb $amzn $msft URL,positive,0.8421139717102051
+rt AT_USER watch: hello? it's google calling. #google opens cheap cell service #projectfi $goog $googl URL URL,positive,0.8440386652946472
+#google ( $goog) docs and sheets get ipad pro support but still can't do split view. read more: URL,positive,0.8332107067108154
+"#google ( $goog) docs and sheets add limited ipad pro support, still no multitasking. read more: URL",negative,0.4667423963546753
+rt AT_USER 1 tech stock to hold forever -the motley fool URL AT_USER #google $goog #investing #tech h…,positive,0.8009058237075806
+#google ( $goog) patches remote execution flaws in android. read more: URL,negative,0.553448498249054

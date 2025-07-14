@@ -1,0 +1,3 @@
+sentence,label,score
+rt AT_USER shares of medtronic halted for news pending. $mdt,negative,0.8349843621253967
+#medtronic files 8k - regulation fd URL $mdt,positive,0.5889356136322021

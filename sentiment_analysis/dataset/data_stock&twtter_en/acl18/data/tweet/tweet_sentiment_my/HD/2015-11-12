@@ -1,0 +1,9 @@
+sentence,label,score
+"hd home depot, inc. short sales
+URL
+
+$hd $jwn $mu $gm #hd #stocks #share",negative,0.7224443554878235
+"lvs las vegas sands corp. day high
+URL
+
+$lvs $ma $xop $hd #lvs #share #share",positive,0.9090961813926697

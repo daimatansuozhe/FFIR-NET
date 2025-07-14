@@ -1,0 +1,25 @@
+sentence,label,score
+"mdxg mimedx group, inc. last price
+URL
+
+$mdxg $ugaz $drv $xom #mdxg #nasdaq #invest bosocial",positive,0.8070328235626221
+"baba bank of america corp. exchange
+URL
+
+$baba $swks $twtr $xom #baba #stockmarket #stocks",positive,0.7028691172599792
+"xom exxon mobil corp. p/e ratio
+URL
+
+$xom $cde $luv $crus #xom #invest #tradeideas",positive,0.8445759415626526
+"ibb biotech ishares stock forum
+URL
+
+$ibb $vglt $xom $bx #ibb #invest #investing",positive,0.8651798963546753
+"stock_forums : aa alcoa, inc. message board posts
+URL
+
+$aa $xom $ge $… URL URL",positive,0.7769124507904053
+"uco proshares ultra dj-ubs crude oil dividend
+URL
+
+$uco $xom $dia $cde #uco #invest #pennystocks",positive,0.8679361343383789

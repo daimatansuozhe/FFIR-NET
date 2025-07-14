@@ -1,0 +1,18 @@
+sentence,label,score
+rt AT_USER $bmy $0.39 and $4.1b also beats top and bottom - trifecta w/ $pfe $mrk,positive,0.9639890789985657
+cnbcnow: merck q3 eps $0.96 adj. vs. $0.91 est.; q3 revs. $10.073b vs. $10.080b est. • $mrk quote: URL,positive,0.9093289971351624
+"rt AT_USER anti-pd1 war continues...
+
+$bmy opdivo q3 ww sales:   $305m beat $238m consensus
+
+$mrk keytruda q3 ww sales:  $159m miss $…",negative,0.5633660554885864
+"rt AT_USER eps beats across the board for pharma this am:
+$mrk 96c vs 91c est
+$pfe 60c vs 51c est
+$bmy 39c vs 35c est
+pfe bmy both up …",positive,0.95707106590271
+"rt AT_USER ""people see what these i/o drugs are doing and they see that's just the beginning of what we can do as an industry"" -- $mrk…",positive,0.652019202709198
+"rdsh roadships holdings, inc. prev close
+URL
+
+$rdsh $utx $mrk $hyg #rdsh #finance #stock",positive,0.8254517316818237

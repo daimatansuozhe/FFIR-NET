@@ -1,0 +1,4 @@
+sentence,label,score
+insider trading updates on $adbe $pld $ma $rt #singedinvestor rate_limit_exceeded,positive,0.8445872068405151
+$ma: mastercard inc (nyse:ma) to establish subsidiary in russia URL,positive,0.9286860227584839
+$ma: mastercard concludes acquisition of pinpoint URL,positive,0.9058315753936768

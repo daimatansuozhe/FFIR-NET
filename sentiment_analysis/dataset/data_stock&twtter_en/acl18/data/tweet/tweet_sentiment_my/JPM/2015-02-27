@@ -1,0 +1,9 @@
+sentence,label,score
+"$jpm:
+
+new sec filing for jpm: form 424b2 (no. 0000891092-15-001664):
+
+URL",positive,0.6281970739364624
+"$jpm new sec document(s) for jpmorgan chase &amp; co.
+from our stock news alerts app",positive,0.7814458608627319
+why you can be wrong on direction with bull puts URL $jpm $ba $bac,negative,0.7275771498680115

@@ -1,0 +1,7 @@
+sentence,label,score
+check out the serious #meat in the new #mcdonalds sirloin #burger URL AT_USER $mcd,positive,0.8580560088157654
+"$mcd mcdonald's plans to introduce three ""sirloin third pound"" burgers for a limited time starting later this month",positive,0.7027890086174011
+mcdonald's shareholders: 2 top wall street analysts are talking $mcd URL,positive,0.7653498649597168
+"rt AT_USER chart: when people voluntarily quit their job, it puts upward pressure on employment cost.
+
+$tgt $mcd #economics URL",negative,0.5755460858345032

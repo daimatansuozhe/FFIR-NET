@@ -1,0 +1,4 @@
+sentence,label,score
+new sec filing for $ge filed a moment ago: URL URL,positive,0.7070363163948059
+rt AT_USER barronsonline: china’s role in helping industrials regain their footing: URL $ge $tex $joy $trn $b…,positive,0.944533109664917
+honeywell: one word - margin expansion URL $ge $hon,positive,0.9612281322479248

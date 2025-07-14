@@ -1,0 +1,23 @@
+sentence,label,score
+"vrx valeant pharmaceuticals intl, inc. short sales
+URL
+
+$vrx $t $hd $hyg #vrx #share #tradeideas",negative,0.6556826233863831
+"eem ishares msci emerging markets change
+URL
+
+$eem $sh $t $stz #eem #pennystocks #finance",positive,0.7256534099578857
+at&amp;t inc (t) management presents at barclays global technology brokers conference (transcript) URL $t,positive,0.8640964031219482
+"vea vanguard europe pacific etf market cap
+URL
+
+$vea $smn $nvda $t #vea #stocks #finance",positive,0.7775306105613708
+rt seekingalpha: dropping kinder morgan for a stock with quality URL $jnj $kmi $aapl $pg $t $vz,negative,0.8397935628890991
+"URL
+new we$t$ide $id $ingle....",positive,0.7841657400131226
+"hou.to ishares iboxx high yield corporate bond fund day high
+URL
+
+$hou.to $bib $jnk $t.to #hou.to #stockmarket…",positive,0.8724749088287354
+"radio tizzy
+on my late night playli$$$t &lt;3 URL",positive,0.9083458781242371

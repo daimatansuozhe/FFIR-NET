@@ -1,0 +1,3 @@
+sentence,label,score
+$mine this won't be a #penny #stock come next week $soda $sbux $twtr $fb $goog $aapl $loco $tkmr $nflx $p $siri  URL,positive,0.5388981103897095
+"predict on $goog (URL ""hong kong court says tycoon can sue google"" URL #pwst URL",negative,0.6500638127326965

@@ -1,0 +1,9 @@
+sentence,label,score
+"$intc $baba:
+
+the 52-week low club for friday:
+
+URL",negative,0.7701713442802429
+rt AT_USER $intc - intc at critical level on weekly - URL,positive,0.844414234161377
+"AT_USER closing these $intc puts out for $0.50/sh, 78% profit.",positive,0.7288273572921753
+rt AT_USER $mu $intc a value play or value trap from here? URL,positive,0.8131324648857117

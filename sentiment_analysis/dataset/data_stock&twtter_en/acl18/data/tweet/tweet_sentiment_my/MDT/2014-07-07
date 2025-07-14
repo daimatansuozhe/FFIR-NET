@@ -1,0 +1,4 @@
+sentence,label,score
+$qcom should you buy $fds $mdt $clf #singedinvestor rate_limit_exceeded,positive,0.853660523891449
+#stock watchlist you should be looking at $stt $ilmn $mdt $slw #stockmarket URL,positive,0.7322793006896973
+#pennystock research on $vlo $mdt $intc $ir give it a try URL,positive,0.8652157187461853

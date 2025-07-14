@@ -1,0 +1,5 @@
+sentence,label,score
+"rt AT_USER amgen’s blincyto likely to get ema nod in relapsed/refractory ph-b-
+all, but label may be more restrictive $amgn",negative,0.5034000277519226
+follow #nasdaq 100 traders &amp; track their tweets under one watchlist $amgn $qcom URL URL,positive,0.9152153134346008
+"$amgn $celg $gild news: ""cowen: in #biotech earnings we trust $aegr $alxn $amgn …"" URL  analyze: URL",positive,0.8448253273963928

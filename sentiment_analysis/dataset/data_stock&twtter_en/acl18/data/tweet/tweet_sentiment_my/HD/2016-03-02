@@ -1,0 +1,5 @@
+sentence,label,score
+"is $v a good stock to buy?
+URL
+$cvx, $hd, $intc, $c",positive,0.9745324850082397
+"capitol report: the media is frightened of donald trump, says #homedepot ( $hd)'s ken langone . read more: URL",positive,0.5009690523147583

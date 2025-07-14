@@ -1,0 +1,7 @@
+sentence,label,score
+$lmt says u.s. approves its $9 billion takeover of #sikorsky URL,positive,0.947055459022522
+"rt AT_USER ""why are deadly weapons being sold? .. sadly, the answer, as we all know, is simply for money"" 
+
+#popeindc $lmt $noc
+h…",positive,0.5881766080856323
+.AT_USER approves lockheed-sikorsky deal. $lmt AT_USER has more for pro defense. URL,positive,0.8020250797271729

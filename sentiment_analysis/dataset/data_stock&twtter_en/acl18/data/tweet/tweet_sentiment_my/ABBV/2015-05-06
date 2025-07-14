@@ -1,0 +1,6 @@
+sentence,label,score
+"abbv abbvie inc. bid
+click here -&gt; URL
+
+trending $abbv $v $tza $flws #abbv #stocks #investing",positive,0.9429700970649719
+rt AT_USER abbvie inc makes mega bond offering to fund pharmacyclics deal - URL $abbv $pcyc URL,positive,0.8561424016952515

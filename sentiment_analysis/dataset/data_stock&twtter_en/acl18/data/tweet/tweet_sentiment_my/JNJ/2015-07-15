@@ -1,0 +1,20 @@
+sentence,label,score
+"baba alibaba group holding ltd. short sales
+URL
+
+$baba $jnj $tsla $tna #baba #stock #stockmarket",negative,0.7907590866088867
+"jnj johnson &amp; johnson open
+URL
+
+$jnj $cxr.to $kre $smh #jnj #invest #pennystocks",positive,0.8262863159179688
+$jnj 20150821 block trade: 7364 trade. ~$74.1 mm notional value.,neutral,0.8957528471946716
+"loving this (3 of 3)
+$jnj revenue fell 12.2 percent to $6.4 billion for medical devices
+URL
+because they really suck :o)",negative,0.759777307510376
+"jnj johnson &amp; johnson open
+URL
+
+$jnj $dnrg $fcx $jazz #jnj #investing #share",positive,0.872509777545929
+zacks lowers johnson &amp; johnson to hold $jnj URL,negative,0.6012787222862244
+"$mu last price updated wednesday, july 15, 2015 09:59:22 am $c $c $btu $jnj URL",positive,0.7517291903495789

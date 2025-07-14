@@ -1,0 +1,8 @@
+sentence,label,score
+"$bac:
+
+crude’s rally: what’d you miss? (full show 02/03):
+
+URL",negative,0.7878426313400269
+why access a ticker when you can access a group of tickers $bbry $gpro $bac URL,positive,0.8140244483947754
+$12 de objetivo para entrarle a $bac URL,positive,0.6482436656951904

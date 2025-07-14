@@ -1,0 +1,5 @@
+sentence,label,score
+$csco are you holding $apd $dds $feye #financialnews URL,positive,0.865638017654419
+"$csco cisco systems, inc. (csco) news: cisco's turnaround is a pipe dream: 
+cisco systems, inc. (csco) news: c... URL",positive,0.7951372265815735
+$csco - tech stocks: tech stocks overcome early losses URL,positive,0.6013100147247314

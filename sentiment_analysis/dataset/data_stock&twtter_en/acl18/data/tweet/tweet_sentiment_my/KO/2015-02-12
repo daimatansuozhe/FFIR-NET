@@ -1,0 +1,4 @@
+sentence,label,score
+"$ge stock price updated wednesday, february 11, 2015 9:11:12 pm $fnma $grcu $cste $ko URL",positive,0.8466676473617554
+the coca-cola co. earnings: coke revenue stabilizes; now for the hard part - URL $ko #stockmarket #stocks #headlines,positive,0.9359131455421448
+"$sltd stock price updated thursday, february 12, 2015 06:07:16 am $hsp $ko $ewg $celg URL",positive,0.869691014289856

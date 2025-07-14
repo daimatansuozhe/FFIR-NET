@@ -1,0 +1,4 @@
+sentence,label,score
+piper jaffray reaffirms overweight rating for celgene $celg URL,positive,0.9783267378807068
+$celg new 8-k URL,positive,0.9038209319114685
+anacor pharmaceuticals: the devil you don't know URL $celg $nvs $prgo $regn $vrx $pfe $anac,negative,0.5691898465156555

@@ -1,0 +1,11 @@
+sentence,label,score
+"$bac we need an activist!
+URL",positive,0.828220546245575
+$bac bot calls expiring tomorrow $16 strike paid .05,positive,0.8180997371673584
+"$bac bank of america settles currency-rigging lawsuit: 
+bank of america settles currency-rigging lawsuit
+reute... URL",negative,0.47257882356643677
+"rt AT_USER bank of america: the first quarter wasn't a hit, get over it URL $bac",negative,0.6981143951416016
+rt AT_USER lots of great new research posts &amp; charts up on the site: URL $spy $oih $xle $xlf $c $gs $bac $amzn $pc…,positive,0.9460188150405884
+$bac headcount »  and moar to come URL,positive,0.9132485389709473
+rt AT_USER AT_USER $bac does have a pulse!!!,positive,0.7397767305374146

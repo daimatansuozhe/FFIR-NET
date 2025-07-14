@@ -1,0 +1,8 @@
+sentence,label,score
+"$d:
+
+dominion resources, inc. (d) issues fy15 earnings guidance:
+
+URL",negative,0.7459771633148193
+"AT_USER buenas, gana 1000 u$d con la pelea del siglo checalo URL",positive,0.5742355585098267
+"AT_USER hola, gana 1000 u$d con la pelea de hoy pruebalo URL",positive,0.5759597420692444

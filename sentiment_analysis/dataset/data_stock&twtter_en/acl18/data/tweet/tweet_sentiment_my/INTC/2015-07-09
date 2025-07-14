@@ -1,0 +1,29 @@
+sentence,label,score
+"$appf appfolio inc URL
+
+ $aapl $fb $bac $nflx $bbry $intc $t $feye $mu $sbux $jnj $tsla $msft… URL",positive,0.8137819766998291
+"$intc $ctl:
+
+active stocks investor's alert: intel corporation (nasdaq:intc ...:
+
+URL",positive,0.795247495174408
+intel earns “overweight” rating from piper jaffray $intc URL,positive,0.9721361994743347
+intel to lose android tablet share despite mobile cpu gains URL $intc URL,negative,0.8186920881271362
+"rt AT_USER #stocks $siri $msft $intc $mu
+
+join the #1 #pennystocks network on earth!
+👉 URL
+
+AT_USER URL",positive,0.7540812492370605
+"rt AT_USER #stocks $siri $msft $intc $mu
+
+join the #1 #pennystocks network on earth!
+👉 URL
+
+AT_USER URL",positive,0.7540812492370605
+"rt AT_USER #stocks $siri $msft $intc $mu
+
+join the #1 #pennystocks network on earth!
+👉 URL
+
+AT_USER URL",positive,0.7540812492370605

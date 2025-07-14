@@ -1,0 +1,11 @@
+sentence,label,score
+AT_USER great call on $twtr! any idea why $bac &amp; $c flounder or fall each day while the rest of bank stocks seem to always rise?,positive,0.9340494275093079
+"[key gainers &amp; losers]
++ $bac 3.3% 1/11/2023 +0.7%
++ $hsbc 2.35% 3/5/2020 +0.6%
+- $act 4.55% 3/15/2035 -0.6%
+
+URL",positive,0.5561474561691284
+"$bac telexfree lawsuit names bank of america, pricewaterhousecoopers: 
+telexfree lawsuit names bank of america... URL",negative,0.5924248099327087
+"bank of america corp, citigroup inc, state street corp: good news for big banks? $bac URL",positive,0.9677495360374451

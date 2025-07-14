@@ -1,0 +1,8 @@
+sentence,label,score
+"rt AT_USER #earnings this week: $mcd, $race, hal (jan 25), $aapl, $t, $pg (jan 26), $ba, $fb (jan 27), $msft, $f, $baba (jan 28),…",positive,0.8870493769645691
+"rt AT_USER $mcd $aapl $ba $biib $fb $ebay
+$pypl $vrtx $lvs $crus $baba
+$ua $cat $celg $amzn $msft
+$ea $amgn $swks $ftnt $stx URL",positive,0.8134655356407166
+cloud growth will be the focus when microsoft reports q2 fy16 earnings URL $msft,positive,0.8323742151260376
+rt AT_USER microsoft's stock ($msft) has been on the up-and-up since nadella took over in feb 2014 URL,positive,0.7661747932434082

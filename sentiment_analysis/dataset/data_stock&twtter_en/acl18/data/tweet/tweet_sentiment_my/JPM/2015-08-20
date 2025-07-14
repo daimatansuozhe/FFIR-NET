@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER jpmorgan is about to start mining employees' emails for patterns $jpm $gs URL URL,positive,0.6267483234405518
+rt AT_USER jpmorgan is about to start mining employees' emails for patterns $jpm $gs URL URL,positive,0.6267483234405518
+"after 3,000% gains in the past year, we have a new pick for you today! check it out: URL $lvs $jpm $mhys",positive,0.945771336555481

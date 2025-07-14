@@ -1,0 +1,17 @@
+sentence,label,score
+"hhse hannover house, inc. chart
+URL
+
+$hhse $xcd.to $pvsp $wfc #hhse #invest #investing",positive,0.8205149173736572
+"hd home depot, inc. ask size
+URL
+
+$hd $fv $wfc $cat #hd #invest #stocks",positive,0.8250487446784973
+"1luckyjimmy: ko coca cola co. e.p.s.
+URL
+
+$ko $dow $wfc $admd #ko #tradeideas #finance read m… URL",positive,0.6922156810760498
+"wfc wells fargo &amp; co. message board posts
+URL
+
+$wfc $prnex $vois $tmd.to #wfc #invest #finance",positive,0.874294638633728

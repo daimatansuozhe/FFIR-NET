@@ -1,0 +1,8 @@
+sentence,label,score
+rt AT_USER understanding the stock market URL $aapl $goog $nflx $bac $twtr $shak $t $cat $fb $amzn $msft URL,positive,0.8421139717102051
+"rt AT_USER microsoft, salesforce among winners as ’3rd platform’ replaces it, says clsa - tech trader daily - $msft $crm URL",positive,0.8791628479957581
+#microsoft ( $msft) epic games' tim sweeney: universal windows platform must die. read more: URL,negative,0.6164816617965698
+#microsoft ( $msft) celebrates international women's day with #makewhatsnext campaign. read more: URL,positive,0.87603360414505
+#microsoft ( $msft) celebrates international women's day with #makewhatsnext campaign. read more: URL,positive,0.87603360414505
+"don't worry, AT_USER gamers! not every #xboxone game is coming to pc $msft URL URL",negative,0.5192097425460815
+"slipping stocks: general electric company (ge), microsoft corporation (msft) URL $msft",positive,0.5863069891929626

@@ -1,0 +1,9 @@
+sentence,label,score
+"rergx regen biopharma inc. yield
+URL
+
+$rergx $utx $rrpix $aapl #rergx #finance #stock",positive,0.867409348487854
+"utx powershares db us dollar index bullish fund shares
+URL
+
+$utx $noc $rsx $rsp #utx #stocks #stock",positive,0.9457810521125793

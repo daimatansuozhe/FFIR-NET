@@ -1,0 +1,21 @@
+sentence,label,score
+"dis walt disney co. volume
+URL
+
+$dis $clf $bis $uri #dis #investing #nasdaq",positive,0.7831000089645386
+"wmt wal-mart stores, inc. day high
+URL
+
+$wmt $dis $weat $fxe #wmt #pennystocks #share",positive,0.8824186325073242
+"dis walt disney co. ex-div date
+URL
+
+$dis $amba $gpro $vdsi #dis #finance #stockmarket",positive,0.7607111930847168
+"c citigroup, inc. shares
+URL
+
+$c $dis $pcln $agen #c #tradeideas #invest",positive,0.7988683581352234
+"cop conocophillips ideas
+URL
+
+$cop $kmx $amzn $dis #cop #investing #pennystocks",positive,0.8910727500915527

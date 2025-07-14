@@ -1,0 +1,21 @@
+sentence,label,score
+"xbi spdr s&amp;p biotech index etf quotes
+URL
+
+$xbi $edz $ko $nflx #xbi #pennystocks #finance",positive,0.8690401911735535
+"fsphx fidelity select health care bid size
+URL
+
+$fsphx $sh $ko $agco #fsphx #stock #investing",positive,0.8471340537071228
+"rt stockaced: ko coca cola co. current price
+URL
+
+$ko $cent $cvc $ua #ko #pennystocks #nasdaq",positive,0.6801864504814148
+"mmsi merit medical systems, inc. % change
+URL
+
+$mmsi $xlk $uso $ko #mmsi #nasdaq #finance",positive,0.7140287756919861
+"ko coca cola co. bid size
+URL
+
+$ko $xli $xlp $dis #ko #invest #stockmarket",positive,0.867324948310852

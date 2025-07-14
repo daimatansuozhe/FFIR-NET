@@ -1,0 +1,4 @@
+sentence,label,score
+"intc top news - sep 14th, 2015 $intc URL",positive,0.9535323977470398
+"our stock picks have gained over 1,000% in 2 months! see our new picks: URL $cmcsa $intc $amgn",positive,0.9740787148475647
+"why another amd buyout makes sense, but is unlikely URL $intc #briankrzanich #intel $nvda $amd $msft",positive,0.8505868315696716

@@ -1,0 +1,7 @@
+sentence,label,score
+"$orcl:
+
+windward capital management company increases position in …:
+
+URL",positive,0.9635530710220337
+edge wealth management reduces stake in oracle co. $orcl URL,negative,0.7818437218666077

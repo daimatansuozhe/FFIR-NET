@@ -1,0 +1,14 @@
+sentence,label,score
+"ge general electric co. yield
+click here -&gt; URL
+
+trending $ge $ctix $atvi $itb #ge #stock #share",positive,0.9343658685684204
+"$eem investor opinions updated sunday, may 10, 2015 08:10:06 am $ge $snp $admd $rsp URL",positive,0.7609699964523315
+"prsc providence service corp. exchange
+click here -&gt; URL
+
+trending $prsc $vti $mstx $ge #prsc #nasdaq #stockmarket",positive,0.9235491752624512
+"swks skyworks solutions inc. 52wk low
+click here -&gt; URL
+
+trending $swks $cybr $ge $eem #swks #tradeideas #investing",positive,0.5237253308296204

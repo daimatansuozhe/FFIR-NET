@@ -1,0 +1,11 @@
+sentence,label,score
+"healthcare calendar
+
+m: $enta
+t: $regn $sny $sgen
+w: $myl
+t: $alny $incy $shpg $teva
+
+#bioceo16 #leerink
+
+full list: URL",positive,0.7486823201179504

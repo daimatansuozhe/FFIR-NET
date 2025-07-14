@@ -1,0 +1,8 @@
+sentence,label,score
+"$aapl news: ""which stock will be taken out and shot next? $amzn $ibm $nflx …"" URL board view: URL",positive,0.809927225112915
+"retw qp_technology: $ibm news: ""which stock will be taken out and shot next? $amzn $ibm $nflx …"" ... URL",positive,0.8302929401397705
+"stocks with implied volatility above iv index mean; dish $dish 50, URL $amzn 42",positive,0.9566888213157654
+rt AT_USER can you legally yell 'fire' in a crowded $amzn store?,positive,0.44822758436203003
+"after massive gains on penny stock picks, another new pick is coming! check it out: URL $amzn $mcox $goog",positive,0.9556859731674194
+AT_USER $amzn is reporting earnings for q3 2014 on 10/23/14 – URL,positive,0.7244815826416016
+AT_USER $amzn is reporting earnings for q3 2014 on 10/23/14 – URL,positive,0.7244815826416016

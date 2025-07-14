@@ -1,0 +1,14 @@
+sentence,label,score
+"AT_USER AT_USER AT_USER AT_USER AT_USER 
+:$:$:$d&lt;3e&lt;3g&lt;3n&lt;3a&lt;3 URL",positive,0.8780390620231628
+rt AT_USER l$d URL,positive,0.7524978518486023
+rt AT_USER l$d URL,positive,0.7524978518486023
+"rt AT_USER gym por mes:
+4 clases: $280
+8 clases: $350
+12 clases: $500
+para poder subir foto en cuero a instagram: u$d 3248",negative,0.4564071297645569
+rt AT_USER AT_USER deberias  explicar donde estan los u$d 14 millardos que te robaste para la limpieza del rio guaire URL,neutral,0.4009242057800293
+rt AT_USER AT_USER deberias explicar  donde estan los u$d 14 millardos que te robaste para la limpieza del rio guaire URL,neutral,0.4009242057800293
+"rt AT_USER evasión impositiva , compra a su nombre por 8 millones de u$d ( a justificar con sus bienes) a la sombra sin escala  URL",neutral,0.4057259261608124
+rt AT_USER l$d URL,positive,0.7524978518486023

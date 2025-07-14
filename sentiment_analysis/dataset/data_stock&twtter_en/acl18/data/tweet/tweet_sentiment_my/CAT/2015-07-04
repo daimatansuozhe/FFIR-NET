@@ -1,0 +1,17 @@
+sentence,label,score
+"fb facebook, inc. shares
+URL
+
+$fb $cat $xle $bcrx #fb #stocks #share",positive,0.8434205055236816
+"cat caterpillar, inc. exchange
+URL
+
+$cat $xly $mhys $bp #cat #stocks #stockscb chubb corp. eod data…",positive,0.7377588152885437
+"tlt total fina elf sa last trade
+URL
+
+$tlt $nem $cat $sh #tlt #stock #nasdaqtot tesla motors inc. open…",positive,0.762919008731842
+"cat caterpillar, inc. day high
+URL
+
+$cat $blta $hack $gd #cat #finance #stock",positive,0.9127165675163269

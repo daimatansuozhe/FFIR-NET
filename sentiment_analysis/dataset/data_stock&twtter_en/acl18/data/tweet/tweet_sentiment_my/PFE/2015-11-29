@@ -1,0 +1,10 @@
+sentence,label,score
+"pfe pfizer, inc. e.p.s.
+URL
+
+$pfe $hd $fb $payc #pfe #finance #tradeideas URL",positive,0.8064871430397034
+"rt AT_USER $pfe news: ""pfizer-allergan merger: more than a u.s. tax dodge? (video) $pfe $agn"" URL  analyze: URL",positive,0.8822512626647949
+"jjc ipath bloomberg copper subindex total return etn chart
+URL
+
+$jjc $fxb $hd $pfe #jjc #nasdaq #pennystocks",positive,0.8535335659980774

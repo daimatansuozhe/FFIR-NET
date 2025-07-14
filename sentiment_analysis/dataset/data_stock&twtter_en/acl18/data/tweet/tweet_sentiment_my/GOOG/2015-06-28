@@ -1,0 +1,10 @@
+sentence,label,score
+"rt AT_USER avav aerovironment inc. eod data
+URL
+
+$avav $goog $goog $ko #avav #tradeideas #nasdaq",positive,0.8618742227554321
+"mcd mcdonalds corp. ask size
+URL
+
+$mcd $goog $aryc $cree #mcd #stocks #tradeideas",positive,0.8003330230712891
+"rt AT_USER access curated tweets- high relevancy, less spam- us tech giants URL $aapl $goog $msft $fb $twtr",positive,0.7722857594490051

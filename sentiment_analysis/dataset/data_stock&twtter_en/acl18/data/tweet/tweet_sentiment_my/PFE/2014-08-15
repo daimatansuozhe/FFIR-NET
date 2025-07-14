@@ -1,0 +1,3 @@
+sentence,label,score
+dow #stocks trend $ba $mrk $dis $hd $cat $trv $pg $msft $jnj $ge $utx $ko $jpm $mmm $nke $intc $dd $pfe $t $v  @ URL,positive,0.8718045353889465
+"rt AT_USER digital transformation moves pharma ""beyond the pill"".. URL $pfe #biotech #stocks",positive,0.8862041234970093

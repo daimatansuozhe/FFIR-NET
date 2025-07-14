@@ -1,0 +1,5 @@
+sentence,label,score
+synovus financial corp raises stake in alibaba group holding ltd $baba URL,positive,0.9594944715499878
+"watching $baba chop between 70.86 and 73, i want 72 entry on friday and a 75 target next week URL",positive,0.8734477758407593
+"chances are 50-50 alibaba buys groupon or yahoo, blogger speculates $baba $grpn $vz URL via AT_USER",positive,0.8468155264854431
+"""the fake sales call into question the volume of transactions conducted on alibaba’s platforms"" $baba AT_USER URL",negative,0.7492368817329407

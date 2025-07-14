@@ -1,0 +1,13 @@
+sentence,label,score
+"$pfe prepared to risk a 3% breakup fee for chance at $agn, sources tell reuters URL #pharma",positive,0.6224425435066223
+rt thestreet: deal talk! pfizer $pfe is in advanced talks to buy allergan $agn URL,positive,0.9151604771614075
+"my scenario for the $agn $pfe deal will be jack lew will scare everyone out before deal, then a deal, then an offer from another company.",negative,0.4841859042644501
+rt AT_USER #pfizer nears $150b-ish deal to buy #allergan. $pfe $agn URL,positive,0.926469624042511
+rt AT_USER $pfe said to near acquisition of $agn in biggest drug deal URL via AT_USER AT_USER AT_USER,positive,0.9056913256645203
+"pfizer and allergan negotiating break-up fee as high as $4.5b, shrugging off regulatory risk of potenti... URL $pfe $agn",positive,0.8569573163986206
+"deals of the day:$pfe, $agn in final innings of all-stock deal URL URL",positive,0.9051206111907959
+$pfe URL,positive,0.842293381690979
+"abx barrick gold corp. ideas
+URL
+
+$abx $amba $pfe $xlp #abx #stocks #pennystocks",positive,0.8233727216720581

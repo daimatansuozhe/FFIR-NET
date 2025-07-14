@@ -1,0 +1,32 @@
+sentence,label,score
+"cgnx cognex corp. market cap
+URL
+
+$cgnx $c $anas $fxp #cgnx #invest #investing",positive,0.8203912377357483
+"$ocls target $5.70, 250% upside, 2 articles on earnings beat $c $brkb $regn investors read URL URL",positive,0.9638879895210266
+"altr altera corp. ask
+URL
+
+$altr $colv $alny $c #altr #tradeideas #stockmarket",positive,0.8724495768547058
+"wfc wal-mart stores, inc. message board posts
+URL
+
+$wfc $hznp $clf.to $c #wfc #finance #stocks",positive,0.8333152532577515
+"c citigroup, inc. last trade
+URL
+
+$c $aig $sil $gmcr #c #finance #stock",positive,0.7843150496482849
+i agree so much. i would never buy a bank stock! URL $bac $gs $c,positive,0.8257225751876831
+"rt AT_USER chart ➡ URL
+
+bank earnings
+$wfc
+$jpm
+$fnma
+$bac
+$c
+$usb
+$pnc
+$bmo
+
+#cml $study",positive,0.8500580787658691

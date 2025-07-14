@@ -1,0 +1,19 @@
+sentence,label,score
+$pfe - senators seek ftc probe of saline shortage URL,negative,0.6092638373374939
+rt AT_USER $bmy $0.39 and $4.1b also beats top and bottom - trifecta w/ $pfe $mrk,positive,0.9639890789985657
+$pfe pfizer reports third-quarter 2015 results URL,positive,0.8384736180305481
+"$pfe pops 1.8% to 34.79 in early prem trading on posting q3 eps 0.60 vs estimate 0.51, revenue 12.1b vs consensus estimate 11.56b",positive,0.9126147627830505
+"$pfe ceo: ""there has been an adjustment in price in some specialty cos... but not sure their expectations have adjusted"" for where to sell",positive,0.7734343409538269
+"rt AT_USER took $pfe and $shpg off this morning, wouldn't mind returning to the latter.  holding $bax yet, quarter looked strong",positive,0.8900007605552673
+$pfe - senators urge ftc probe into saline solution price inflation URL,negative,0.7228868007659912
+"rt AT_USER #breaking: pfizer $pfe q3 revenue, $12.09b vs. $11.56b expected #breaking",positive,0.9468573331832886
+[correction] $pfe returns rights to #biosimilar rituximab (ct-p10) and trastuzumab (ct-p6) back to celltrion; URL,positive,0.8168256878852844
+"rt AT_USER eps beats across the board for pharma this am:
+$mrk 96c vs 91c est
+$pfe 60c vs 51c est
+$bmy 39c vs 35c est
+pfe bmy both up …",positive,0.95707106590271
+"$pfe recently decided not to advance
+xeljanz for #crohn’s disease and ankylosing spondylitis.
+
+$celg $glpg $incy $lly $abbv",positive,0.615574300289154

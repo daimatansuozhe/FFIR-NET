@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER l$d,positive,0.7499744892120361
+l$d,positive,0.677925705909729
+rt AT_USER l$d,positive,0.7499744892120361

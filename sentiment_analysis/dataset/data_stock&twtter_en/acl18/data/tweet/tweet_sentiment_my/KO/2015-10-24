@@ -1,0 +1,20 @@
+sentence,label,score
+"rt AT_USER #stocks
+reportes para la semana:
+$hog
+$vz
+$yhoo
+$ba
+$ko
+$biib
+$gm
+$axp
+$ebay
+$mcd
+$msft
+$amzn
+$googl
+$t
+$aal
+#mercados",positive,0.825375497341156
+what you need to know about the biggest #startup in #tampabay URL   $ko AT_USER #soda,positive,0.7844622135162354

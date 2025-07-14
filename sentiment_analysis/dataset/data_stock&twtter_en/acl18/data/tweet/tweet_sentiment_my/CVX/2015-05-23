@@ -1,0 +1,17 @@
+sentence,label,score
+"bosocial: leahanneta: intc intel corp. volume
+URL
+
+$intc $cat $cvx $jnk #intc #nasdaq #stock … URL",positive,0.7607792615890503
+"jpm j.p. morgan chase &amp; co. news
+URL
+
+$jpm $cop $aapl $cvx #jpm #stocks #nasdaqk.to kinross gold corp. stock message…",positive,0.8226197957992554
+"cvx chevron corp. ask
+URL
+
+$cvx $qld $t $swks #cvx #stockmarket #invest",positive,0.8137780427932739
+"cvx deere &amp; co. ask size
+URL
+
+$cvx $admd $tvix $gild #cvx #share #pennystocks",positive,0.8678616285324097

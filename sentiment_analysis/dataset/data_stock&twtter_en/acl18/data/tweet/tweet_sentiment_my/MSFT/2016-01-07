@@ -1,0 +1,5 @@
+sentence,label,score
+"microsoft just saved my life. newest outlook senses when your email contains ""attachment"" but you forget to attach a file! $msft",positive,0.7927449941635132
+"#stock #news why shares of the habit restaurants, inc. dropped in 2015: what  shares of t... URL $mu $msft $tsla $amd",negative,0.8266817331314087
+"f&amp;v capital management sells 3,845 shares of microsoft co. $msft URL",positive,0.6578474044799805
+"lawrence b. cohen sells $5,785,000 in microsoft co. $msft shares URL #acn",positive,0.6146814227104187

@@ -1,0 +1,3 @@
+sentence,label,score
+rt AT_USER dow stocks oversold and breaking down URL $aapl #apple $axp $ba $cat $csco $cvx $dd $dis $ge $gs $hd $…,positive,0.5140695571899414
+rt AT_USER fedex expects improved margins via fleet modernization efforts URL $ba $tntef $fdx,positive,0.9763268232345581

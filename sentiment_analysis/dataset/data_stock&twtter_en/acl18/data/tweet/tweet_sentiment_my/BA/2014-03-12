@@ -1,0 +1,10 @@
+sentence,label,score
+URL top investors long herbalife: cnbc's kate kelly reports some of the... URL $psid $ba $aapl $spy,positive,0.8639684319496155
+$ba - malaysian air said to opt out of boeing plan to share jets’ data -&gt; URL #stock #stocks #stockaction,positive,0.7248802185058594
+$ba the boeing company (nyse:ba) will sew patches on 787 wings if need be ... URL,negative,0.5523935556411743
+$ba stock update: the boeing company (nyse:ba) – spicejet places leap-1b ... URL,positive,0.7891180515289307
+"djia - top losers: $ko 38.38  -1.10% 
+$ba  124.48  -0.95% 
+$hd 80.63  -0.82% 
+$vz  46.37  -0.72% 
+$axp 92.62  -0.63%",negative,0.6788226366043091

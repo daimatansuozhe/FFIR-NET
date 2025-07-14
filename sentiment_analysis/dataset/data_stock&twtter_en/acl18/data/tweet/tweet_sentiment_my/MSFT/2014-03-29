@@ -1,0 +1,3 @@
+sentence,label,score
+AT_USER  URL mar 28 most active: $spy $bac $bbry $eem $fb $fxi $siri $iwm $csco $znga $gdx $msft $xlf $c $qqq $mu $f,positive,0.879596471786499
+rt AT_USER apple gets a 30% cut of office for ipad sales: URL (via AT_USER $aapl $msft,negative,0.8691187500953674

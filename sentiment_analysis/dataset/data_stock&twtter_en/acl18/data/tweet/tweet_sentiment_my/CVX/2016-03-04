@@ -1,0 +1,3 @@
+sentence,label,score
+rt AT_USER oil &amp; gas having one of best days in recent memory $bp $cop $cpe $cvx $xom $sdrl $pbr $line URL URL,positive,0.9451937675476074
+"rt AT_USER notable opening imbalances: $bac +462k, $c +132k, $jcp +122k, $cvx -54k, $pep -46k, $baba -73k",positive,0.48956099152565

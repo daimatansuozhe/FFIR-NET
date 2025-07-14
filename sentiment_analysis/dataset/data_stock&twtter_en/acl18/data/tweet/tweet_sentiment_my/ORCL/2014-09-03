@@ -1,0 +1,62 @@
+sentence,label,score
+"rt AT_USER biggest u.s. tech companies founded by 1st/2nd gen immigrants:
+
+1 $aapl
+2 $goog
+3 $ibm
+4 $orcl
+5 $fb
+6 $amzn
+7 $qcom
+8 $emc…",positive,0.8400184512138367
+"rt AT_USER biggest u.s. tech companies founded by 1st/2nd gen immigrants:
+
+1 $aapl
+2 $goog
+3 $ibm
+4 $orcl
+5 $fb
+6 $amzn
+7 $qcom
+8 $emc…",positive,0.8400184512138367
+"rt AT_USER biggest u.s. tech companies founded by 1st/2nd gen immigrants:
+
+1 $aapl
+2 $goog
+3 $ibm
+4 $orcl
+5 $fb
+6 $amzn
+7 $qcom
+8 $emc…",positive,0.8400184512138367
+"rt AT_USER biggest u.s. tech companies founded by 1st/2nd gen immigrants:
+
+1 $aapl
+2 $goog
+3 $ibm
+4 $orcl
+5 $fb
+6 $amzn
+7 $qcom
+8 $emc…",positive,0.8400184512138367
+"rt AT_USER biggest u.s. tech companies founded by 1st/2nd gen immigrants:
+
+1 $aapl
+2 $goog
+3 $ibm
+4 $orcl
+5 $fb
+6 $amzn
+7 $qcom
+8 $emc…",positive,0.8400184512138367
+#volumeshiftup $infi $emc $giii $orcl $vmw $tol $isns $nav $qcom $abbv #quantheta,positive,0.9043172597885132
+"rt AT_USER biggest u.s. tech companies founded by 1st/2nd gen immigrants:
+
+1 $aapl
+2 $goog
+3 $ibm
+4 $orcl
+5 $fb
+6 $amzn
+7 $qcom
+8 $emc…",positive,0.8400184512138367

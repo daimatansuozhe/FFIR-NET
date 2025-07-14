@@ -1,0 +1,6 @@
+sentence,label,score
+"a agilent technologies, inc. last price
+URL
+
+$a $googl $uso $cat #a #pennystocks #share URL",positive,0.7995150089263916
+"$cat news updated wednesday, august 26, 2015 12:07:41 pm $swks $cf $tcel $mrk URL",positive,0.7980606555938721

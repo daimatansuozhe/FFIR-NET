@@ -1,0 +1,9 @@
+sentence,label,score
+"rt AT_USER aria ariad pharmaceuticals, inc. exchange
+URL
+
+$aria $intc $fbiox $jcp #aria #pennystocks #stocks",positive,0.7072908282279968
+"abmd abiomed, inc. p/e ratio
+URL
+
+$abmd $gpro $vrsk $intc #abmd #pennystocks #stocks",positive,0.8023602366447449

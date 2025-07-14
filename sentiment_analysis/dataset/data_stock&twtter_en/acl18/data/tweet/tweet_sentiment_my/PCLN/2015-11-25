@@ -1,0 +1,10 @@
+sentence,label,score
+"yfi.v zendesk, inc. stock forum
+URL
+
+$yfi.v $pcln $csco $nugt #yfi.v #stockmarket #nasdaq",positive,0.7685776352882385
+"pcln URL inc. exchange
+URL
+
+$pcln $sso $xsu.to $gdxj #pcln #stock #stockmarketpfe pfizer, inc.…",positive,0.7859331369400024
+$pcln $pcln URL ~ via URL,positive,0.8882315754890442

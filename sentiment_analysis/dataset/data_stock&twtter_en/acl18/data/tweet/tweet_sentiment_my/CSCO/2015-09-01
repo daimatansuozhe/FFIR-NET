@@ -1,0 +1,4 @@
+sentence,label,score
+"$csco $ibm news: ""ibusiness, iprograms: apple stretches its legs $aapl $csco $ibm"" URL  analyze: URL",positive,0.7027351260185242
+"$aapl news: ""ibusiness, iprograms: apple stretches its legs $aapl $csco $ibm"" URL  analyze: URL",positive,0.6387190222740173
+1-star analyst pierre ferragu from bernstein reiterated a buy on $csco. pierre has a -1.4% avg rtrn URL #nasdaq #stocks,positive,0.9077057242393494

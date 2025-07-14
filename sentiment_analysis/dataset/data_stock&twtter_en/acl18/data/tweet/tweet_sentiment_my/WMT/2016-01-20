@@ -1,0 +1,14 @@
+sentence,label,score
+"fslr first solar inc. shares
+URL
+
+$fslr $infy.in $w $wmt #fslr #tradeideas #pennystocks",positive,0.8906198143959045
+"jpm j.p. morgan chase &amp; co. last trade
+URL
+
+$jpm $wmt $wfc $adtn #jpm #stockmarket #stocks",positive,0.8384095430374146
+wal-mart confirms more than 1 million associates to receive pay increase in 2016 $wmt via AT_USER URL,positive,0.9096569418907166
+"intc intel corp. day high
+URL
+
+$intc $wll $nugt $wmt #intc #finance #nasdaq",positive,0.9157166481018066

@@ -1,0 +1,12 @@
+sentence,label,score
+"rt AT_USER at one point today, the stock market looked like this heatmap: URL
+
+$aapl $tsla $cvx $jnj URL",positive,0.5743132829666138
+johnson  &amp; johnson upgraded by vetr inc. to buy. $105.00 pt. URL $jnj #jnj,positive,0.9691693782806396
+johnson &amp; johnson $jnj position maintained by cacti asset management URL,positive,0.9551497101783752
+rt AT_USER $jnj URL pot. resume downtrend in pullback longerterm wly-dly-hly combo chart #stocks #trading URL,negative,0.7113800644874573
+".AT_USER AT_USER
+#massive and growing list of $jnj #lawsuits
+please #shut #down #jnj!
+URL
+$bac",positive,0.5048490762710571

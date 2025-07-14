@@ -1,0 +1,6 @@
+sentence,label,score
+rt AT_USER novartis gets bragging rights on first u.s. biosim. but will its neupogen copy sell? URL $nvs  #pharma…,positive,0.7992854118347168
+"AT_USER $nvs your tweet has been featured on market parse, for iphone. URL",positive,0.6756508946418762
+rt AT_USER novartis wins landmark approval for a biosimilar of amgen's neupogen. URL by AT_USER $nvs $amgn,positive,0.9699216485023499
+$nvs wins approval for first u.s. #biosimilar drug - $amgn seeking to block launch | AT_USER URL,positive,0.8916322588920593
+"$amgn news: ""fda clears first biosimilar #premarket $nvs $amgn …"" URL board view: URL",positive,0.9267971515655518

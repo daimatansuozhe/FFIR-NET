@@ -1,0 +1,18 @@
+sentence,label,score
+"rt wrigleytom: early movers: 
+
+$bbry $finl $spls $googl $aapl
+$pypl $box $mmm $odp $ko $big
+$intc $nke $pir $bbby … URL",positive,0.8900051116943359
+"stx seagate technology holdings, inc. market cap
+URL
+
+$stx $mmm $fgen $pcln #stx #finance #financesvxy proshares…",positive,0.7023009657859802
+"bidu baidu, inc. open
+URL
+
+$bidu $nflx $mmm $ewj #bidu #stocks #invest",positive,0.8341360688209534
+"cvx chevron corp. bid
+URL
+
+$cvx $mmm $ocrx $jnk #cvx #investing #investing",positive,0.9091338515281677

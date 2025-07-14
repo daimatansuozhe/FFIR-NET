@@ -1,0 +1,10 @@
+sentence,label,score
+rt AT_USER what the street is saying about celgene revlimid win - URL - $celg URL,positive,0.9161405563354492
+"hon ishares iboxx high yield corporate bond fund prev close
+URL
+
+$hon $xlrn $liqd $celg #hon #nasdaq #tradeideashyg…",positive,0.907597541809082
+"xlrn utilities select sector spdr e.p.s.
+URL
+
+$xlrn $celg $qld $hon #xlrn #stockmarket #invest",positive,0.828662097454071

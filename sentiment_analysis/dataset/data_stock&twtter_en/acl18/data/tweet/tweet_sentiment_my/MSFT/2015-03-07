@@ -1,0 +1,7 @@
+sentence,label,score
+#tech #stocks $msft microsoft  daily:-1.74% weekly:-3.4% ytd:-8.81% trend:10 / 100  URL,negative,0.5678907632827759
+"AT_USER
+subscribed to $msft
+to add another: subscribe $symbol AT_USER
+
+to unsubscribe: unsubscribe $symbol AT_USER",positive,0.7929855585098267

@@ -1,0 +1,4 @@
+sentence,label,score
+whats going on with $wy $flt $wmt $arna #stockmarket URL,positive,0.849524736404419
+$wmt minnesota raises minimum wage URL,positive,0.7210382223129272
+"$wmt wal-mart, wild oats aim to disrupt the organic food industry URL",negative,0.8014704585075378

@@ -1,0 +1,11 @@
+sentence,label,score
+"atvi activision blizzard inc. ask size
+URL
+
+$atvi $cat $goog $qid #atvi #share #stocks",positive,0.8354827761650085
+AT_USER $cat #cramerq,positive,0.9110497236251831
+sentishiftup $ea $nok $ltc $ceo $cat #fintech #finserv URL 20160115-10:00,positive,0.7604958415031433
+"tan guggenheim solar etf day high
+URL
+
+$tan $spxl $cat $ewt #tan #tradeideas #finance",positive,0.9414912462234497

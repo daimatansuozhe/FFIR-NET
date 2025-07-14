@@ -1,0 +1,3 @@
+sentence,label,score
+"$hd filings updated friday, may 1, 2015 11:59:21 am $lnkd $nbix $xlf $gg URL",positive,0.8056825399398804
+"$hd news: ""has home depot maxed its potential? $hd"" URL  analyze: URL",positive,0.8716731071472168

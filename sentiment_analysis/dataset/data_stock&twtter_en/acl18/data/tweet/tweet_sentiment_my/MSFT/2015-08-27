@@ -1,0 +1,4 @@
+sentence,label,score
+"rt AT_USER microsoft is suddenly dangerous to apple and google URL
+
+$msft $aapl $googl URL",negative,0.7872966527938843

@@ -1,0 +1,12 @@
+sentence,label,score
+"stocks trending now: URL 
+
+$fv $swks $celg $xrt $slv $slw $mdy $aks $uup $agen $qid $edc ~",positive,0.8758702874183655
+"#celgene(pbr381) to buy priv cancer discovery co #quanticel pharmaceuticals, $100m + up to $385m URL $celg #acquisition",positive,0.9639008045196533
+"rt AT_USER big earnings wk in #biotech #pharma 
+
+tue $bmy $mrk $pfe $uthr
+
+wed $vrx | $vrtx
+
+thu $celg $sny $shpg $teva $acor $bmrn $…",positive,0.9371375441551208

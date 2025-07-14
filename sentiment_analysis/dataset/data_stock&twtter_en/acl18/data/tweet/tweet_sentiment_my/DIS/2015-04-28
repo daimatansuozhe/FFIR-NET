@@ -1,0 +1,18 @@
+sentence,label,score
+"4/28/15 s&amp;p 500: +0.28%
+green: $spy $dd $xom $cvx $vz $ma $wfc $jpm $bac $ibm $ge $jnj $mcd
+red: $v $m $pep $txn $pg $pfe $ko $cmg $dis $shw",positive,0.9020062685012817
+AT_USER $dis cablevision becomes first pay tv provider to offer hulu URL,positive,0.8811089396476746
+#sentishiftdown $pbr $qqq $ibb $dis $amrn $mdca $gdxj $cldx $icpt $akrx #sentiquant 20150428 09:25:04:390,positive,0.8166333436965942
+"rt AT_USER stark industries going public? 
+#avengersageofultron
+(nyse: $dis) URL",positive,0.7137978076934814
+"rt AT_USER stark industries going public? 
+#avengersageofultron
+(nyse: $dis) URL",positive,0.7137978076934814
+"connor bruggeman schooltrader made $300,000 and he is only 17! URL  $dis $alxn $noah $gild $qunr",negative,0.4986532926559448
+"$dis $nflx:
+
+espn sues verizon communications inc. (vz) over skinny bundle ...:
+
+URL",negative,0.7837640047073364

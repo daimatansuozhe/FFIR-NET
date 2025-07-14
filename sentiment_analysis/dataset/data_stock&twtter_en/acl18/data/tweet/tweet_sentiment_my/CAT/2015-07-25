@@ -1,0 +1,18 @@
+sentence,label,score
+most popular tweets: $amzn $aapl $fb $biib $twtr $sbux $nflx $goog $cat $regn #nasdaq #nyse #stocks #trading #tren… URL,positive,0.8245521783828735
+"nflx nike inc. bid size
+URL
+
+$nflx $rig $dis $cat #nflx #invest #investing",positive,0.9302803874015808
+"googl google inc. - class a p/e ratio
+URL
+
+$googl $cat $pbr $gld #googl #finance #investing URL",positive,0.8090469241142273
+"cat caterpillar, inc. volume
+URL
+
+$cat $gm $ewz $aem #cat #stock #pennystocks",positive,0.809832751750946
+"dbc db commodities tracking index fund current price
+URL
+
+$dbc $iyr $ry.to $cat #dbc #stock #nasdaq",positive,0.8075156211853027

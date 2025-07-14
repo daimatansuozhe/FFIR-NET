@@ -1,0 +1,4 @@
+sentence,label,score
+"popular: $agn, $pfe, $gme, $dwti, $cldx, $mnk, $bx, $cmtl, $tour, $pnra, $pep, $tsl, $ba, $dwre, $pg",positive,0.7672942876815796
+rt AT_USER britain is stepping up defense spending to help combat #isis and russia URL $ba AT_USER URL,positive,0.9445127844810486
+boeing is trading at a discount of 31.0% $ba - URL URL,positive,0.6028027534484863

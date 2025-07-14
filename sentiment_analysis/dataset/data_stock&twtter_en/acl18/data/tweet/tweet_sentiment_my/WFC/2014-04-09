@@ -1,0 +1,3 @@
+sentence,label,score
+$wfc news alert:  URL  updated options view: URL  all options views: URL,positive,0.7262858748435974
+"report friday before the open --&gt; jpmorgan, wells fargo face down revenue in q1 reports URL via AT_USER  $jpm $wfc",negative,0.868330717086792

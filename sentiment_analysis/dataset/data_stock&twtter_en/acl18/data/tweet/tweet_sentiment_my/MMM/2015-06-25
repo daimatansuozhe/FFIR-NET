@@ -1,0 +1,13 @@
+sentence,label,score
+"mmm 3m co. eod data
+URL
+
+$mmm $fcx $abmd $ths #mmm #stocks #finance",positive,0.7108113765716553
+"mmm 3m co. yield
+URL
+
+$mmm $vnq $fb $xlk #mmm #share #investing",positive,0.8370225429534912
+"smh market vectors semiconductor day low
+URL
+
+$smh $mmm $baba $baa.to #smh #stockmarket #stock",negative,0.7441504001617432

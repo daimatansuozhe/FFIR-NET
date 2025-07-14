@@ -1,0 +1,8 @@
+sentence,label,score
+microsoft corporation earnings preview: here’s what really matters URL $msft,positive,0.7739067077636719
+rt AT_USER #earnings are picking up: $amzn $googl $ibm $aal $biib $ua $luv $msft $gm $vz $cmg $ba $skx URL URL,positive,0.9614083766937256
+"rt AT_USER $ibm $sonc $cmg $cree $vmw
+$yhoo $biib $ebay $mlnx $sndk
+$now $cat $fcx $dnkn $mcd $p
+$googl $msft $ftnt $amzn $ua URL",positive,0.8968819975852966
+"options action recap 10/16/15: $xli, $iwm &amp; $msft URL URL",positive,0.866626501083374

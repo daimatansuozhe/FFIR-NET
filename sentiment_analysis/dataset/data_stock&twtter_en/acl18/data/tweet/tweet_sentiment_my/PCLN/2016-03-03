@@ -1,0 +1,4 @@
+sentence,label,score
+dupont capital management corp purchases shares of 900 priceline group inc $pcln URL #acn,positive,0.8114688396453857
+"thwarted by the iphone, hackers turn to other products:  URL $aapl $goog $pcln $k",positive,0.507250964641571
+long $pcln 1290 puts.,positive,0.9443166255950928

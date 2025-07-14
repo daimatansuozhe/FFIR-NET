@@ -1,0 +1,4 @@
+sentence,label,score
+danrocks: $achn alert $nq $nvax $csco $gogo $blta URL,positive,0.8520779609680176
+#stocks you might want to sell $ntrs $csco $emr $aig #newsletter rate_limit_exceeded,positive,0.5704126954078674
+$csco - [video] 5 stocks propelling the dow -&gt; URL #stock #stocks #stockaction,positive,0.9154611825942993

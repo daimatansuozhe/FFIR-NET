@@ -1,0 +1,14 @@
+sentence,label,score
+"$bidu $msft:
+
+microsoft signs search pact with baidu in china:
+
+URL",positive,0.9584832191467285
+"$ntdoy $sne $msft:
+
+can super mario save nintendo from itself?:
+
+URL",positive,0.9225113391876221
+$msft 3 questions microsoft corporation must answer on oct. 6 URL,negative,0.5967614054679871
+$msft - microsoft signs search pact with baidu in china URL,positive,0.9618523716926575
+rt AT_USER $ibm provides insight at its business analytics conference (includes: $orcl $msft $intc $amd) URL,positive,0.9314613938331604

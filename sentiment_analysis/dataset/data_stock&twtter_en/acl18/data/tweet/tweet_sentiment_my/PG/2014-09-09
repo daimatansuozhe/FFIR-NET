@@ -1,0 +1,5 @@
+sentence,label,score
+"$pg tooth sensitivity sufferers rejoice with first-of-its-kind at-home treatment from crest(r)
+URL",negative,0.7566329836845398
+dow #stocks trend $msft $nke $mrk $ba $mmm $intc $unh $t $v $ge $jpm $ko $jnj $pfe $gs $wmt $hd $pg $utx $dis  @ URL,positive,0.8678350448608398
+a dividend #etf’s quiet ascent URL #etfs #dividends #income #yield $pfm $pg $ko $pep,positive,0.8537933230400085

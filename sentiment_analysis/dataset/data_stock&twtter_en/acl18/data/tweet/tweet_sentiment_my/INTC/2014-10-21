@@ -1,0 +1,4 @@
+sentence,label,score
+$twtr #clown  award URL AT_USER short $smh $intc ? #wtf? *show yo law degree! #transparancy -kinda a #securitieslaw!,negative,0.7314749360084534
+$intc - mce manufactures mission critical servers that include the latest haswell technology from intel URL,positive,0.8003346920013428
+$nvda hearing $intc declining to comment...,negative,0.7006053328514099

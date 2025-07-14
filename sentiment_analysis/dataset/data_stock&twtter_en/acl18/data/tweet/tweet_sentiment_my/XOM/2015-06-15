@@ -1,0 +1,13 @@
+sentence,label,score
+"carz first trust nasdaq global auto index fund day low
+URL
+
+$carz $pozn $xom $mbly #carz #nasdaq #investing",negative,0.6728376150131226
+"gild gilead sciences, inc. summary
+URL
+
+$gild $fv $aray $xom #gild #pennystocks #stock",positive,0.8120313882827759
+"avxl anavex life sciences corp. eod data
+URL
+
+$avxl $nov $jd $xom #avxl #finance #stock",positive,0.7698369026184082

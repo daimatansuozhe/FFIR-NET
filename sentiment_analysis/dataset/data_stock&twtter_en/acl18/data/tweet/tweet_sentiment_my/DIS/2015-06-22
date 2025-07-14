@@ -1,0 +1,13 @@
+sentence,label,score
+"xon intrexon corp. filings
+URL
+
+$xon $ugaz $dis $fv #xon #stockmarket #stockmarket",positive,0.8674518465995789
+"dis walt disney co. last price
+URL
+
+$dis $fisv $eca $ewc #dis #pennystocks #share",positive,0.6698786020278931
+"dis walt disney co. change
+URL
+
+$dis $bldr $intc $qrvo #dis #nasdaq #nasdaq bosocial",positive,0.7113901972770691

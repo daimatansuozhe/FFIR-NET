@@ -1,0 +1,8 @@
+sentence,label,score
+#lockheed martin : all systems go &amp;ndash; lockheed martin canada delivers mode... URL $lmt,positive,0.881050705909729
+"$lmt:
+
+stock update (nyse:lmt): lockheed wins $1.17 billion deal for …:
+
+URL",positive,0.9607886075973511
+$lmt turn left. new course 218,positive,0.6043490767478943

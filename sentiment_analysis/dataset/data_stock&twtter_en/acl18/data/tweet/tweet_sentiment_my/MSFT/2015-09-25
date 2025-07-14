@@ -1,0 +1,15 @@
+sentence,label,score
+"$googl $msft $aapl:
+
+regulatory scrutiny threatens google’s global android domination:
+
+URL",negative,0.5893292427062988
+"$aapl not the cash king? when looking just at short-term securities, $msft has lead, apple just no. 6 URL",positive,0.5874587893486023
+"$fb $msft $adbe $twtr $csco $qcom:
+
+which high-tech heavy hitters are meeting with modi in silicon …:
+
+URL",positive,0.8697661757469177
+URL &lt;-- exciting new AT_USER guru! this guy is goina be huge! $vltc $vggl $amzn $msft,positive,0.947645366191864
+"access curated tweets- high relevancy, less spam - us tech giants URL $aapl $googl $msft $fb … URL",positive,0.7810686230659485
+rt racernic: here is where it got better. look at $aapl and its homies ($msft $fb etc) . am v. now $spx $spy $ndx … URL,positive,0.9057615399360657

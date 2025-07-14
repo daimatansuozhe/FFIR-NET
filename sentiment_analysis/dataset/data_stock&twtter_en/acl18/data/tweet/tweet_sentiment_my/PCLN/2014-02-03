@@ -1,0 +1,7 @@
+sentence,label,score
+rt AT_USER account doubling system killer webinar URL $aapl $pcln,positive,0.9722847938537598
+$pcln stock date=feb-03-2014 open=1143.83 high=1151.08 low=1125.11 close=1127.42 volume=228836 URL,positive,0.6985346674919128
+rt AT_USER high performance daytrading killer webinar URL $pcln $tsla,positive,0.9479063153266907
+rt AT_USER trades produce 100% same day webinar on wednesday URL $aapl $pcln,positive,0.8793241381645203
+can superbowl commercials have an impact on stock prices? check out URL to see $pcln $ko $tm $bud,positive,0.8772481083869934
+high performance daytrading 40% returns in minutes video URL $nflx $pcln,positive,0.9432947635650635

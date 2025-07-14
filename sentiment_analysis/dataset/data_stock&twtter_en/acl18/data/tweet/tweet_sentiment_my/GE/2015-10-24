@@ -1,0 +1,10 @@
+sentence,label,score
+"slv ishares silver trust day high
+URL
+
+$slv $hyg $ge $ief #slv #invest #stockmarket",positive,0.9345040917396545
+"gg goldcorp, inc. open
+URL
+
+$gg $pfe $xlf $ge #gg #invest #stockmarket",positive,0.9312396049499512
+"$jcp short sales updated saturday, october 24, 2015 1:59:24 pm $euo $sh $axp $ge URL",negative,0.6570772528648376

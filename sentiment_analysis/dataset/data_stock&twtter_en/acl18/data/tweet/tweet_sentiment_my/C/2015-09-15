@@ -1,0 +1,8 @@
+sentence,label,score
+"our stock picks gained over 3,500% in the past year! see our new pick: URL $bmsn $c $ge",positive,0.9757840633392334
+"$gs $c:
+
+oil traders hire tanks on tiny island to profit from global glut:
+
+URL",positive,0.753871500492096
+rt AT_USER show me a guy that doesn't use a stop and i'll show you a guy still holding $c from 2007,negative,0.49121832847595215

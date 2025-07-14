@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER wall street banks are starting to throttle personal finance startups $jpm $wfc $intu URL URL,negative,0.6852301955223083
+AT_USER big gap on those two stocks today $wfc and $ms,positive,0.9093047976493835
+"our pick on $hcti more than tripled for our members, in 3 weeks! subscribe for our new picks: URL $vrs $las $c $wfc",positive,0.9705399870872498

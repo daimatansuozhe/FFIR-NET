@@ -1,0 +1,42 @@
+sentence,label,score
+"aapl apple, inc. market cap
+URL
+
+$aapl $lvs $tna $jpm #aapl #share #finance",positive,0.8441558480262756
+"jpm j.p. morgan chase &amp; co. last price
+URL
+
+$jpm $xiv $jpm $dbc #jpm #invest #nasdaq",positive,0.8174393773078918
+"$jpm:
+
+asian currencies rally as fed rate odds dip further on u.s. data:
+
+URL",positive,0.9411423802375793
+"tcs.in twitter, inc. change
+URL
+
+$tcs.in $jpm $eum $uup #tcs.in #pennystocks #stockmarket",positive,0.7802420258522034
+"jpm j.p. morgan chase &amp; co. last trade
+URL
+
+$jpm $pcln $uso $tvix #jpm #tradeideas #tradeideas",positive,0.7776743769645691
+rt AT_USER #cbsprof professor AT_USER discusses the impact of $jpm earnings URL  on AT_USER,positive,0.45467114448547363
+"our stock alerts gained over 1,900% in 2 and a half months! see our special new pick: URL $lvs $jpm $mhys",positive,0.973330020904541
+"sh skechers usa, inc. short sales
+URL
+
+$sh $zfgn $ewi $jpm #sh #stock #stock",negative,0.755082368850708
+rt AT_USER wells fargo attractive after earnings URL $bac $c $jpm $mtu $wfc,positive,0.9690977334976196
+"jpm j.p. morgan chase &amp; co. yield
+URL
+
+$jpm $labu $xle $vg #jpm #tradeideas #invest",positive,0.8550064563751221
+"g.to goldcorp inc. quotes
+URL
+
+$g.to $dd $jpm $dhi #g.to #pennystocks #stocks",positive,0.765661895275116
+weekly research analysts’ ratings changes for jpmorgan chase &amp; co. $jpm URL,positive,0.6599551439285278
+"dust direxion daily gold miners bear 3x shares % change
+URL
+
+$dust $agg $mpel $jpm #dust #stock #stocks",negative,0.48506322503089905

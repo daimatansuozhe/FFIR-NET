@@ -1,0 +1,4 @@
+sentence,label,score
+"$ba revenue is increasing. 
+chart: URL
+ #cml",positive,0.9538492560386658

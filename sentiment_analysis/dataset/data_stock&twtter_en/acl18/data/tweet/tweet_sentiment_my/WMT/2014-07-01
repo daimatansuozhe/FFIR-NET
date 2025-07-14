@@ -1,0 +1,4 @@
+sentence,label,score
+wal mart stores : universal studios home entertainment to unveil 'the class of '92'  URL $wmt,positive,0.8051289319992065
+$wmt - will a soaring dow leave defensive stocks behind? -&gt; URL #stock #stocks #stockaction,positive,0.9006780385971069
+$rol earnings news on $wmt $ocn $feye #personalfinance URL,positive,0.9022998809814453

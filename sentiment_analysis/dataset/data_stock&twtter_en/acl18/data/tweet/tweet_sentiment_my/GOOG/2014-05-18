@@ -1,0 +1,12 @@
+sentence,label,score
+"$goog: dan loeb sells blackberry, apple, yahoo; adds other tech companies URL",positive,0.7902111411094666
+"apple settles with motorola, will work with google on patent reform URL $aapl, $goog, $lnvgy, $ssnlf, $ssngy, $lnvgf",positive,0.8141149878501892
+"apple generated $43.7 billion in sales during first 3 months of 2014; more than google, amazon, and facebook combined. $aapl $goog $amzn",positive,0.9076963067054749
+"google or apple: which is the better long term bet? URL $aapl, $goog, $googl",positive,0.9685237407684326
+get research on $glw $wab $tgt  $goog #liquidity URL,positive,0.9308662414550781
+awesome #stock #research $rig $spw $mb $goog #investing URL,positive,0.9012482762336731
+$te #stock market reports on stocks like $abc $syy $goog must have URL,positive,0.7625097036361694
+"commented on: ""the awakening of sleeping giant: adt"" URL $adt $cmcsa $dtv $goog",positive,0.8280407190322876
+rt AT_USER apple and google agree to drop all lawsuits against each other: URL $aapl $goog,negative,0.7807005643844604
+rt AT_USER apple and google agree to drop all lawsuits against each other: URL $aapl $goog,negative,0.7807005643844604
+$ba buying  or selling? $tif $udr $goog #stock URL,positive,0.9109048247337341

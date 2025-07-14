@@ -1,0 +1,13 @@
+sentence,label,score
+"hd home depot, inc. news
+URL
+
+$hd $swks $intc $xly #hd #share #investing",positive,0.8650086522102356
+"kerx spdr s&amp;p midcap 400 short sales
+URL
+
+$kerx $dd $aem $hd #kerx #share #tradeideas",negative,0.7966054081916809
+"gmcr keurig green mountain, inc. stock forum
+URL
+
+$gmcr $wmgi $hd $pcln #gmcr #tradeideas #finance",positive,0.784207284450531

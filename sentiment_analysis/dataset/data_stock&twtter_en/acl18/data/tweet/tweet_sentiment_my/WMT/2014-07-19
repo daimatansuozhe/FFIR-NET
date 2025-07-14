@@ -1,0 +1,3 @@
+sentence,label,score
+$wmt:us 19jul positive news #sentiment URL #dj30,positive,0.9704431891441345
+$mdt get research on $wmt $anat $vfc #stockmarket URL,positive,0.8984341621398926

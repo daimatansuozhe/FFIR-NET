@@ -1,0 +1,5 @@
+sentence,label,score
+location estimation based upon ambient identifiable wireless signal sources $intc #h04w #h04w64 URL,positive,0.5882627367973328
+"rt AT_USER the top 10 nasdaq companies in 1999 vs. now: URL  $msft, $csco, $qcom &amp; $intc make both lists. URL",positive,0.8947332501411438
+"rt AT_USER amazing change to #nasdaq top 10: 1999 vs. 2013. $csco $intc $qcom only 1/3 market cap today, $msft 50% (AT_USER URL",positive,0.845420777797699
+avoid mistakes like $bpop $lps $intc $s #newsletter URL,positive,0.7969824075698853

@@ -1,0 +1,15 @@
+sentence,label,score
+"rt AT_USER $googl $goog $fb $yhoo 
+#النفط #تداول 
+#اوبشن #options 
+#الداو_جونز
+$yy 
+66 put op:1.20$
+17jan
+مستوي ع الاخر URL",positive,0.8548739552497864
+leahanne: $goog google inc class c (goog) 490.68 -5.49 URL,positive,0.6652148365974426
+"$goog google inc (googl) may soon open google now to third-party apps: 
+google inc (googl) may soon open googl... URL",positive,0.8511567115783691
+$goog - how apple watch could spawn wave of tech startups URL,positive,0.9121826887130737
+"chardan analyst: microsoft, google 'big losers' in las vegas $goog URL",negative,0.8587068319320679
+leahanne: $goog google inc class c (goog) 490.68 -5.49 URL,positive,0.6652148365974426

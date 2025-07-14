@@ -1,0 +1,13 @@
+sentence,label,score
+nasdaq100 #stocks trend $yhoo $ffiv $ilmn $pcar $akam $vrsk $rost $linta $googl $nflx $goog $nvda $payx $orly  @ URL,positive,0.90634685754776
+"$goog 10 yrs after: google inc ipo launched decade of big bets: 
+10 yrs after: google inc ipo launched decade ... URL",positive,0.8467708826065063
+google plans to offer accounts to children under 13 years old for the first time: URL  $goog AT_USER AT_USER,positive,0.5899357795715332
+rt AT_USER how google's search results page has changed in the past decade: URL $goog URL,positive,0.6588732600212097
+rt AT_USER here are five things you need to know about in business news today URL $goog URL,positive,0.6715234518051147
+"rt AT_USER dug deep to find this 2004-2014 search data: URL 
+
+google and yahoo neck-and-neck at $goog ipo. URL",positive,0.6729913353919983
+"rt AT_USER if you had invested $10,000 when google had its ipo 10 years ago, it would be worth $139,458.82 today. URL $goog",positive,0.7595363259315491
+"rt AT_USER this.  10 years ago, today.  a day i'll never forget... $goog URL",positive,0.7510392069816589
+rt AT_USER why google is still a growth stock: URL $goog URL,positive,0.8243475556373596

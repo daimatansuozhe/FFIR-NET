@@ -1,0 +1,7 @@
+sentence,label,score
+$cme get research on $mtd $sre $trla #wealthmanagement URL,positive,0.9036895036697388
+$sre #stock market reports on stocks like $pnc $skt $trla #liquidity URL,positive,0.7740634083747864
+$sre seeking the next stock like $hst $htz $trla #wealthmanagement URL,positive,0.9274401664733887
+$sre are you looking to buy $hst $ctl $slv view now URL,positive,0.9317301511764526
+are you putting your money in $gme $sre $hst $s try this URL,positive,0.8092848658561707
+are you considering selling $sre $tsn $fhn $gain #financial URL,positive,0.8403223156929016

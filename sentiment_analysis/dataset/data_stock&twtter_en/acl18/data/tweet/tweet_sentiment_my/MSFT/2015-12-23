@@ -1,0 +1,9 @@
+sentence,label,score
+rt AT_USER bob peck's top 10 internet investor debate topics for 2016 $aapl $amzn $baba $fb $msft $yhoo $rax $pypl $sq URL,negative,0.5252534747123718
+"rt AT_USER #talko: #microsoft's latest aqui-hire is ray ozzie's, to beef up #skype team
+ AT_USER #itbw $msft 
+URL",positive,0.9101580381393433
+"trending stocks $spy,$ge,$ewj,$msft,$qqq,$t,$intc,$fb,$baba,$ko URL",positive,0.9023976922035217
+"just released!  sogotrade’s morning call on today’s spotlight stocks $aapl$msft,$icf, $iyf,$cat, $pg, $stv, $yge     URL",positive,0.8677680492401123
+elder green URL $eem $ewj $msft $vwo $csco $baba $ko $key $vz $cvx $amj $abbv $iemg $oke $aig $xlp $cog,positive,0.9253106117248535
+video: $spy  $ewk  big etf inflows $aapl $msft #stocks URL URL,positive,0.8984901905059814

@@ -1,0 +1,4 @@
+sentence,label,score
+"$dba news updated thursday, february 11, 2016 11:59:23 am $tsla $wfc $wmt $tap URL",positive,0.8444745540618896
+the new #18 most shorted dow component: coca-cola  $ko $wmt #stocks URL,negative,0.6553930044174194
+"$xle short sales updated thursday, february 11, 2016 07:59:22 am $wmt $amzn $hyg $ag URL",negative,0.7138910889625549

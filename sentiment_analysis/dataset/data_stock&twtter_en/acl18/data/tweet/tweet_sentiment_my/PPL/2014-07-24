@@ -1,0 +1,3 @@
+sentence,label,score
+$joe #stocks you might want to buy $cat $ppl $cray #investing rate_limit_exceeded,positive,0.808228075504303
+$sivb earnings news on $jnpr $ppl $lgnd visit URL,positive,0.9409177303314209

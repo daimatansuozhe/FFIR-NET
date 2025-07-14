@@ -1,0 +1,11 @@
+sentence,label,score
+"rt AT_USER 155 years of crude oil history.
+
+on one chart: URL
+
+$uso $uwti $xom $cvx URL",positive,0.8115398287773132
+rt AT_USER play an oil recovery with etfs URL $cop $cvx $dwti $ete $line $rds.a $rds.b $sdrl $uso $uwti $xom $vde,positive,0.9480544924736023
+"aexe aim exploration inc. exchange
+see here --&gt; URL
+
+$aexe $crc $cvx #invest",positive,0.8520057797431946

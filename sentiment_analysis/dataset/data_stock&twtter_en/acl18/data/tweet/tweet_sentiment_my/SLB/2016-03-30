@@ -1,0 +1,11 @@
+sentence,label,score
+"#schlumberger limited. given ""buy"" rating at citigroup inc. read more: URL $slb",positive,0.8633484840393066
+"#schlumberger limited. given ""buy"" rating at citigroup inc. read more: URL $slb",positive,0.8633484840393066
+"cybr summary
+see here ---&gt; URL
+
+$cybr $slb $too #share",positive,0.8963029980659485
+"cybr summary
+see here ---&gt; URL
+
+$cybr $slb $too #share",positive,0.8963029980659485

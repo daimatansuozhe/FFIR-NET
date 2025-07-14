@@ -1,0 +1,10 @@
+sentence,label,score
+this will piss off a lot of mobile developers ... microsoft buys xamarin for cross-platform mobile app tooling $msft URL,positive,0.8331032395362854
+#microsoft ( $msft) stuck ads on the windows 10 lock screen (here's how to disable them). read more: URL,negative,0.5213271975517273
+"#microsoft ( $msft) buys xamarin, engineering hq expected to stay in boston area. read more: URL",positive,0.8555005192756653
+AT_USER sell $gps buy $msft,positive,0.8414080142974854
+#microsoft ( $msft) universal onedrive app and other improvements on the way. read more: URL,positive,0.9178829789161682
+#microsoft ( $msft) universal onedrive app and other improvements on the way. read more: URL,positive,0.9178829789161682
+#microsoft ( $msft) plans to back apple in court. read more: URL,positive,0.646709680557251
+#microsoft ( $msft) 'wholeheartedly' supports apple in fbi encryption case. read more: URL,positive,0.7901620268821716
+#microsoft ( $msft) officially cancels 'project astoria' plans for porting android apps to windo... read more: URL,negative,0.6693257689476013

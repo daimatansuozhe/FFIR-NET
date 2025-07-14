@@ -1,0 +1,16 @@
+sentence,label,score
+"rt AT_USER at #vidcon AT_USER just said verizon is launching ott next week. 
+$vz said late summer on qtrly call. URL",positive,0.8256845474243164
+"vz verizon communications filings
+URL
+
+$vz $xon $eog $lnkd #vz #invest #pennystocks",positive,0.8248687982559204
+$vz verizon communications inc. wireless sub base re-positioning: ubs - bidness etc URL,positive,0.9293909072875977
+"ewy exelixis, inc. last price
+URL
+
+$ewy $feye $xlb $vz #ewy #stocks #stock",positive,0.8667603135108948
+"xle energy select sector spdr last trade
+URL
+
+$xle $uup $nat $vz #xle #pennystocks #tradeideas",positive,0.8766952157020569

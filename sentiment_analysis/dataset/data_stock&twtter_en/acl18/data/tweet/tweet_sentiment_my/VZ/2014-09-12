@@ -1,0 +1,5 @@
+sentence,label,score
+"stocks with major news: $dri, $aapl, $yhoo, $tsla, $s, $jpm, $googl, $vz, $rsh, $fb, $f, $brk-b, $twtr, $jdsu, $goog, $entr",positive,0.8931126594543457
+"rt AT_USER iphone 6 plus pre-orders sold out, smaller iphone 6 still shipping on schedule URL $aapl $t $vz $s",positive,0.8940884470939636
+"iphone 6 plus pre-orders sold out, smaller iphone 6 still shipping on schedule URL $aapl, $t, $vz, $s",positive,0.8711024522781372
+state attorneys general will probe at&amp;t/directv merger! URL $s $t $vz $tmus $goog $dish $msft $aapl $ge $c $si,negative,0.5872096419334412

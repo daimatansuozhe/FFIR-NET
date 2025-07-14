@@ -1,0 +1,3 @@
+sentence,label,score
+"carroll financial associates purchases $2,170,000 in bank of america $bac shares URL",positive,0.6817163228988647
+bank of america $bac shares sold by murphy pohlad asset management URL,negative,0.4412713944911957

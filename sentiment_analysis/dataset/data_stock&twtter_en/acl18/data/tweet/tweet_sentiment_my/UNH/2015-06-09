@@ -1,0 +1,4 @@
+sentence,label,score
+"$unh unitedhealthcare fights food insecurity with donation to second harvest food bank of northwest north carolina
+URL",negative,0.5529568791389465
+pre-market news alert on: URL $gt $esi $xco $unh,positive,0.8881746530532837

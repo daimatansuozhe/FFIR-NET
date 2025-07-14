@@ -1,0 +1,10 @@
+sentence,label,score
+"your down prediction for $msft on 2/10/2015 was incorrect.  the price change was: 0%, AT_USER",negative,0.7450050711631775
+corporate credit analyst AT_USER comments on why $aapl and $msft are selling bonds: URL,positive,0.4707736372947693
+"rt AT_USER bon, c'est fait, question market cap $aapl = $goog + $msft (705mds$)",positive,0.6782395839691162
+"$msft:
+
+nadella set to change the future of microsoft corporation ...:
+
+URL",positive,0.6291763782501221
+$msft hourly chart building within a nice c&amp;h $qqq  URL,positive,0.9619578123092651

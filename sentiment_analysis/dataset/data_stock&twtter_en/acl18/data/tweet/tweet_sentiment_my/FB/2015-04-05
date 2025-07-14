@@ -1,0 +1,10 @@
+sentence,label,score
+"$vz recent news updated sunday, april 5, 2015 10:07:03 am $cbi $fnma $tip $fb URL",positive,0.8009173274040222
+disney offers a deal to fans booking another cruise  URL via AT_USER $dis $twtr $fb,positive,0.9261479377746582
+rt AT_USER something crazy 4 my followers who trade $spy  $iwm $tsla $fb $aapl $pcln $twtr $baba $yhoo $gpro $tlt $gld $gdx  URL,positive,0.6861245036125183
+"$fb revenue is increasing. 
+chart: URL
+ #cml",positive,0.9552783966064453
+rt AT_USER 30 billion messages are sent on whatsapp each day. more than the entire sms universe URL $fb URL,neutral,0.46173328161239624
+helpful video for stock options beginners!! URL $goog $aapl $googl $amzn $fb $feye $fxcm … URL,positive,0.871610164642334
+rt AT_USER 30 billion messages are sent on whatsapp each day. more than the entire sms universe URL $fb URL,neutral,0.46173328161239624

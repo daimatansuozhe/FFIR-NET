@@ -1,0 +1,6 @@
+sentence,label,score
+$jnj: barclays ups to overweight,positive,0.9673908948898315
+"rt AT_USER roche just picked up a range of potential billion dollar indications
+URL 
+$rhhby $jnj #biotech",positive,0.9441050887107849
+"barclays analyst geoff meacham assumed coverage with “overweight” rating of: johnson &amp; johnson $jnj, $115 target &amp; eli lilly $lly $95.",positive,0.9158399701118469

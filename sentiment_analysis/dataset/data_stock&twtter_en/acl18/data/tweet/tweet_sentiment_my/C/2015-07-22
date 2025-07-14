@@ -1,0 +1,10 @@
+sentence,label,score
+"c citigroup, inc. % change
+URL
+
+$c $xlp $gpro $joy #c #stockmarket #pennystocks",positive,0.7507227063179016
+"$yhoo yahoo! URL
+
+$aapl $bac $fb $spy $ge $baba $nflx $c $fe $tsla $f $t $uwti $rad $gild $vxx $ua #fx",positive,0.8497610092163086
+"our penny stock picks have gained 3,600% in 9 months! subscribe to get our future picks: URL $bmsn $c $ge",positive,0.9684258103370667
+alert: new rsi signal created on $c - sell at 60.035 - time: 17:28 - strength: 10. powered by URL,positive,0.888369619846344

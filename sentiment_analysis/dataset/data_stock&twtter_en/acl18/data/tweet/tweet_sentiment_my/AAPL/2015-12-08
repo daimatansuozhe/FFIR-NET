@@ -1,0 +1,30 @@
+sentence,label,score
+"rt AT_USER the big picture ""banta"" stocks. $btk $aapl $nyse $iyt $amzn  URL",positive,0.592753529548645
+"consumer goods sector movers: apple inc. (aapl), ford motor co. (f), avon products inc… URL $aapl",positive,0.6124593615531921
+apple inc. has a $100 clue about iphone 7 specs $aapl #apple URL,negative,0.5397902727127075
+"apple is ill-equipped in the tablet space URL $aapl, $intc, $msft",positive,0.7651761174201965
+"$bac news: ""actives on open @ cboe: $aapl $nflx $fb $hog $bac $jd $kmi $gmcr …"" URL  analyze:… URL",positive,0.8412149548530579
+rt AT_USER $invt 2 million float URL $pirs $jgw $llex $amco $sfxe $egrx $vggl $aapl $fb $msft $amzn $twtr $nflx …,positive,0.7823598384857178
+having 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL,positive,0.7943853735923767
+"aapl apple, inc. filings
+URL
+
+$aapl $tbt $chk $nem #aapl #stock #share",positive,0.8256233334541321
+"aria ariad pharmaceuticals, inc. market cap
+URL
+
+$aria $aapl $mcd $aapl #aria #stockmarket #investatvi activision…",positive,0.7686344981193542
+$luv reviews updated $gbsn $ewy $nflx $aapl URL,positive,0.9080923795700073
+*apple plans march event; new watch expected: cnbc cites report $aapl,positive,0.876758873462677
+rt AT_USER apple inc. has a $100 clue about iphone 7 specs $aapl #apple URL,negative,0.5235817432403564
+sifting the apple rumors: a new 4-inch iphone URL $tsm $aapl,positive,0.828381359577179
+"efut e-future information technology, inc. last price
+URL
+
+$efut $expe $aapl $ca #efut #pennystocks #tradeideas",positive,0.751390814781189
+$sne #sony pt $55 over 100% potential return very undervalued compared to $aapl $gpro $amzn $msft $fit $ssnlf $fb … URL,positive,0.9515972137451172
+"took profits on $aapl.
+
+i ain't a gopro - i won't be a hero. 
+
+$gpro",positive,0.5750175714492798

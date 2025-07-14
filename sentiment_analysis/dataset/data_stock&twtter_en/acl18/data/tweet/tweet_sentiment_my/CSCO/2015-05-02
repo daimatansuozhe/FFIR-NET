@@ -1,0 +1,5 @@
+sentence,label,score
+"$qcom news: ""ruckus wireless disappoints: downgrades to follow $csco #cisco…"" URL  analyze: URL",negative,0.7924402952194214
+"$csco news: ""ruckus wireless disappoints: downgrades to follow $csco #cisco…"" URL  analyze: URL",negative,0.7963099479675293
+"$csco $qcom news: ""ruckus wireless disappoints: downgrades to follow $csco #cisco…"" URL  analyze: URL",negative,0.7738640308380127
+our penny stock picks gained 1472% in 2 months! get access to our new picks early: URL $csco $orcl $intc,positive,0.9719797372817993

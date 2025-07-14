@@ -1,0 +1,9 @@
+sentence,label,score
+"wmt wal-mart stores, inc. yield
+URL
+
+$wmt $hd $insy $rcpt #wmt #stock #finance",positive,0.8070341944694519
+"jo ipath bloomberg coffee subindex total return etn news
+URL
+
+$jo $hd $smh $xlv #jo #pennystocks #finance",positive,0.8458717465400696

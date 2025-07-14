@@ -1,0 +1,19 @@
+sentence,label,score
+"vxx ipath s&amp;p 500 vix short-term futures etn message board posts
+URL
+
+$vxx $g.to $goog $soxl #vxx #pennystocks #stock",positive,0.5866888761520386
+"goog google inc. - class c investor opinions
+URL
+
+$goog $jnj $len $xle #goog #invest #invest",positive,0.8545952439308167
+"goog google inc. - class c investor opinions
+URL
+
+$goog $cvc $vvus $lag #goog #pennystocks #stock",positive,0.719145655632019
+"goog google inc. - class c financials
+URL
+
+$goog $intc $nugt $wfc #goog #tradeideas #finance",positive,0.8356898427009583
+"$aapl news: ""will ad blocking be google's kryptonite? $aapl #apple $goog $googl"" URL  analyze… URL",positive,0.6481361389160156
+google ($goog) said planning to release next-gen chromecast this month URL via AT_USER,positive,0.9163826704025269

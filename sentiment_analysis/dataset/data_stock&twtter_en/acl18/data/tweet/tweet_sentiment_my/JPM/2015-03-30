@@ -1,0 +1,15 @@
+sentence,label,score
+"$v $jpm news: ""ranking the dow jones industrial stocks with the chowder rule $unh …"" URL  quote: URL",positive,0.8202508687973022
+"$jpm $bac:
+
+western banks axed 59000 jobs last year, more cuts to come in ...:
+
+URL",negative,0.7638580203056335
+$jpm - prospectus filed pursuant to rule 424(b)(2) (424b2) URL,positive,0.520929753780365
+$jpm - prospectus filed pursuant to rule 424(b)(2) (424b2) URL,positive,0.520929753780365
+URL bobirw: out 1000 $jpm at 61.23 + .51: bobirw URL URL,positive,0.7229657769203186
+"$bcs $jpm $ms:
+
+consumers cut gdp down to size:
+
+URL",negative,0.7948318123817444

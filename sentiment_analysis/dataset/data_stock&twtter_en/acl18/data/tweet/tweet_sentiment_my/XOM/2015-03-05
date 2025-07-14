@@ -1,0 +1,10 @@
+sentence,label,score
+"$xom:
+
+avoid shares of exxon mobil (xom):
+
+URL",negative,0.5736081600189209
+"rt AT_USER ""rumored bid for $bp is not impossible"" -$xom",negative,0.5548285841941833
+"AT_USER $xom your tweet has been featured on market parse, for iphone. URL",positive,0.6749753952026367
+exxon mobil downgraded by evercore isi $xom URL,negative,0.816257655620575
+"exxon's tillerson on m&amp;a: ""no limitation on what we might be interested in"" URL $xom $bp $hes $clr",positive,0.6639114618301392

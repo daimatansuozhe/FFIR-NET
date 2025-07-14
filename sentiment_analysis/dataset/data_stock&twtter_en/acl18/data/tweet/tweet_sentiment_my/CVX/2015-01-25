@@ -1,0 +1,8 @@
+sentence,label,score
+"interesting week this ... earnings for some big names 
+
+mon - $msft
+tues - $aapl, $t
+weds - $fb
+thur - $goog, $amzn
+fri - $cvx",positive,0.9389653205871582

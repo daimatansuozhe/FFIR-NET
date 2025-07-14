@@ -1,0 +1,4 @@
+sentence,label,score
+$cmcsa - [video] disney ceo talks dish deal -&gt; URL #stock #stocks #stockaction,positive,0.8555871844291687
+buy-signal detected for 31 stocks: $gt $schw $pru $sti $tel $xyl $c $ame $abt $hot $px $kss $dhi $hrl $cov $bdx $trow $mhfi $intu $cmcsa ...,positive,0.9135366678237915
+$cmcsa u.s. television prime-time ratings for week ended may 4 URL,positive,0.6957323551177979

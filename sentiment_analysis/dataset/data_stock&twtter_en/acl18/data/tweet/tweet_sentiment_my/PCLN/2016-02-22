@@ -1,0 +1,4 @@
+sentence,label,score
+$pcln buy the dip,positive,0.9497465491294861
+$pcln and $expe indicate better health of global economy than widely anticipated. URL,positive,0.9745343923568726
+"stocks with implied volatility below iv index mean; fossil $fosl 46, priceline $pcln 29 according to ivolatility.",neutral,0.43185126781463623

@@ -1,0 +1,5 @@
+sentence,label,score
+$dis morning agenda: a miss for jpmorgan #dis URL,negative,0.8497985005378723
+$dis - batman/superman may debut in uk before america -&gt; URL #stock #stocks #stockaction,positive,0.9220967292785645
+"$dis the zacks analyst blog highlights: URL apple, electronic arts, take-two and disney URL",positive,0.8257262110710144
+$dis disney: why shares are set to go higher URL,positive,0.948839008808136

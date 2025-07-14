@@ -1,0 +1,10 @@
+sentence,label,score
+"$aapl news: ""when, not if - apple streaming will kill netflix $aapl #apple $nflx"" URL  analyze: URL",positive,0.7738221287727356
+"$nflx news: ""when, not if - apple streaming will kill netflix $aapl #apple $nflx"" URL  analyze: URL",positive,0.791335940361023
+"rt AT_USER wow.
+
+a stunning share and find from AT_USER URL $aapl URL",negative,0.6321169137954712
+$aapl is too basic/ugly or code.,neutral,0.4458440840244293
+s&amp;p 500 tests the 50 ma now what? URL $spx $spx $xle $xlf $xlu $fb $aapl $googl $amzn $ibm $msft #trading #investing,positive,0.8874080777168274
+$tsla $aapl $googl #alphabet soup URL,positive,0.9153129458427429
+AT_USER not currently real iv in $aapl or $fb to sell premium into. prob have to wait for it to rise into their earnings releases.,positive,0.7963501811027527

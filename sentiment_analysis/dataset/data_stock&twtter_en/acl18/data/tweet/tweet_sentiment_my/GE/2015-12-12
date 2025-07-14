@@ -1,0 +1,6 @@
+sentence,label,score
+"$sh stock price updated saturday, december 12, 2015 03:07:20 am $wmih $tmf $fxe $ge URL",positive,0.8117655515670776
+"maruti.in maruti suzuki india ltd. filings
+URL
+
+$maruti.in $tsn $ge $dbl #maruti.in #pennystocks #finance",positive,0.7959147691726685

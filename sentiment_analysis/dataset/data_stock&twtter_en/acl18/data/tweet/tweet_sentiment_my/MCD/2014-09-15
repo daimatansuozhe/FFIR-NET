@@ -1,0 +1,8 @@
+sentence,label,score
+"rt AT_USER $plkd 52wk low
+
+click here: URL
+
+also see: $aol $mcd $aol $dust ~",negative,0.5970982909202576
+.AT_USER is an amazing product. it's like $mcd or $ko. you get hooked when you're young and can't stop consuming.,neutral,0.48552462458610535
+"trending tickers: apollo global management (nyse:apo), mcdonald's corp ... $mcd URL",positive,0.6925174593925476

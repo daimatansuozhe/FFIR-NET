@@ -1,0 +1,22 @@
+sentence,label,score
+"inp.v intel corp. 52wk low
+URL
+
+$inp.v $wmt $dxj $spxs #inp.v #share #nasdaq",negative,0.6284283399581909
+"vltc valeant pharmaceuticals intl, inc. e.p.s.
+URL
+
+$vltc $jnk $wmt $hd #vltc #finance #investing",positive,0.807124674320221
+"$twtr twitter inc URL 
+
+$kmi $wmt $cemp $nat #kmi #pennystocks $myec $sgyp $aria $nvax #myec  $fb $nflx $amzn $jblu $cc",positive,0.8160696029663086
+#dow #stocks $wmt wal-mart stores daily:-0.19% weekly:0.81% ytd:-13.73% trend:45 / 100  URL,negative,0.5781940221786499
+"$mu micron technology inc URL
+
+$kmi $wmt $cemp $nat #kmi #pennystocks $myec $sgyp $aria $nvax #myec  $fb $nflx $amzn  $c",positive,0.786552906036377
+"tbt proshares ultrashort  20+ year treasury financials
+URL
+
+$tbt $eth $celg $wmt #tbt #pennystocks #stockmarket",positive,0.8326624035835266
+wmt: 74.05:  long on break out  $wmt URL,positive,0.896697998046875
+"rt AT_USER it's been amazon vs. walmart all week. here's who wins on the stock market, though: URL $amzn $wmt URL",positive,0.8931626677513123

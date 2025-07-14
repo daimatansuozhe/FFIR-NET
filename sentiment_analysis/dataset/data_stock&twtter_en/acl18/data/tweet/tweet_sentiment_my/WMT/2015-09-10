@@ -1,0 +1,15 @@
+sentence,label,score
+dow #stocks trend $intc $trv $v $axp $unh $ba $mcd $utx $nke $gs $vz $csco $ge $pfe $mmm $hd $wmt $aapl $dis  @ URL,positive,0.8988804817199707
+"fit fitbit, inc. last price
+URL
+
+$fit $vxx $wmt $sh #fit #pennystocks #share",positive,0.8660751581192017
+"tpac trans-pacific aerospace co. inc. 52wk high
+URL
+
+$tpac $agio $jnug $wmt #tpac #pennystocks #tradeideas",positive,0.9313079118728638
+"tza direxion daily small cap bear 3x shares e.p.s.
+URL
+
+$tza $mro $upro $wmt #tza #stock #share",positive,0.5612215995788574
+rt AT_USER 2 of warren buffett's big investments team up. walmart's sam's club will take amex. good for $axp. $wmt deal lessens stin…,positive,0.7201698422431946

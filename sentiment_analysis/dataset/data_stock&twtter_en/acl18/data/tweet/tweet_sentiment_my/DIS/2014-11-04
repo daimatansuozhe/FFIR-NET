@@ -1,0 +1,6 @@
+sentence,label,score
+rt AT_USER apple and google agree to a disney video deal. $aapl $goog $dis URL URL,positive,0.8390775918960571
+"rt AT_USER some earnings 
+$regn $baba $kors $pcln $feye
+$jazz $trip $zu $athm $ssys $qcom 
+$scty $tsla $data $z $fslr $loco $dis URL",positive,0.7654893398284912

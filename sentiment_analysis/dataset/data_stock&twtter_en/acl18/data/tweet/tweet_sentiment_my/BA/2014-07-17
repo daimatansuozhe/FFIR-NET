@@ -1,0 +1,8 @@
+sentence,label,score
+is it breakout time on $snh $ba $unm $yod must have rate_limit_exceeded,positive,0.5335789918899536
+"$ba: eurocontrol says jet was 1,000 feet above closed airspace URL",positive,0.8228633999824524
+rt AT_USER russian news agency says malaysian plane has been shot down in ukraine $ba URL,negative,0.8850714564323425
+boeing: no comment on missing jet reports. $ba,negative,0.7141394019126892
+$ba: boeing buoyed at show with $46 billion in day-three sales URL,positive,0.9756871461868286
+$ba: philly fed manufacturing index rises to 3-year high URL,positive,0.9644551277160645
+$ba bearish or bullish on these #stocks $gmt $tpx $cray view now URL,negative,0.5020771622657776

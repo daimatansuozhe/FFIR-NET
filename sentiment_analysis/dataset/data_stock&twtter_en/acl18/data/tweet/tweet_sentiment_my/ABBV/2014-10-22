@@ -1,0 +1,7 @@
+sentence,label,score
+abbvie : levin statement on inversions URL $abbv,positive,0.6924918293952942
+"$unh shares
+
+click here: URL
+
+also see: $abbv $cmrx $aapl $clf ~",positive,0.9211679100990295

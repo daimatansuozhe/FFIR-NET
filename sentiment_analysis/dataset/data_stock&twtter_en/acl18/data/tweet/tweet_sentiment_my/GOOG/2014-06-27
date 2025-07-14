@@ -1,0 +1,10 @@
+sentence,label,score
+#stock market reports on stocks like $cbt $tel $exr $goog must see URL,positive,0.7914911508560181
+rt AT_USER $liqd nicholas colas on AT_USER liquid holdings and convergex URL $aapl $fb $gpro $mine $twtr $goog URL,positive,0.7646712064743042
+$lm #stocks you might want to sell $wag $key $goog #nasdaq URL,positive,0.6680157780647278
+$scco #pennystock research on $anf $ko $goog must see URL,positive,0.8925906419754028
+best research on #stocks such s $gs $alle $aap $goog goto URL,positive,0.9556303024291992
+$gpro all the traders here at gpro. reaching 30m. $fb $twtr $aapl $goog boring today.,positive,0.8849560618400574
+$googl $goog $twtr mobile is the next battleground for online advertising. URL,positive,0.7395868897438049
+do you need #stock #research on  $els $mtb $rcl $goog #stockmarket URL,positive,0.7793272733688354
+"rt AT_USER where wwdc hinted, google io delivers... something URL $aapl #apple $msft $goog $googl",positive,0.9425703287124634

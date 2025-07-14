@@ -1,0 +1,13 @@
+sentence,label,score
+"bmrn baozun inc. company info
+URL
+
+$bmrn $wfc $erx $tlt #bmrn #pennystocks #share",positive,0.7197175025939941
+"wfc wells fargo &amp; co. tick
+URL
+
+$wfc $xiv $nat $mbb #wfc #share #stock",positive,0.8807795643806458
+"xme spdr s&amp;p metals &amp; mining index current price
+URL
+
+$xme $luv $sina $wfc #xme #finance #finance",positive,0.8090054392814636

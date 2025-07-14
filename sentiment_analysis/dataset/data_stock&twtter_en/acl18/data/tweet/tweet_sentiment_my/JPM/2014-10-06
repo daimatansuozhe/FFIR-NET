@@ -1,0 +1,3 @@
+sentence,label,score
+"AT_USER ny's bank regulator, will meet with bank ceos over cyber threat in wake of $jpm breach-  URL via AT_USER",negative,0.5693673491477966
+AT_USER AT_USER AT_USER $f $jpm $stoo URL,positive,0.8818618059158325

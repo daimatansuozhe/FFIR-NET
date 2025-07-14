@@ -1,0 +1,3 @@
+sentence,label,score
+rt AT_USER wishing good luck to all participants racing in tonight's $jpm corporate challenge in #frankfurt.,positive,0.9496336579322815
+rt AT_USER $jpm ceo says base case of 20% fall in trading revenue still in place.,negative,0.7725163102149963

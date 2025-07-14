@@ -1,0 +1,11 @@
+sentence,label,score
+move aside apple: 8 ibd 50 stocks with earnings due $celg $vrx $ilmn URL #ibdnews via AT_USER,positive,0.8544732332229614
+"rt AT_USER $aapl $cmg $gpro $yhoo $qcom
+$crus $ftnt $ffiv $mlnx $sndk
+$mcd $celg $ua $dnkn $amzn
+$trip $p $swks $sbux $biib $aal URL",positive,0.872543215751648
+"rt AT_USER re-read the four horsemen chapter-the one about $regn, $celg, $biib, and $gild. it has only gotten better! URL",positive,0.9130920767784119
+"rt AT_USER $aapl $cmg $gpro $yhoo $qcom
+$crus $ftnt $ffiv $mlnx $sndk
+$mcd $celg $ua $dnkn $amzn
+$trip $p $swks $sbux $biib $aal URL",positive,0.872543215751648

@@ -1,0 +1,13 @@
+sentence,label,score
+"itb ishares dow jones u.s. home construction stock message board
+URL
+
+$itb $jnj $sblk $aezs #itb #stock #stocks",positive,0.7687080502510071
+"xle financials select sector spdr e.p.s.
+URL
+
+$xle $slw $spxu $jnj #xle #share #nasdaq",positive,0.8319812417030334
+"jnj johnson &amp; johnson prev close
+URL
+
+$jnj $mo $tsla $clf #jnj #pennystocks #nasdaq",positive,0.8077080845832825

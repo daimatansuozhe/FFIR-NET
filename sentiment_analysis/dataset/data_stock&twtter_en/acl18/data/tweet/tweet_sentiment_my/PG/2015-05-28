@@ -1,0 +1,11 @@
+sentence,label,score
+"achn achillion pharmaceuticals inc. bid
+URL
+
+$achn $pg.to $tmv $nflx #achn #nasdaq #pennystocks",positive,0.8812499642372131
+$pg URL,positive,0.7843747735023499
+"$pg $t $trv $unh $utx $vz $v $wmt $xom long and short positions from the $djia, up to 1800% since 2008. URL $dia",positive,0.8772431015968323
+"sh proshares short s&amp;p 500 fund summary
+URL
+
+$sh $pg $xle $ew #sh #pennystocks #tradeideas",negative,0.7632918357849121

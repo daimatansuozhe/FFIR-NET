@@ -1,0 +1,3 @@
+sentence,label,score
+buying  or selling? $gd $ocn $glng $do #investing URL,positive,0.8760826587677002
+$mchp get research on $gd $v $arna #equity URL,positive,0.8599631786346436

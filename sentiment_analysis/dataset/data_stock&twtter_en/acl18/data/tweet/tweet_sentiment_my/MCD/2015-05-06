@@ -1,0 +1,5 @@
+sentence,label,score
+AT_USER $mcd don't ditch mcdonald's just yet URL,positive,0.5099992156028748
+AT_USER since your tweet was sent $mcd has dropped -1.695%. see your featured tweet on market parse URL,negative,0.7268707156181335
+"$mcd news: ""mcdonald's to test kale and breakfast bowls $mcd"" URL  analyze: URL",positive,0.7900567650794983
+$mcd - 4 things mcdonald's corp. management wants you to know URL,positive,0.690803050994873

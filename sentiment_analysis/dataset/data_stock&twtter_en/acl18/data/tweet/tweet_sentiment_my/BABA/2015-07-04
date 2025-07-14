@@ -1,0 +1,22 @@
+sentence,label,score
+"baba bank of america corp. e.p.s.
+URL
+
+$baba $cvx $jnj $cde #baba #stocks #financebac bce, inc. bid size…",positive,0.671096920967102
+"baba alibaba group holding ltd. stock message board
+URL
+
+$baba $ntap $cnxt $ea #baba #pennystocks #share",positive,0.6727412343025208
+"iff intl flavors &amp; fragrances day low
+URL
+
+$iff $gdxj $rmbs $baba #iff #share #finance",negative,0.7094992399215698
+"baba alibaba group holding ltd. day high
+URL
+
+$baba $morl $rio $vltc #baba #finance #pennystocks",positive,0.8631461262702942
+rt AT_USER five minute trades - $aapl $fb $googl $goog $gpro $ibb $lnkd $qqq $spy $twtr $v $tsla $nflx $baba $amzn - URL,positive,0.8579726815223694
+"grh greenhunter energy, inc. ideas
+URL
+
+$grh $derm $ief $baba #grh #pennystocks #share",positive,0.741791844367981

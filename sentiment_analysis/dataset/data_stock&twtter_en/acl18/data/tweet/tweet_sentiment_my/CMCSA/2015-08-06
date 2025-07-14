@@ -1,0 +1,13 @@
+sentence,label,score
+"wmt wal-mart stores, inc. filings
+URL
+
+$wmt $cmcsa $v $rsx #wmt #share #pennystocks",positive,0.7912977337837219
+"$shak shake shack URL    
+
+$goog $vale $amgn $googl #goog #finance #stocks $sina $acrx $umpq $axp  $lly $nke $cmcsa $mdlz",positive,0.8678235411643982
+"cmcsa comcast corp. filings
+URL
+
+$cmcsa $fdn $line $fit #cmcsa #stockmarket #stockmarket",positive,0.845309853553772
+media industry begs for consolidation URL $amcx $cbs $cmcsa $dis $disca $dish $foxa $lbtya $nflx $sni $strza $t $tmus,positive,0.7111936211585999

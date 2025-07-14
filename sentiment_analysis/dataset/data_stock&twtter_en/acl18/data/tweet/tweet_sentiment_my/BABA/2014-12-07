@@ -1,0 +1,7 @@
+sentence,label,score
+rt AT_USER stock analyst finds best options strategies $aapl $baba $amzn $fnma URL,positive,0.8949530720710754
+rt AT_USER stock analyst finds best options strategies $aapl $baba $amzn $fnma URL,positive,0.8949530720710754
+"undervalued stock picks for the week of december 8, 2014 $ebay $ctix $baba URL",positive,0.9689021110534668
+rt AT_USER stock analyst issues new reports and opinions on top stocks $plkd $sttk $fvrg $clf $baba $aapl URL,negative,0.546949028968811
+rt AT_USER stock analyst issues new reports and opinions on top stocks $plkd $sttk $fvrg $clf $baba $aapl URL,negative,0.546949028968811
+rt AT_USER stock analyst finds best options strategies $aapl $baba $amzn $fnma URL,positive,0.8949530720710754

@@ -1,0 +1,4 @@
+sentence,label,score
+"$wfc stock message board updated thursday, april 9, 2015 02:11:41 am $sfun $myl $cat $cybr URL",positive,0.8356732726097107
+$wfc #wellsfargo wells fargo URL #banking #bigdata,positive,0.9382907152175903
+#ge près de vendre tout ou partie de son immobilier-source URL $wfc,positive,0.6037067770957947

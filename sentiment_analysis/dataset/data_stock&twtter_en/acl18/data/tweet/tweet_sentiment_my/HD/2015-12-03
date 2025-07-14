@@ -1,0 +1,14 @@
+sentence,label,score
+"ibm international business machines ask size
+URL
+
+$ibm $dks $nbg $hd #ibm #finance #finance",positive,0.7806426286697388
+"nvda nvidia corp. day low
+URL
+
+$nvda $hd $reliance.in $emes #nvda #investing #investing",positive,0.4933687150478363
+"nke nike inc. open
+URL
+
+$nke $qld $emes $hd #nke #investing #stocks",positive,0.891455352306366
+"$cmg reviews updated thursday, december 3, 2015 3:07:14 pm $hd $atvi $slw $gg URL",positive,0.8515180945396423

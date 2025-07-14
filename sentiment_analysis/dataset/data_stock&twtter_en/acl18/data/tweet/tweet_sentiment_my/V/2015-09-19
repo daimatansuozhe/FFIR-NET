@@ -1,0 +1,9 @@
+sentence,label,score
+"tgt target corp. chart
+URL
+
+$tgt $omn $v $tsla #tgt #pennystocks #invest",positive,0.8051252365112305
+"v visa inc. last price
+URL
+
+$v $myec $srpt $gg #v #investing #nasdaq",positive,0.8437910676002502

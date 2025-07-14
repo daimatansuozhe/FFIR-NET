@@ -1,0 +1,6 @@
+sentence,label,score
+"AT_USER
+subscribed to $csco
+to add another, tweet: $symbol AT_USER
+
+to unsubscribe: unsubscribe $symbol AT_USER",positive,0.7448363304138184

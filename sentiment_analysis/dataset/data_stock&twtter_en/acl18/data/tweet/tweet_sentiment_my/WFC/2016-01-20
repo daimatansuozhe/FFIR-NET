@@ -1,0 +1,9 @@
+sentence,label,score
+"jpm j.p. morgan chase &amp; co. last trade
+URL
+
+$jpm $wmt $wfc $adtn #jpm #stockmarket #stocks",positive,0.8384095430374146
+"wfc spdr s&amp;p biotech index etf open
+URL
+
+$wfc $cnc $oil $twtr #wfc #stock #tradeideas",positive,0.9188932776451111

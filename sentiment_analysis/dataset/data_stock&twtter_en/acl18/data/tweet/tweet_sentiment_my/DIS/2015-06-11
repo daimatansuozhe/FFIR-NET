@@ -1,0 +1,22 @@
+sentence,label,score
+"dis walt disney co. exchange
+URL
+
+$dis $fxi $iphi $pcln #dis #investing #pennystocks",positive,0.8080841302871704
+"dis dow chemical co. day high
+URL
+
+$dis $aem $mu $tvix #dis #invest #stocks",positive,0.8829395174980164
+"tanh tantech holdings ltd. tick
+URL
+
+$tanh $c $dis $goog #tanh #stock #investing",positive,0.839239239692688
+"xli industrials select sector spdr open
+URL
+
+$xli $dis $kmi $dis #xli #share #stock",positive,0.8576793074607849
+"dwti wisdom tree japan hedged equity tick
+URL
+
+$dwti $urty $qld $dis #dwti #stock #pennystocks",positive,0.7704434990882874
+fly watch: video game stocks in focus ahead of e3 conference $ttwo $ea $atvi $sne $fb $dis $msft $gme: full story URL,positive,0.928273618221283

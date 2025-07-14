@@ -1,0 +1,3 @@
+sentence,label,score
+rt AT_USER . AT_USER is repping hard this year at the annual meeting of dermatologists in denver $celg #aad14 URL,positive,0.6373663544654846
+"rt AT_USER $celg just priced apremilast at $22,500. expect waxman to have serious gi issues asap.",negative,0.458701491355896

@@ -1,0 +1,2 @@
+sentence,label,score
+dennyt: ctl barchart $ctl $mu $csco $cmcsa $f opinion URL,positive,0.9011136293411255

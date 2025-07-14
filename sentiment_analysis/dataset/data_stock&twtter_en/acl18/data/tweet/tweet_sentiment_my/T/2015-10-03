@@ -1,0 +1,19 @@
+sentence,label,score
+"$goog $googl $t news: ""google nexus, amazon, at&amp;amp;t (podcast) $goog #google…"" URL  analyze: URL",positive,0.7830283045768738
+"google nexus, amazon, at&amp;t (podcast) URL $goog #google $googl $amzn $t URL",positive,0.8524367213249207
+"rt AT_USER public service announcement!! 
+
+the name is mikey !!!!! 
+
+not mike we$t!!!!!",positive,0.6352360248565674
+"rt AT_USER un prindo ko qaid krna...
+meri fitrat me nhi...
+
+  !~.dø$t.~!
+
+jo mere dil k pinjre ma reh kr bhi
+dusron k saath urhne k…",positive,0.606045663356781
+coa$t gvng 2016 just watch boy!,positive,0.8171181678771973
+"have you heard ‘midwest millz ""living fast"" [ep]’ by midwe$t millz timg on #soundcloud? #np URL",positive,0.8747221231460571
+"AT_USER listen to ghx$t- kill (produced by ghx$t) by fsothegods #np on #soundcloud
+URL",positive,0.6308848857879639

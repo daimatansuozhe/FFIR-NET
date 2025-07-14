@@ -1,0 +1,18 @@
+sentence,label,score
+"rt AT_USER $ups 110 calls selling activity expiring on 15th apr, vol 10000",positive,0.9107967019081116
+"rt AT_USER recap 3/29 unusual calls (2/3):
+$ups apr 110 c
+$ual sep 65 c
+$eem sep 35 c
+$odp jul 7 c
+$twx jan 72.5 c
+$jcp aug 14 c
+$kr…",positive,0.5378662347793579
+"rt AT_USER recap 3/29 unusual calls (2/3):
+$ups apr 110 c
+$ual sep 65 c
+$eem sep 35 c
+$odp jul 7 c
+$twx jan 72.5 c
+$jcp aug 14 c
+$kr…",positive,0.5378662347793579

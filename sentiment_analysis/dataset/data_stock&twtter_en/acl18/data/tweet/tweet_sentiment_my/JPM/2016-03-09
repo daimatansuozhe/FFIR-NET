@@ -1,0 +1,6 @@
+sentence,label,score
+#stocks #invest #stockmarket $spy $spx #china #japan #germany #france #cnbc $fb #news $gs $jpm #donaldtrump URL,positive,0.8281826972961426
+"$gs 30 y t to 10 y t is widening, not sure why gs is moving lower $jpm is green +0.50%",negative,0.7192031145095825
+#jpmorganchase ( $jpm) ex-jp morgan adviser jailed over £14m client theft. read more: URL,negative,0.6508362293243408
+#jpmorganchase ( $jpm) ex-jp morgan adviser jailed over £14m client theft. read more: URL,negative,0.6508362293243408
+the bank regulation end-game. too much banking. URL $bac $blk $c $gs $jpm $ms $wfc,positive,0.5187263488769531

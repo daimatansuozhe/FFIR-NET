@@ -1,0 +1,9 @@
+sentence,label,score
+"sid companhia siderurgica nacional, sa short sales
+URL
+
+$sid $c $gdx $ttcm #sid #share #investing",negative,0.7966904044151306
+"biib biogen inc. volume
+URL
+
+$biib $c $jnug $audc #biib #tradeideas #share",positive,0.8900102972984314

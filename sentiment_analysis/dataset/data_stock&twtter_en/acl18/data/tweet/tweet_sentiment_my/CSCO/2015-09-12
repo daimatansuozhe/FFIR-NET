@@ -1,0 +1,7 @@
+sentence,label,score
+"fxi ishares ftse china 25 index fund short sales
+URL
+
+$fxi $xlf $csco $xlp #fxi #tradeideas #investing",negative,0.7787109613418579
+palo alto does it again URL $csco $feye $panw,positive,0.8751221895217896
+"rt AT_USER #apple partners with #cisco to improve perf of #iphones, #ipads on corporate networks - $aapl #mobile $csco URL",positive,0.9668375253677368

@@ -1,0 +1,8 @@
+sentence,label,score
+rt AT_USER $ko $pep $dps $mnst $cot $fizz beverage investor? our insights into changing industry trends are available here: URL,positive,0.8355928659439087
+rt AT_USER $ko $pep $dps $mnst $cot $fizz beverage investor? why this company could soon become an acquisition target.... URL,positive,0.8638299703598022
+rt AT_USER $ko $pep $dps $mnst $cot $fizz beverage investor? why this company could soon become an acquisition target.... URL,positive,0.8638299703598022
+rt AT_USER $ko $pep $dps $mnst $cot $fizz beverage investor? why this company could soon become an acquisition target.... URL,positive,0.8638299703598022
+$ko - the biggest red flag for dividend investors URL,positive,0.8577263355255127
+rt AT_USER $ko $pep $dps $mnst $cot $fizz beverage investor? why this company could soon become an acquisition target.... URL,positive,0.8638299703598022
+$ko revenue shrinking URL,negative,0.666314423084259

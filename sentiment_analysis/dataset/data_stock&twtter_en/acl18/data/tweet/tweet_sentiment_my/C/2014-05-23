@@ -1,0 +1,4 @@
+sentence,label,score
+AT_USER she doesn't even know it's me tho. cause $c,negative,0.6416299939155579
+$c citigroup inc. initiates coverage on bank of america (bac) URL,positive,0.9426791071891785
+h$c,positive,0.686138391494751

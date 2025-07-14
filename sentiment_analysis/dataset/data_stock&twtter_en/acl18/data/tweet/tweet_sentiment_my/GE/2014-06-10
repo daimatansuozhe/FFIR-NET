@@ -1,0 +1,6 @@
+sentence,label,score
+dow #stocks trend $dis $utx $ge $jpm $axp $cat $mmm $gs $ba $cvx $intc $msft $trv $hd $xom $ibm $ko $dd $nke  @ URL,positive,0.8983760476112366
+$ge chart: $ge. URL,positive,0.8018735647201538
+$ge: u.s. movie box office grosses for june 6 - june 8 URL,positive,0.6340967416763306
+rt AT_USER $ge: ge energy financial services invests in japan’s renewable energy pow... URL,positive,0.8107872009277344
+"toppy tuesday - s&amp;p 1,950 edition  $spx $rut $gld $tqqq $aapl $tza $tna $shld $rig $vlo $ge $kbh $igt  URL",positive,0.9407500624656677

@@ -1,0 +1,4 @@
+sentence,label,score
+$bhp: bullish analyst action by credit suisse on bhp billiton: URL URL,positive,0.9756198525428772
+"hello from peter $bhp $csco $pg #finra #equity. take a look at URL
+… URL",positive,0.9353561401367188

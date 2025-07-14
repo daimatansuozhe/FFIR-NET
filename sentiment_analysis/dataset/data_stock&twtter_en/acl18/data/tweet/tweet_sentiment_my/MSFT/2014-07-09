@@ -1,0 +1,9 @@
+sentence,label,score
+is it breakout time on $msft $hts $dlph $lgnd #economy rate_limit_exceeded,positive,0.6368228793144226
+"$brcd market cap URL
+
+also see: $msft $stld $wfc $aria ~",positive,0.898540735244751
+"rt AT_USER $vmw $ctxs $rht $emc $goog $amzn $msft wells says vmware growth could slow, downgrades shares: full story URL",negative,0.6153037548065186
+"$pg filings URL
+
+also see: $stld $rgdo $brcd $msft ~",positive,0.8347892165184021

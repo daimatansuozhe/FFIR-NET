@@ -1,0 +1,17 @@
+sentence,label,score
+"fsrfx fidelity select transport prev close
+URL
+
+$fsrfx $slw $mhys $ge #fsrfx #stock #stock",positive,0.8368110060691833
+"enb.to edwards lifesciences corp. change
+URL
+
+$enb.to $hov $pot.to $ge #enb.to #tradeideas #tradeideas",positive,0.6021758317947388
+"axas abraxas petroleum corp. financials
+URL
+
+$axas $ge $kre $aapl #axas #pennystocks #stockmarket",positive,0.8255141973495483
+"celg celgene corp. day high
+URL
+
+$celg $wmih $ge $ibm #celg #tradeideas #pennystocks",positive,0.944941520690918

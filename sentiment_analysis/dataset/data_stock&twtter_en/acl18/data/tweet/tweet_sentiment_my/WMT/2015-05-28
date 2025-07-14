@@ -1,0 +1,8 @@
+sentence,label,score
+rt AT_USER wal-mart reaches settlement with tracy morgan; terms not disclosed $wmt URL via AT_USER,positive,0.5310750603675842
+"amazon's $amzn new free same-day delivery for prime members also fights wal-mart $wmt, google $googl URL via AT_USER",negative,0.7385914921760559
+"$pg $t $trv $unh $utx $vz $v $wmt $xom long and short positions from the $djia, up to 1800% since 2008. URL $dia",positive,0.8772431015968323
+"wmt wal-mart stores, inc. day high
+URL
+
+$wmt $feye $bib $tsla #wmt #stock #stock",positive,0.8942826390266418

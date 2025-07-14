@@ -1,0 +1,4 @@
+sentence,label,score
+s&amp;p100 #stocks trend $cop $mcd $dvn $so $cl $ko $ibm $t $hpq $csco $aep $mdlz $pg $mo $spg $pep $cat $pm $mrk  @ URL,positive,0.8727478384971619
+rt AT_USER $pg's low beta of 0.46 provides a good hedge against the volatile market URL,positive,0.939822256565094
+"rt AT_USER $pg company news: toyota, procter &amp; gamble, mars, alcoa, directv, constellation ... URL",positive,0.7364040017127991

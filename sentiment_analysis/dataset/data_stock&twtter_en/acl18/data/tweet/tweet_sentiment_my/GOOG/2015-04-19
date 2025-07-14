@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER rt AT_USER simple fact: $goog is spending more on advanced robotics than the dod. so is uber. (link follows),positive,0.7547492980957031
+$goog - 3 best stocks for investing in smartwatches URL,positive,0.9465176463127136
+"$goog URL mother jones proves to us, once and for all, that the minimum wage destroys jobs URL",negative,0.7777726650238037

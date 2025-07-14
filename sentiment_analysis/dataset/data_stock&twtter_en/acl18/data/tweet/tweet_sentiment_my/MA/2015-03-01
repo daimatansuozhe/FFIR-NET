@@ -1,0 +1,4 @@
+sentence,label,score
+"$slv recent news updated saturday, february 28, 2015 11:59:27 pm $ma $aapl $asti $plug URL",positive,0.8580468893051147
+"$ibm percent change updated sunday, march 1, 2015 03:07:17 am $mmm $gs $nwbo $ma URL",positive,0.7314354777336121
+$ma - mastercard works with samsung to deliver samsung pay URL,positive,0.9507610201835632

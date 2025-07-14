@@ -1,0 +1,5 @@
+sentence,label,score
+insider trading news on $gnmk $natl $fcfs $bac click URL,positive,0.8621973991394043
+$bac strayer education rating lowered to underperform at bank of america corp ... URL,negative,0.8074895143508911
+"$bac ny ag won't pursue damages from bofa, merrill case will continue, reuters says: full story URL",negative,0.6504217982292175
+$bac nu skin enterprises downgraded by bank of america corp. to “neutral” (nus) URL,negative,0.7673395872116089

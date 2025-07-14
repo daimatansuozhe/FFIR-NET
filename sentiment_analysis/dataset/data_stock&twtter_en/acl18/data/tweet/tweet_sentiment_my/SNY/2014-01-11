@@ -1,0 +1,5 @@
+sentence,label,score
+"unable to attend #fda #rarediseases meeting? read about it here: URL URL 
+$sny $hptx $nvs #nih #pharma",negative,0.6695666313171387
+"rt AT_USER unable to attend #fda #rarediseases meeting? read about it here: URL URL 
+$sny $hpt…",negative,0.8172296285629272

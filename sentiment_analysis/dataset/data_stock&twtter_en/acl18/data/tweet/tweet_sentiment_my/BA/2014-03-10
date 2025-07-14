@@ -1,0 +1,5 @@
+sentence,label,score
+$ba wall street edges lower after record; boeing drags URL,negative,0.8215705156326294
+$ba the good and bad from one airline's overpriced business class cabin URL,positive,0.8406897187232971
+"$ba stocks feel the china chill, dow drops 100 points URL",negative,0.6287993788719177
+$ba more mechanical problems for boeing’s 787 URL,negative,0.6411216259002686

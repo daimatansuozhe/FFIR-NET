@@ -1,0 +1,3 @@
+sentence,label,score
+$regn buy or sell? $eqix $chtr $df worth a look URL,positive,0.9158535003662109
+$chtr u.s. broadcast television ratings for the week ended march 2 URL,positive,0.7158260345458984

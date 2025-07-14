@@ -1,0 +1,5 @@
+sentence,label,score
+rt AT_USER japan's regimmune joins with pfizer on type 1 diabetes antigen candidate URL $pfe,positive,0.9339684844017029
+$pfe up 1.1% in prem on release paloma-3 trial for ibrance stopped early due to efficacy in patients w/ hr+ her2: metastatic breast cancer,negative,0.504082441329956
+"rt AT_USER palbociclib continues to be a bright spot for pfizer r&amp;d. breast cancer study stopped early on efficacy -- $pfe
+URL",positive,0.8819899559020996

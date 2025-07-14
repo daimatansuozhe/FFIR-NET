@@ -1,0 +1,3 @@
+sentence,label,score
+intraday #athigh: $spy $xlb $xli $xle $xlp $xlv $jnj $wfc $dis $mmm $td $cvs $unp $abbv $foxa $wag $eog $hal $dhr $gd $dal $ace $gis $trv,positive,0.8479079008102417
+s&amp;p100 #stocks trend $amzn $gd $unp $c $hon $bac $twx $ba $abbv $jpm $ms $foxa $abt $txn $lmt $so $cost $bk  @ URL,positive,0.8897455334663391

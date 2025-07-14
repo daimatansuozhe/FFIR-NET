@@ -1,0 +1,3 @@
+sentence,label,score
+$cmcsa who's right in the netflix vs. verizon death match? URL,positive,0.6579545140266418
+$cmcsa [video] netflix-verizon blame game URL,negative,0.744562566280365

@@ -1,0 +1,21 @@
+sentence,label,score
+"unh unitedhealth group, inc. ex-div date
+URL
+
+$unh $c $amat $xrt #unh #stockmarket #tradeideas",positive,0.8491437435150146
+"mck mckesson corp. day high
+URL
+
+$mck $vltc $unh $kre #mck #stocks #pennystocks",positive,0.9018645882606506
+"gpro gopro, inc. financials
+URL
+
+$gpro $jpm $myec $unh #gpro #nasdaq #finance",positive,0.837150514125824
+"pfe pfizer, inc. day low
+URL
+
+$pfe $sasr $unh $cnr.to #pfe #tradeideas #invest",negative,0.4918006360530853
+"lscc lattice semiconductor corp. e.p.s.
+URL
+
+$lscc $unh $alk $feye #lscc #stock #invest",positive,0.7719153165817261

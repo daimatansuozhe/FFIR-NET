@@ -1,0 +1,3 @@
+sentence,label,score
+#stock market reports on stocks like $klac $dhr $l $fxy #wallstreet URL,positive,0.7231945395469666
+small-cap stocks breaking 52-wk high prices $cbsh $gntx $dhr $nuan #financial URL,positive,0.940575897693634

@@ -1,0 +1,9 @@
+sentence,label,score
+"rt AT_USER upcoming earnings:
+
+tues - $intc, $jpm
+weds - $nflx, $bac
+thurs - $gs, $c
+fri - $ge, $hon
+
+the current trend -&gt; URL",positive,0.9423022270202637

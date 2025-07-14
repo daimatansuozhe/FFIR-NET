@@ -1,0 +1,3 @@
+sentence,label,score
+$wmt 11 stocks delivering deceptively strong profits URL,positive,0.9764194488525391
+wal-mart: clearly undervalued and with a upcoming dividend hike catalyst URL $cvs $tgt $wag $wmt,positive,0.9728269577026367

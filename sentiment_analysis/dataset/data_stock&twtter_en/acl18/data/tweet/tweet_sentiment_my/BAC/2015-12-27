@@ -1,0 +1,13 @@
+sentence,label,score
+"sune sunedison, inc. last price
+URL
+
+$sune $vrsn $bac $dia #sune #share #stocks",positive,0.867599606513977
+"bac bank of america corp. investor opinions
+URL
+
+$bac $dcac $ssri $gild #bac #investing #stockmarket",positive,0.8489960432052612
+"atvi activision blizzard inc. volume
+URL
+
+$atvi $bac $mcd $sri #atvi #tradeideas #invest",positive,0.8383180499076843

@@ -1,0 +1,5 @@
+sentence,label,score
+$cmcsa URL,positive,0.7854719758033752
+rt AT_USER comcast now has more internet subscribers than cable subscribers | new york post URL $cmcsa,positive,0.849804162979126
+rt AT_USER 'avengers: age of ultron' scores 2nd-best opening weekend of all time $cmcsa $dis URL #ageofultron URL,positive,0.8789300918579102
+"rt AT_USER early movers: $cvc, $cmcsa, $tsn, $mcd &amp; more URL",positive,0.9588148593902588

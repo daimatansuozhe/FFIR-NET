@@ -1,0 +1,26 @@
+sentence,label,score
+rt AT_USER dow stocks oversold and breaking down URL $aapl #apple $axp $ba $cat $csco $cvx $dd $dis $ge $gs $hd $…,positive,0.5140695571899414
+$csco:us cisco secures the internet of everything with security everywhere #cisco systems inc  URL #sp500,positive,0.896838366985321
+"$csco cisco - cellular one of east central illinois chooses clearsky technologies and cisco for cost-effectiv
+from our stock news alerts app",positive,0.662781834602356
+"$csco cisco - cisco and cern collaborate to accelerate innovation in next generation computing
+from our stock news alerts app",positive,0.9563292264938354
+"""trade smarter"" chart the next company 4 target price URL   $aapl $msft $goog $nvda $lrcx $intc $csco $feye $gild $fb $mu",positive,0.8468425273895264
+"clayton_dd: tvix velocityshares daily 2x vix short term etn dividend
+URL
+
+$tvix $rai $csco $noah #tvix #pennystocks #s…",positive,0.8037437796592712
+cisco enhances internet of everything capabilities with new security products URL by trefis team $csco $jnpr,positive,0.9671953320503235
+"alexmcena: alexmcena: alexmcena: alexmcena: stock_tracker1: myec myecheck, inc. yield
+URL
+
+$myec $csco $iyr $tsla #mye…",positive,0.6737053990364075
+"alexmcena: alexmcena: alexmcena: dennyt14: vltc voltari corp. yield
+URL
+
+$vltc $mine $csco $f #vltc #share #invest",positive,0.6864235401153564
+"$csco:
+
+voo launches innovative tv experience with cisco videoscape:
+
+URL",positive,0.9682905673980713

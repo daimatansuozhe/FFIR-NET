@@ -1,0 +1,14 @@
+sentence,label,score
+"aapl apple, inc. tick
+URL
+
+$aapl $ashr $fnma $csco #aapl #pennystocks #invest",positive,0.8892012238502502
+"btu peabody energy corp. day high
+URL
+
+$btu $jns $vc $csco #btu #invest #stockmarket",positive,0.947472095489502
+"mu micron technology, inc. prev close
+URL
+
+$mu $csco $gld $hal #mu #investing #finance",positive,0.8290929794311523
+"rt AT_USER rt rt rt rt $csco active, relative volume: 5.67, 1h, 7:00 pm, #nasdaq $dji $ndx $spy URL … … URL",positive,0.7872706651687622

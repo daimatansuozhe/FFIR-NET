@@ -1,0 +1,3 @@
+sentence,label,score
+"should you buy, sell or hold $pcl $bac $cprt $gain #money URL",positive,0.8551712036132812
+$fdo get great research on stocks $bpop $bac $rt #nse rate_limit_exceeded,positive,0.9328382015228271

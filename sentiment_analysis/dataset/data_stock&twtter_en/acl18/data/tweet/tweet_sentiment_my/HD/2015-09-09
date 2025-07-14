@@ -1,0 +1,15 @@
+sentence,label,score
+"alr alere inc. tick
+URL
+
+$alr $pcln $npk $hd #alr #stockmarket #stock",positive,0.7423147559165955
+"fnma federal national mortgage exchange
+URL
+
+$fnma $hd $agen $cos.to #fnma #finance #tradeideas",positive,0.659953236579895
+$hd received a new alert. find out why at URL #stocks #daytrading #trading #mkt  #nyse #nasdaq #markets 466,positive,0.890526294708252
+"hd home depot, inc. p/e ratio
+URL
+
+$hd $cbyl $fxe $agq #hd #stockmarket #stock",positive,0.7934725880622864
+"AT_USER AT_USER AT_USER go pro is a $hd hardware company , $gopro is a clamp , they sell clamps",positive,0.48446598649024963

@@ -1,0 +1,11 @@
+sentence,label,score
+$goog $googl alphabet inc (googl) says uk’s ‘google tax’ doesn’t apply to them URL,negative,0.6746096014976501
+#google ( $goog) updates my maps android app with material design. read more: URL,positive,0.8507828116416931
+$goog,positive,0.9019743800163269
+$aapl $goog $fb $qqq $baba $spy $twtr  URL,positive,0.8025317192077637
+"rt AT_USER $amzn undervalued by $150/share
+$aapl undervalued by $25/share
+
+$fb overvalued by $25/share
+$goog overvalued by $175/shar…",positive,0.8573181629180908
+alphabet inc (googl) says uk’s ‘google tax’ doesn’t apply to them $googl $goog #alphabet #google URL,negative,0.6489952802658081

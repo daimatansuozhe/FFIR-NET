@@ -1,0 +1,5 @@
+sentence,label,score
+there goes $baba and its 40 bandits down the drain,negative,0.7583766579627991
+no digan que no se los dije: pero ahi andan comprando $baba arriba de 90,negative,0.4899417459964752
+rt AT_USER the dow is down more than 500 points since the alibaba ipo -&gt; URL $djia $baba URL,negative,0.8950613141059875
+"AT_USER AT_USER AT_USER buy this dip $acad, $celg, $baba, $agio, $regn, $alzn, $ibb. buy the dip. corp/ind bal shts never better.",positive,0.7925353646278381

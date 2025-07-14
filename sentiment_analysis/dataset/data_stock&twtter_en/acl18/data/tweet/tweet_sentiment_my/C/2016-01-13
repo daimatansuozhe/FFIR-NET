@@ -1,0 +1,10 @@
+sentence,label,score
+citigroup $c stock lower ahead of earnings release URL #stockaction,negative,0.8532637357711792
+rt AT_USER i think you should read the work of AT_USER explaining $c's exposure to china URL,positive,0.5208552479743958
+jim cramer says avoid citigroup; should you? URL via AT_USER AT_USER $c,positive,0.6343563795089722
+"class action $aapl investors tim_cook #sec fbi #hft #fraud $gs $ms $jpm $c $cs $s
+
+— pablo verdes (pablove79) january 7, 2016
+
+— riskinfo (…",negative,0.49428561329841614
+AT_USER $c is reporting earnings for q4 2015 on 01/15/16 – URL,positive,0.5877546072006226

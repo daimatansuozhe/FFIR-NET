@@ -1,0 +1,3 @@
+sentence,label,score
+$intc: analyst action by jefferies on intel: URL URL,positive,0.7124106287956238
+$intc - western digital's sandisk acquisition makes it riskier than ever URL,negative,0.7109436988830566

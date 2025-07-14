@@ -1,0 +1,8 @@
+sentence,label,score
+"#usa~{#biz 23 #news}~#x 
+$nke&gt;+1.89%&gt;+3.00% 
+$cat&gt;+0.17%&gt;+2.35% 
+$utx&gt;+0.64%&gt;+1.59% 
+$jpm&gt;+1.15%&gt;+1.45% 
+$gs&gt;+1.02%&gt;+1.25%",positive,0.9456337094306946
+"$cat rises 2.99%, currently trading at $93.33",positive,0.9690989851951599

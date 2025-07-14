@@ -1,0 +1,9 @@
+sentence,label,score
+"rt AT_USER AT_USER you still long this thing? $cpln $opcln $pcln.
+
+yes .. but don’t know for how much longer … herb",positive,0.5651217699050903
+"rt AT_USER david tepper --&gt;
+$gm $c $pcln $hca $goog $hal URL",positive,0.8733248114585876
+"rt AT_USER priceline 5-minute, 5-day chart shows a wedge formed and price bouncing after the below open. $pcln  URL",positive,0.9007411599159241
+uranium-pinto-beans: $pcln nearing significant buying point URL URL,positive,0.9554001092910767
+great #stock newsletter on $agnc $fosl $wsm $pcln #liquidity URL,positive,0.9578241109848022

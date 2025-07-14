@@ -1,0 +1,7 @@
+sentence,label,score
+"AT_USER $vz verizon beats by $0.02, beats on revenue URL",positive,0.957413911819458
+#verizon communications inc. edges out earnings estimates $vz URL,positive,0.9628487825393677
+"rt AT_USER #breaking: verizon communications inc. $vz q3 revenues, $33.16b vs. $32.87b expected #breaking",positive,0.9431635737419128
+"rt AT_USER #breaking: verizon communications inc. $vz q3 revenues, $33.16b vs. $32.87b expected #breaking",positive,0.9431635737419128
+"rt AT_USER #breaking: verizon communications inc. $vz q3 earnings per share (eps), $0.99 vs. $1.03 expected #breaking",positive,0.9541250467300415
+rt AT_USER AT_USER URL $pfe $pg $trv $utx $unh $vz $wmt #döngüdalgadenge  $djia $brent $spx syg. URL,positive,0.7790014147758484

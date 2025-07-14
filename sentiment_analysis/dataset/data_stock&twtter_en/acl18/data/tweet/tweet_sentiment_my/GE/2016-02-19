@@ -1,0 +1,5 @@
+sentence,label,score
+"baba bank of america corp. market cap
+URL
+
+$baba $ge $xly $xle  #stockmarket #finance",positive,0.7801496982574463

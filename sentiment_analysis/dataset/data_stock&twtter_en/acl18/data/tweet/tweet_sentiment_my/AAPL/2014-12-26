@@ -1,0 +1,17 @@
+sentence,label,score
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+"i sold my $aapl 12/26 $114 calls the other day for a loss, but bought the 1/2 $115 calls for 32¢. looking good so far.",positive,0.9217798709869385
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+"rtAT_USER the median age of employees at facebook is 28, vs. 30 at google and 31 at apple. URL $fb $goog $aapl",positive,0.712432861328125
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+we've been building a huge list of 2015 stock market predictions. this blog post shows all of them URL $spy $aapl $fb,positive,0.94078528881073
+rt AT_USER happy boxing day - everything is awesome! $spy $iwm $uso $aapl $bhi -- URL URL,positive,0.9115390777587891
+"rt AT_USER the median age of employees at facebook is 28, vs. 30 at google and 31 at apple. URL $fb $goog $aapl",positive,0.7224984169006348
+apple shorts jump ship URL #fortune $aapl,negative,0.5005936622619629

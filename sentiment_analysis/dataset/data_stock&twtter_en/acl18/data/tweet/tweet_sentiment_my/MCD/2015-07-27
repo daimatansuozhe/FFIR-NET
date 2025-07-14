@@ -1,0 +1,8 @@
+sentence,label,score
+"$nflx netflix URL
+
+$fslr $bidu $dis $mcd $msft $fb $ebay $ea $aapl $avgo $goog $ecig $swks $fslr #goog #stock",positive,0.8879238367080688
+rt AT_USER URL subscribe now $spy $aapl $fb $igex $fdx $baba $fit $twtr $mcd $jnj $indu $xle $xlf $bac $fas $faz $…,positive,0.8402864933013916
+"$slv ishares silver URL
+
+$amzn $googl $bmy $ebay $acn $mcd $sbux $ma $twx $fb $agn $aig $nke $dis $dow $ms $abt",positive,0.9063224792480469

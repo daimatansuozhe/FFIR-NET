@@ -1,0 +1,9 @@
+sentence,label,score
+"wmt western union co. eod data
+URL
+
+$wmt $jpm $lmt $fv #wmt #tradeideas #nasdaq",positive,0.8485293388366699
+"goog google inc. - class c bid size
+URL
+
+$goog $cnr.to $xbi $lmt #goog #finance #stock",positive,0.856631338596344

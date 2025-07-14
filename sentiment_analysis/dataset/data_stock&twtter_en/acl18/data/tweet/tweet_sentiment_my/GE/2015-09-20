@@ -1,0 +1,13 @@
+sentence,label,score
+"lnkd linkedin corp. bid
+URL
+
+$lnkd $ge $bidu $grcu #lnkd #nasdaq #stocks",positive,0.835212767124176
+"ge general electric co. prev close
+URL
+
+$ge $uso $slv $intc #ge #finance #pennystocks",positive,0.8402942419052124
+"xlu health care select sector spdr ask size
+URL
+
+$xlu $fgen $t $ge #xlu #invest #finance",positive,0.7211158275604248

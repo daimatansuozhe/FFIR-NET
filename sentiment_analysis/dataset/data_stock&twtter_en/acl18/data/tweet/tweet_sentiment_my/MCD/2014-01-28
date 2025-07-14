@@ -1,0 +1,4 @@
+sentence,label,score
+"rt AT_USER rt AT_USER starbucks popular with millennials. mcdonald's, not so much, according to goldman. $mcd $sbux URL",positive,0.8482974171638489
+$mcd didn't give me a straw for my milkshake.  kind of defeats the purpose of drinking a milkshake! AT_USER,negative,0.5133216381072998
+"jim50: alerts, hot stocks &amp; charts: $mcd volume datejan 28 2014 open94.33 high94.64 URL",positive,0.7097404599189758

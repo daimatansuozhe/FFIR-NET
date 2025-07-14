@@ -1,0 +1,4 @@
+sentence,label,score
+danrocks: $dig getting interesting $t $cew $ddd $amzn $aci URL,positive,0.9478533267974854
+$amzn daily short volume over the last 10 days.  URL,negative,0.6342393159866333
+rt AT_USER can you legally yell 'fire' in a crowded $amzn store?,positive,0.44822758436203003

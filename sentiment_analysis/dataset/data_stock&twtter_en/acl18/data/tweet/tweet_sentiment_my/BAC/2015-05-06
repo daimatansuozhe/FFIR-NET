@@ -1,0 +1,7 @@
+sentence,label,score
+"$bac:
+
+bank of america shareholders back board despite criticism:
+
+URL",negative,0.5805017352104187
+alert: new social signal created on $bac - buy at 16.31 - time: 15:59 - strength: 5. powered by URL,positive,0.9436849355697632

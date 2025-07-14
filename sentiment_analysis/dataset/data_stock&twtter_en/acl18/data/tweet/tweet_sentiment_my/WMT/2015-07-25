@@ -1,0 +1,16 @@
+sentence,label,score
+"luv southwest airlines co. prev close
+URL
+
+$luv $avxl $mnkd $wmt #luv #stockmarket #stock",positive,0.8482133746147156
+"xlk technology select sector spdr 52wk high
+URL
+
+$xlk $twtr $myec $wmt #xlk #investing #stocks",positive,0.8767252564430237
+"wmt wal-mart stores, inc. exchange
+URL
+
+$wmt $nvax $dgz $tqqq #wmt #stock #investing",positive,0.8189241886138916
+"rt AT_USER wow!: amazon is now bigger than walmart:
+URL
+$amzn $wmt URL",negative,0.6709717512130737

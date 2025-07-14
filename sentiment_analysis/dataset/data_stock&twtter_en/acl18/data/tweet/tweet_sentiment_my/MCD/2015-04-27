@@ -1,0 +1,3 @@
+sentence,label,score
+AT_USER $mcd no love lost - the future of mcdonald's URL,negative,0.7727121710777283
+$mcd down 2.45%,negative,0.8613272309303284

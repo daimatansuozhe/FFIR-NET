@@ -1,0 +1,27 @@
+sentence,label,score
+"rt AT_USER watch raury cover a$ap rocky’s song “l$d” on the guitar
+
+URL
+
+[AT_USER AT_USER URL",neutral,0.5047932863235474
+rt AT_USER #corrupciónroja 23.000 millones de u$d invirtieron para el gran gasoducto del sur y nunca se construyó. URL,neutral,0.607882022857666
+rt AT_USER #corrupciónroja 23.000 millones de u$d invirtieron para el gran gasoducto del sur y nunca se construyó. URL,neutral,0.607882022857666
+rt AT_USER watch AT_USER cover AT_USER 'l$d' for #likeaversion URL,positive,0.7748139500617981
+rt AT_USER watch AT_USER cover AT_USER 'l$d' for #likeaversion URL,positive,0.7748139500617981
+rt AT_USER #corrupciónroja 23.000 millones de u$d invirtieron para el gran gasoducto del sur y nunca se construyó. URL,neutral,0.607882022857666
+a$ap rocky - l$d (love x $ex x dreams) damn this song is pretty down...,negative,0.7591737508773804
+rt AT_USER #corrupciónroja 23.000 millones de u$d invirtieron para el gran gasoducto del sur y nunca se construyó. URL,neutral,0.607882022857666
+"rt AT_USER watch AT_USER cover AT_USER ""l$d"" URL URL",positive,0.6562097668647766
+"""AT_USER #corrupciónroja 23.000 millones de u$d invirtieron para el gran gasoducto del sur y nunca se construyó. URL",neutral,0.6701590418815613
+"watch raury strip back a$ap rocky’s ‘l$d’ for ‘like a version’: it's even more laid-back than the original, so... URL",positive,0.6253432631492615
+rt AT_USER #corrupciónroja 23.000 millones de u$d invirtieron para el gran gasoducto del sur y nunca se construyó. URL,neutral,0.607882022857666
+"rt AT_USER .AT_USER delivers a stripped down acoustic cover of a$ap rocky's ""l$d."" URL",neutral,0.4499300718307495
+"rt AT_USER .AT_USER delivers a stripped down acoustic cover of a$ap rocky's ""l$d."" URL",neutral,0.4499300718307495
+"rt AT_USER .AT_USER delivers a stripped down acoustic cover of a$ap rocky's ""l$d."" URL URL",neutral,0.4438104033470154
+watch raury strip down a$ap rocky’s “l$d” live &amp; direct on triple j URL,negative,0.826869785785675
+"rt AT_USER well this is different. watch AT_USER cover AT_USER ""l$d"" URL URL",positive,0.5476034283638
+"rt AT_USER watch raury cover a$ap rocky’s song “l$d” on the guitar
+
+URL
+
+[AT_USER AT_USER URL",neutral,0.5047932863235474

@@ -1,0 +1,7 @@
+sentence,label,score
+"[key gainers &amp; losers]
++ $bac 3.3% 1/11/2023 +0.7%
++ $hsbc 2.35% 3/5/2020 +0.6%
+- $act 4.55% 3/15/2035 -0.6%
+
+URL",positive,0.5561474561691284

@@ -1,0 +1,22 @@
+sentence,label,score
+"$aig company info updated sunday, august 2, 2015 12:10:48 pm $intc $cri $bac $xlp URL",positive,0.7909717559814453
+"havells.in havells india ltd. last trade
+URL
+
+$havells.in $bpcl.in $intc $ewz #havells.in #share #invest",positive,0.8086985945701599
+"intc intel corp. tick
+URL
+
+$intc $dug $fb $cat #intc #stocks #stockmarketiwm russell 2000 ishares volume…",positive,0.7985836863517761
+"lvs las vegas sands corp. day low
+URL
+
+$lvs $cnc $intc $pbr/a #lvs #tradeideas #stocks",negative,0.6813496351242065
+"intc intel corp. 52wk high
+URL
+
+$intc $cvc $wmt $cybr #intc #nasdaq #investing",positive,0.9167309403419495
+"ctrp URL intl ltd. bid
+URL
+
+$ctrp $intc $dmo $centurytex.in #ctrp #tradeideas #nasdaq",positive,0.8500845432281494

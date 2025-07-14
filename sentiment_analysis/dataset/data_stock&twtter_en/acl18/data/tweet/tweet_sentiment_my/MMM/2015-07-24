@@ -1,0 +1,21 @@
+sentence,label,score
+"rt AT_USER cat clearbridge energy mlp fund inc. day low
+URL
+
+$cat $hxd.to $nflx $mmm #cat #stockmarket #tradeideas",negative,0.5795177817344666
+"amba ambarella, inc. day low
+URL
+
+$amba $meip $aapl $mmm #amba #share #finance",negative,0.7194699645042419
+"adpt adeptus health, inc. stock message board
+URL
+
+$adpt $xlv $peg $mmm #adpt #share #finance",positive,0.8168256282806396
+"celg celgene corp. 52wk high
+URL
+
+$celg $mmm $mu $xoma #celg #stock #stocks",positive,0.8987981677055359
+"mmm 3m co. last price
+URL
+
+$mmm $ugaz $sds $tsla #mmm #stockmarket #pennystocks",positive,0.8085917830467224

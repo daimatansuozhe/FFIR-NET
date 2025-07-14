@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER amazon stock: gambling on jeff bezos URL $amzn,positive,0.759591817855835
+"$spy in the red, $x $amzn and others from watch list that are green today. URL",positive,0.8595746755599976
+annual lows: $coh $crox $cvlt $cbr $dmd $cbd $resi $viv $tsu $xnet $anf $vmi $cfx $hubg $amzn URL #mkt #stock #analytics,negative,0.5693879723548889

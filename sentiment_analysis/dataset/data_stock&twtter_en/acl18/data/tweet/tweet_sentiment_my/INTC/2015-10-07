@@ -1,0 +1,17 @@
+sentence,label,score
+"gold randgold resources ltd. volume
+URL
+
+$gold $cpg.to $intc $cat #gold #stocks #nasdaq",positive,0.7944064736366272
+52 week high list for 10/7: new overbought stocks in the dow URL $intc $dd $ge $lmt $nvda,positive,0.8922642469406128
+"rt AT_USER bte baytex energy corp. volume
+URL
+
+$bte $intc $amgn $mas #bte #invest #stocksbtu peabody energy corp. 52wk…",positive,0.7665438055992126
+"bte baytex energy corp. volume
+URL
+
+$bte $intc $amgn $mas #bte #invest #stocksbtu peabody energy corp. 52wk low…",positive,0.610465407371521
+$intc - intel、docsis 3.1準拠のチップセット検証にavernaを採用 URL,positive,0.7370926737785339
+intel-powered surface book from microsoft is a threat to apple URL $aapl #apple $intc $msft,negative,0.6465992331504822
+the new microsoft surface book $intc $msft URL,positive,0.8485905528068542

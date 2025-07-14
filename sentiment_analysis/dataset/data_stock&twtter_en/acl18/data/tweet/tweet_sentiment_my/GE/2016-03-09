@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER report: general electric is assessing oil opportunity in iran: URL $ge,positive,0.7864469289779663
+"morning beat: general electric, alphabet, and international business machines $ge $goog $googl $ibm URL",positive,0.962056040763855
+what is the best internet of things play? URL $amzn $ge $googl $hpq $intc $tm $goog,positive,0.93166184425354

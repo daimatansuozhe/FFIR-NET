@@ -1,0 +1,3 @@
+sentence,label,score
+the boeing company svp thomas j. downey sells 2912 shares (ba) $ba URL,negative,0.5516666173934937
+$ba airbus set for a350 safety approval in late summer -easa URL,positive,0.9452891945838928

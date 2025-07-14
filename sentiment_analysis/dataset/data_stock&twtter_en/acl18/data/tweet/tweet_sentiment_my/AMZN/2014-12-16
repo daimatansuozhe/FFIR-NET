@@ -1,0 +1,49 @@
+sentence,label,score
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+avoid mistakes like $hlf $tdw $dei $amzn #personalfinance URL,positive,0.6268805265426636
+rt AT_USER top stock options analyst details picks! $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9460676908493042
+rt AT_USER top stock options analyst details picks! $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9460676908493042
+rt AT_USER top stock options analyst details picks! $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9460676908493042
+rt AT_USER top stock options analyst details picks! $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9460676908493042
+some big names still look weak here...  $googl $amzn $nflx.  i'm looking for a flush at some point.,negative,0.7758590579032898
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+rt AT_USER top stock options analyst details picks! $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9460676908493042
+rt AT_USER top stock analyst pick list details! $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9455080628395081
+$cov are you thinking of selling $amzn $hon $abx #wallstreet URL,positive,0.7707204222679138
+AT_USER count $amzn in,positive,0.7995055913925171
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+rt AT_USER top stock options analyst details picks $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9290634989738464
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+rt AT_USER top stock analyst pick list details $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9377963542938232
+"rt AT_USER #nyse #dow_jones
+$aapl $goog $fb $amzn $pcln
+
+هذا الأسبوع لدينا اعلان شركة
+$fdx
+$bbry",positive,0.9158942699432373
+"rt AT_USER #nyse #dow_jones
+$aapl $goog $fb $amzn $pcln
+
+هذا الأسبوع لدينا اعلان شركة
+$fdx
+$bbry",positive,0.9158942699432373
+"rt AT_USER #nyse #dow_jones
+$aapl $goog $fb $amzn $pcln
+
+هذا الأسبوع لدينا اعلان شركة
+$fdx
+$bbry",positive,0.9158942699432373
+are you looking for more winners like $boh $unp $lvlt $amzn #nasdaq URL,positive,0.8595095872879028
+top stock analyst pick list details! $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9520562887191772
+rt AT_USER top stock analyst pick list details! $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9455080628395081
+$amzn break of $300 will be a disaster,negative,0.6041479706764221
+rt AT_USER top stock options analyst details picks! $aapl $amzn $baba $msft $ebay $tgt URL,positive,0.9460676908493042
+rt AT_USER top stock analyst pick list details! $aapl $amzn $baba $msft $ebay $tgt $sbux URL,positive,0.9455080628395081

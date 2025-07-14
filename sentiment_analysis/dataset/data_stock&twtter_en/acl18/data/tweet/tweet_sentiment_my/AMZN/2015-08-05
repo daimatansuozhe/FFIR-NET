@@ -1,0 +1,9 @@
+sentence,label,score
+AT_USER inc. ($amzn) rising quickly! currently priced at 537.96. URL,positive,0.9724359512329102
+rt AT_USER world's fastes growing companies $fb $amzn $dis $tm $ebay $sbux $sne  URL  URL,positive,0.8734941482543945
+"rt AT_USER #internet giants, 2015 winners &amp; losers URL
+$nflx $fb $googl $amzn $ebay $yhoo $twtr $lnkd #stocks URL",negative,0.6763045191764832
+"$shak shake shack URL
+
+$kmi $wmt $cemp $nat #kmi #pennystocks $myec $sgyp $aria $nvax #myec  $fb $nflx $amzn $jblu $cemex",positive,0.8338322639465332
+"$amzn, market up ($qqq) up more than 1.38% and amazon is under performing peers like blah at .96%, while $googl 2.… URL",positive,0.967997670173645

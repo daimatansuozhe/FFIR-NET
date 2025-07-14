@@ -1,0 +1,7 @@
+sentence,label,score
+$utx #stocks you might want to buy $zion $tmhc $vfc #financial URL,positive,0.9063098430633545
+rt AT_USER .12 eps beat by $utx,positive,0.9729173183441162
+#stock market reports on stocks like $slm $utx $ua $s must have URL,positive,0.701468288898468
+$cbl looking for the next $bpop $utx $clf #nasdaq URL,positive,0.9133512377738953
+$utx are you bullish on these #stocks $cog $mu $abx #nse URL,positive,0.9559220671653748
+AT_USER your estimate for $utx q2 2014 has been scored – URL,positive,0.5063400864601135

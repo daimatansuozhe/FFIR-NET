@@ -1,0 +1,9 @@
+sentence,label,score
+"ewu united kingdom ishares short sales
+URL
+
+$ewu $m $xlf $dis #ewu #nasdaq #invest … URL",negative,0.8026193380355835
+"xlf financials select sector spdr ideas
+URL
+
+$xlf $thcz $dis $grek #xlf #stocks #nasdaq",positive,0.7781614661216736

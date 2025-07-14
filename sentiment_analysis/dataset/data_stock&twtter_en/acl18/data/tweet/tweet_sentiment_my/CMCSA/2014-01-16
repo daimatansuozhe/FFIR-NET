@@ -1,0 +1,4 @@
+sentence,label,score
+"$cmcsa $chtr $twc 'nothing' points to comcast joining charter for twc bid, cnbc reports: full story URL",positive,0.8329829573631287
+$cmcsa - why is new jersey the nations problem? -&gt; URL #stock #stocks #stockaction,negative,0.7887454628944397
+"$cmcsa exclusive: charter, comcast in renewed talks on time warner cable bid:... URL",positive,0.9390367865562439

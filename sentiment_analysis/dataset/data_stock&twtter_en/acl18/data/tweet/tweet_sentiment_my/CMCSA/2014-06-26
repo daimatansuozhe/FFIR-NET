@@ -1,0 +1,3 @@
+sentence,label,score
+"$cmcsa: aereo violating broadcaster copyrights, high court says URL",negative,0.7885224223136902
+$cmcsa: whatever happened to the cable tv revolution? URL,positive,0.6372230648994446

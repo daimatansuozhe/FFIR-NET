@@ -1,0 +1,9 @@
+sentence,label,score
+"agg ishares barclays aggregate bond fund investor opinions
+URL
+
+$agg $fv $un $xiv #agg #invest #stock",positive,0.776689887046814
+"rndy roundy's, inc. ask
+URL
+
+$rndy $bp $un $ati #rndy #invest #nasdaq",positive,0.7091442942619324

@@ -1,0 +1,19 @@
+sentence,label,score
+"eum proshares short msci emerging markets yield
+URL
+
+$eum $acad $amgn $ua #eum #finance #stocks",negative,0.8331401348114014
+"baba alibaba group holding ltd. filings
+URL
+
+$baba $amgn $eght $bgnn #baba #investing #stock",positive,0.7129242420196533
+"smn direxion daily s&amp;p 500 bull 3x shares stock forum
+URL
+
+$smn $tqqq $cybr $amgn #smn #pennystocks #stocks",positive,0.7001006603240967
+$amgn $gild are longs.,positive,0.8749058842658997
+$axon $sage $rgen $amgn $amrn what you may have missed in biotech: $100m for antibiotics and postpartum depression URL,negative,0.7819174528121948
+"rt AT_USER fnma federal national mortgage p/e ratio
+URL
+
+$fnma $fwdg $amgn $_q #fnma #stocks #investing",positive,0.7143285870552063

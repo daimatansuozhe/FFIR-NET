@@ -1,0 +1,4 @@
+sentence,label,score
+"rt AT_USER dow makes history! closes above 18000
+$dow $nasdaq $snp AT_USER AT_USER 
+URL URL",positive,0.9504390954971313

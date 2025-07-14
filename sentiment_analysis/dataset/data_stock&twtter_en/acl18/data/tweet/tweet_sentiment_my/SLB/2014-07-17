@@ -1,0 +1,5 @@
+sentence,label,score
+rt AT_USER schlumberger $slb declares 40c quarterly dividend URL,positive,0.8835606575012207
+best research on #stocks such s $slb $expd $chh $goog #singedinvestor rate_limit_exceeded,positive,0.9470328688621521
+$jah it could be breaktout time on $slb $dis $gld #financialnews URL,positive,0.8360931873321533
+"after today's close $athn, $cof, $goog, $ibm, $swks, $slb, $amd and others reporting earnings",positive,0.8675424456596375

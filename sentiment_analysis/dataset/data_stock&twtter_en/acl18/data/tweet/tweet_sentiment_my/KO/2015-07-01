@@ -1,0 +1,9 @@
+sentence,label,score
+"adxs advaxis inc. news
+URL
+
+$adxs $has $vwo $ko #adxs #stocks #pennystocks",positive,0.7903328537940979
+"iwm real estate ishares dividend
+URL
+
+$iwm $v $vxx $ko #iwm #investing #investing",positive,0.8458544015884399

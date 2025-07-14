@@ -1,0 +1,6 @@
+sentence,label,score
+#stocks you might want to buy $data $ter $mmm  $fxy must have rate_limit_exceeded,positive,0.6784765124320984
+are you investing in $mmm $cva $tmus $gogo #equity URL,positive,0.8394026160240173
+$pep #stock market reports on stocks like $mmm $md  $hit visit URL,positive,0.6933808922767639
+latest  information on #stocks like $mmm $it $val $amzn #equity URL,positive,0.8751790523529053
+$udr are you considering selling  $mmm $rlgy  $bwp #financialnews rate_limit_exceeded,positive,0.7496564984321594

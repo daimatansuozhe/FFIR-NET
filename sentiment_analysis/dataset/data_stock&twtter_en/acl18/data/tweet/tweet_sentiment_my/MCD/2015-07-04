@@ -1,0 +1,9 @@
+sentence,label,score
+"dbltx doubleline total return bond fund filings
+URL
+
+$dbltx $mcd $rdsh $iyr #dbltx #share #stockmarket",positive,0.9546394944190979
+"gud.to knight therapeutics inc. news
+URL
+
+$gud.to $ffiv $mcd $eght #gud.to #pennystocks #stock",positive,0.7618527412414551

@@ -1,0 +1,17 @@
+sentence,label,score
+"$aapl $tsla news: ""actives on open @ cboe: $aapl $tsla $wfm $msft $wynn"" URL  analyze: … URL",positive,0.7698012590408325
+"windows 10: here are the privacy issues you should know about
+
+URL 
+
+$msft
+#windows10",negative,0.7378349900245667
+nate made $799  on $msft -check it out! URL learn #howtotrade URL $lode $rjet $nhtc $app $stra,positive,0.826808512210846
+"rt AT_USER AT_USER AT_USER الهاشتاگ لأي موضوع ببالك، الدولار يختص بالبورصة الأمريكية، مثلًا 
+جوجل تاگها $goog
+مايكروسوفت $msft
+ياهو $yhoo
+…",positive,0.7977418303489685
+track curated news and tweets for multiple tickers- us tech giants URL $aapl $googl $msft $fb… URL,positive,0.9050706028938293
+"our penny stock picks have gained 3,600% in 10 months! get early access to our next pick: URL $ntek $msft $mwip",positive,0.9714028835296631
+"pr: .AT_USER starts shipping windows 10 devices $dell, $bby, $intc, $msft, $spls URL URL",positive,0.8523155450820923

@@ -1,0 +1,18 @@
+sentence,label,score
+"xom top news - jul 16th, 2015 $xom URL",positive,0.9619168043136597
+"hptg hydrophi technologies group, inc. day low
+URL
+
+$hptg $xom $hptg $alr #hptg #share #finance",negative,0.7501910924911499
+"a agilent technologies, inc. market cap
+URL
+
+$a $dis $xom $ilns #a #nasdaq #finance",positive,0.7941300272941589
+"cop conocophillips message board posts
+URL
+
+$cop $xom $xiv $pcln #cop #tradeideas #stock",positive,0.8680338263511658
+"cost crescent point energy corp. last trade
+URL
+
+$cost $ntct $dg $xom #cost #pennystocks #pennystocks",positive,0.701046347618103

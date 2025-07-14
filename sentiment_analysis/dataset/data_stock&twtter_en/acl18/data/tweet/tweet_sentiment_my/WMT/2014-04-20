@@ -1,0 +1,3 @@
+sentence,label,score
+"even AT_USER gets into finance, now offering ""low cost"" money wires, for its under-banked consumers: URL $wmt AT_USER",positive,0.6920421123504639
+$wmt: wal-marts new money transfer service is not a major threat to western ... URL,negative,0.6106346249580383

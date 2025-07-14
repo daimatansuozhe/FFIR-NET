@@ -1,0 +1,4 @@
+sentence,label,score
+rt AT_USER sanofi's got a new ceo. now what? URL by AT_USER $sny,positive,0.8190971612930298
+"rt AT_USER been out of the #pharma, #biotech loop this week? catch up with the friday five... URL $regn $amgn $sny $g…",positive,0.8396795988082886
+in which i call bs on the dire $cvs predictions on pcsk9s. URL $regn $sny $amgn $pfe,negative,0.5644203424453735

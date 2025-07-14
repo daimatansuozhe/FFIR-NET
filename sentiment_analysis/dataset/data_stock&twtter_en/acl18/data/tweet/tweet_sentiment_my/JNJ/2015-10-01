@@ -1,0 +1,16 @@
+sentence,label,score
+".AT_USER AT_USER
+researching corruption at $jnj was your job, want to help fundraiser?
+URL",positive,0.5843167304992676
+"bib proshares ultra nasdaq biotechnology bid
+URL
+
+$bib $mjmj $cure $jnj #bib #share #invest",positive,0.9308531284332275
+"aap advance auto parts inc. 52wk high
+URL
+
+$aap $jnj $celg $tna #aap #stockmarket #stockmarket",positive,0.881193995475769
+"jnj johnson &amp; johnson news
+URL
+
+$jnj $xoma $fast $gdxj #jnj #invest #stocks",positive,0.8606588840484619

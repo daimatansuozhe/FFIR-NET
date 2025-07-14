@@ -1,0 +1,9 @@
+sentence,label,score
+"fnma federal national mortgage day high
+URL
+
+$fnma $fcel $pcln $tbt #fnma #stockmarket #stocks",positive,0.7835408449172974
+"hyg ishares iboxx high yield corporate bond fund stock forum
+URL
+
+$hyg $bnd $pcln $iyt #hyg #pennystocks #stock",positive,0.8256196975708008

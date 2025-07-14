@@ -1,0 +1,8 @@
+sentence,label,score
+rt AT_USER $nflx $t $vz URL,positive,0.8430753350257874
+"rt AT_USER new angel du$t song &amp; 7"" AT_USER
+
+listen: URL
+
+buy: URL",positive,0.8675405383110046
+"netflix limiting video quality on at&amp;t, verizon, other networks $t $vz $nflx $tmus $s URL",negative,0.7856523394584656

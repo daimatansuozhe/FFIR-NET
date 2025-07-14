@@ -1,0 +1,4 @@
+sentence,label,score
+pfizer given consensus rating of “buy” by brokerages $pfe URL,positive,0.9674361348152161
+AT_USER $pfe ...giddy up!,positive,0.9432907104492188
+$unis - getting the bum's rush URL  $amgn $bdx $biib $biod $cov $dskx $goog $bmy $jnj $pg $imnp $mrk $rtrx $rvp $sny $pfe,positive,0.853955864906311

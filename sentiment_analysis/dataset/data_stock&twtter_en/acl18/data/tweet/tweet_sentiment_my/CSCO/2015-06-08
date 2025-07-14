@@ -1,0 +1,11 @@
+sentence,label,score
+"cni canadian national rail co. 52wk high
+URL
+
+$cni $baa $wmt $csco #cni #investing #share",positive,0.9106716513633728
+"ksu kansas city southern corp. investor opinions
+URL
+
+$ksu $bcli $csco $dkl #ksu #stocks #tradeideas",positive,0.7639163732528687
+ichimoku green URL $csco $feye $gti $ivz $auo $atw $lvlt $tdc $aeg $mhfi $hewg $avg $tdw $avy $mlm $fisv $itt $aaww,positive,0.7796838283538818
+radware ltd. $rdwr enters agreement with cisco $csco for ddos mitigation technology URL,positive,0.9209994673728943

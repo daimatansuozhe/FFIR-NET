@@ -1,0 +1,4 @@
+sentence,label,score
+rt dozenstocks: dow #stocks trend $mcd $trv $v $nke $hd $intc $utx $axp $aapl $ba $dis $mmm $csco $msft $unh $wmt … URL,positive,0.8480311632156372
+$msft microsoft corporation&amp;#39;s latest android app could be its most important URL,positive,0.9298221468925476
+"$googl $msft $t news: ""hunting for value in the mega-caps $aapl #apple $brk.a…"" URL  analyze:… URL",positive,0.857414186000824

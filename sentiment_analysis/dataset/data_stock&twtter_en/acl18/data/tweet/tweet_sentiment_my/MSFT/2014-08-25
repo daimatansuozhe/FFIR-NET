@@ -1,0 +1,4 @@
+sentence,label,score
+$msft: microsoft corporation (msft) among biggest djia losers on august 20 URL URL,negative,0.8622808456420898
+$msft: google inc (googl) crushes microsoft corporation (msft)'s claims regarding URL URL,positive,0.9145303964614868
+"access curated tweets- high relevancy, less spam- us tech giants URL $msft $twtr $aapl $fb $goog",positive,0.7492341995239258

@@ -1,0 +1,15 @@
+sentence,label,score
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+"rt AT_USER coca-cola posted 14% drop in earnings, while mcdonald's profit plunged 30%. URL $mcd $ko URL",negative,0.8146101236343384
+"rt AT_USER sell the ‘peter pan rally,’ trader urges URL $ko $mcd $ibm $dis $mdy $iwm $qid AT_USER URL",positive,0.8768025636672974
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+"AT_USER AT_USER - other day, you showed dow ex-#ibm, $ko &amp; $mcd. why not show indexes, ex-oil stox, to show folks when oil drops?",positive,0.40822431445121765
+don't trade $mcd!! earn 100% a year with our 'top 10 hedge fund' artificial intelligence -  $qqq $spy URL,positive,0.88896644115448
+rt AT_USER people are eating less mcdonald's and drinking less coca-cola: URL $mcd $ko URL,negative,0.7725987434387207
+"""AT_USER people are eating less mcdonald's &amp; drinking less coca-cola: URL $mcd $ko URL -a plus i think",positive,0.6026790738105774

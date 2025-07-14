@@ -1,0 +1,4 @@
+sentence,label,score
+"investor's alert: intel corporation (intc), acacia research corp (actg ... $intc URL",positive,0.7184523344039917
+#stocks you might want to  hold onto $bll $pl $intc $pcln #wallstreet URL,positive,0.7940710783004761
+$intc - prosecutors: accept sac capital guilty plea -&gt; URL #stock #stocks #stockaction,negative,0.7723386287689209

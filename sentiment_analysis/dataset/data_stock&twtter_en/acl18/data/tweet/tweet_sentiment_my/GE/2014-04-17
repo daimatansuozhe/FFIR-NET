@@ -1,0 +1,9 @@
+sentence,label,score
+$ge wall street edges lower on mixed earnings reports URL,negative,0.8597383499145508
+some trading plan  for today 4/17 $ge $sndk $yelp $pep $ge $mcd $clr $gdp : URL,positive,0.8108966946601868
+"rt AT_USER $ge 1q earnings fall, outlook strong URL",positive,0.7700546979904175
+general electric : ge power conversion helps propel us navy into the future with first all-electric warship URL $ge $alo,positive,0.9735581278800964
+"this is a lagging play. almost a proxy for the us economy, which hasn&amp;rsqu...general-electric URL #stocks $ge-n",negative,0.5100125074386597
+dow #stocks trend $mmm $xom $cvx $dd $t $ge $trv $ko $pg $csco $wmt $jnj $mcd $utx $ba $intc $msft $nke $cat $v  @ URL,positive,0.8801092505455017
+"rt AT_USER ""we are committed to #dividend growth and share buybacks."" -- $ge ceo AT_USER on 1q'14 earnings webcast URL",positive,0.9345253705978394
+rt AT_USER earnings: $gs posts big beat URL | $ms also tops views URL | $ge logs mixed 1q URL,positive,0.8966181874275208

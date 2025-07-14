@@ -1,0 +1,8 @@
+sentence,label,score
+"intersting article about a new stock pick site.  URL
+
+related: $baba $lnkd $fb $hlf",positive,0.7298542857170105
+rt AT_USER diclemente: netflix's real advantage is this $amzn $fb $goog  URL,positive,0.9221962690353394
+"$fb percent change updated sunday, february 14, 2016 09:59:22 am $c $pzc $twtr $amzn URL",positive,0.7231127619743347
+URL &lt;- the number one reason you will fail or succeed as a trader $twtr $study #stocks #pennystocks $fb,negative,0.734213650226593
+"rt AT_USER market down, splash zone up - updated trading results | shareplanner URL #stocks #trading $aapl $fb $…",negative,0.7470824122428894

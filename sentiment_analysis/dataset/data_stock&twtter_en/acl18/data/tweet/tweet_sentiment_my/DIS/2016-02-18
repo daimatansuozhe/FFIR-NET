@@ -1,0 +1,6 @@
+sentence,label,score
+rt AT_USER abc's #disneyland60 video sneak peek URL $dis AT_USER AT_USER AT_USER AT_USER 3 #fb,negative,0.5024987459182739
+$djia $compq $spx $spy $aapl $dis $mcd  URL,positive,0.9246533513069153
+"my second most frequently asked question at $dis world. ""does this accept $aapl pay?""  the answer so far has been yes",neutral,0.38617420196533203
+weekly s&amp;p100 #stocks performance $pcln $kmi $csco $qcom $amzn $foxa $hpq $apc $cat $f $twx $slb $oxy $dis more@ URL,positive,0.911696195602417
+AT_USER AT_USER AT_USER what do you think of a more formal relationship between $dis and $twtr. would love your thoughts,positive,0.8099909424781799

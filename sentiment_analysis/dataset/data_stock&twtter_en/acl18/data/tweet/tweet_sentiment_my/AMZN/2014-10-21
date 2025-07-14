@@ -1,0 +1,12 @@
+sentence,label,score
+"rt AT_USER some #earnings 
+$ibm $aapl $cmg $mcd $cree 
+$vmw $yhoo $biib $nxpi $now 
+$yelp $dnkn $ua $amzn $deck 
+$msft $p $ups URL",positive,0.9102426767349243
+here's what URL inc. (amzn)'s amazonfresh service looks like $amzn URL,positive,0.876778781414032
+"if you are a holder of $amzn, make sure you have protection (we recommend puts) going into earnings.",neutral,0.47235551476478577
+rt AT_USER can you legally yell 'fire' in a crowded $amzn store?,positive,0.44822758436203003
+morning watchlist: $aapl $bidu $amzn $twtr $nflx $ibm $cmg $bbry $yhoo tweet us what you are watching today!,positive,0.9302035570144653
+rt AT_USER $mara filed 5 new cases in the vantage point portfolio. defendants include $aapl $goog and $amzn credit to AT_USER for fi…,negative,0.4481568932533264
+$fxi daily chart $fxi most recent stock chart and technical analysis. $true $fxi $upro $vlo $gild $amzn URL URL,positive,0.7029291987419128

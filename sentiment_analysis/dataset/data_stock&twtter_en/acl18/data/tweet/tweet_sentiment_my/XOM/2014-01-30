@@ -1,0 +1,6 @@
+sentence,label,score
+earnings release for tomorrow (before the open): $tmo $twc $ua $ups $utek $v $viab $vly $wcc $whr $xel $xom $zmh URL,positive,0.8794492483139038
+"$xom: exxon mobil misses by $0.01, misses on revs URL",negative,0.8278072476387024
+"$xom's rosesnthal on recent natgas spike ""we don't worry about st $ moves, but always retain flex./ capability to move around activity""",positive,0.8119710087776184
+$xom - oil prices in 2014 are set for a big drop -&gt; URL #stock #stocks #stockaction,negative,0.8205327391624451
+"the heavy exploration budget at AT_USER should help boost 2014 profit, AT_USER says in latest column URL $xom",positive,0.9765890836715698

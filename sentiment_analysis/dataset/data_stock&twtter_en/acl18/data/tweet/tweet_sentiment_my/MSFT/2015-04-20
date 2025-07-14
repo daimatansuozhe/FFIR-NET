@@ -1,0 +1,13 @@
+sentence,label,score
+"#microsoft embraces #applewatch , $msft $aapl URL",positive,0.9432290196418762
+#stock #news the burgeoning industry fighting the world's greatest threat: we're now offi... URL $mu $msft $tsla $amd,positive,0.7605389952659607
+$ba $cat $ibm $mcd $mmm $msft $pg $utc $vz -dow earnings parade URL,positive,0.6002302169799805
+"rt AT_USER .AT_USER reveals AT_USER will most likely launch AT_USER 10 in july $amd, $msft URL URL",positive,0.8010014891624451
+"rt AT_USER earnings calendar
+$mlnx $cmg $cree $isrg
+$vmw $yhoo $angi $ebay
+$ffiv $fb $qcom $cat $amzn
+$goog $jnpr $msft $p $sbux URL",positive,0.89860999584198
+rt AT_USER reminder: this guy used to run microsoft $msft URL,positive,0.6623427867889404
+"crunch time for the stock market - tickerlens $msft #microsoft,msft URL URL",positive,0.6614741086959839
+rt AT_USER reminder: this guy used to run microsoft $msft URL,positive,0.6623427867889404

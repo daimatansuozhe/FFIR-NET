@@ -1,0 +1,3 @@
+sentence,label,score
+amgn cup&amp;handle $amgn URL,positive,0.9203663468360901
+"commented on stocktwits: ""AT_USER $amgn trying to curl back up. keep it on the radar for possible break out... URL",positive,0.6413218379020691

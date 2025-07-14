@@ -1,0 +1,8 @@
+sentence,label,score
+"AT_USER $c your tweet has been featured on market parse, for iphone. URL",positive,0.5894195437431335
+"AT_USER $c your tweet has been featured on market parse, for iphone. URL",positive,0.5894195437431335
+AT_USER your tweet about $c had a sentiment of 5 and was featured on market parse. URL,neutral,0.808927595615387
+s&amp;p100 #stocks performance $bac $bk $met $ms $aapl $ebay $cof $usb $aig $wfc $twx $c $jpm $abbv $cmcsa  more@ URL,positive,0.9218248724937439
+$c - prospectus filed pursuant to rule 424(b)(2) (424b2) URL,neutral,0.462088406085968
+"#nowplaying ♫ limelight – t.i., big kuntry, p$c URL",positive,0.8777865767478943
+rt AT_USER $jpm $c $bac branch managers told to set up velvet ropes and hire bouncers for the crush of borrowers about to show up …,positive,0.885974645614624

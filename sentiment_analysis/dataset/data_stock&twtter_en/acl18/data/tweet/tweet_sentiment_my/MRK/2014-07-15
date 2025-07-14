@@ -1,0 +1,3 @@
+sentence,label,score
+avoid mistakes like $fls $sgen $mrk  $rax #stock URL,positive,0.7962150573730469
+this weeks stocks you should watch $abbv $mxim $mrk  $amzn #stock URL,positive,0.7357406616210938

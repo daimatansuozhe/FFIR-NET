@@ -1,0 +1,13 @@
+sentence,label,score
+"rt AT_USER baba bank of america corp. 52wk low
+URL
+
+$baba $qcom $pgf $vpro #baba #investing #finance",negative,0.57136470079422
+"rt AT_USER srpt sarepta therapeutics, inc. filings
+URL
+
+$srpt $baba $mo $rjf #srpt #tradeideas #stock",positive,0.760378897190094
+$yelp $uso $uwti $fb $msft $baba $amzn $twtr $tsla $atv $xco $fcx $aapl $sune $chk $nflx . URL URL,positive,0.6964998245239258
+"rt AT_USER $baba buh-bye?
+ URL",positive,0.8815975785255432
+"private asset management buys $2,074,000 in alibaba group holding ltd $baba shares URL #acn",positive,0.9316424131393433

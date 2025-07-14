@@ -1,0 +1,19 @@
+sentence,label,score
+"apple upgraded, alibaba pts hiked, twitter pts cut URL #ibdnews via AT_USER  $aapl $baba $twtr $nvs $akam $dnkn",positive,0.5636945962905884
+"$jd $baba:
+
+don’t miss : URL inc. (nasdaq:jd), encana corporation (nyse …:
+
+URL",negative,0.8374289870262146
+"baba top news - oct 28th, 2015 $baba URL",positive,0.8713422417640686
+jack ma got china goo goo for $baba URL,positive,0.8971384763717651
+"$baba:
+
+morgan stanley trims alibaba group holding target price to $98.70 …:
+
+URL",positive,0.8015433549880981
+URL bobirw: short 800 $baba at 79.56: bobirw URL URL,negative,0.7670607566833496
+"alibaba: singles day, earnings and outlook URL $baba",positive,0.8631024360656738
+alibaba group holding limited  upgrade by bank of america (ranked 45th) to buy $baba #baba URL,positive,0.9509165287017822
+rt AT_USER alibaba’s strong mobile signal should drown out the noise from growth fears URL AT_USER $baba htt…,positive,0.9682919979095459
+"rt AT_USER us earnings tuesday: thoughts on alibaba, ups, coach URL $baba $ups $coh URL",positive,0.8608984351158142

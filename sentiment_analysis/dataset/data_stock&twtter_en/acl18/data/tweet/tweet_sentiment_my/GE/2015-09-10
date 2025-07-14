@@ -1,0 +1,4 @@
+sentence,label,score
+dow #stocks trend $intc $trv $v $axp $unh $ba $mcd $utx $nke $gs $vz $csco $ge $pfe $mmm $hd $wmt $aapl $dis  @ URL,positive,0.8988804817199707
+$ge to sell transportation finance unit to $bmo,positive,0.8390741944313049
+$ge expected to decide on new location for headquarters in fourth quarter: cnbc - URL,positive,0.8559475541114807

@@ -1,0 +1,21 @@
+sentence,label,score
+"fv first trust dorsey wright focus 5 etf ask
+URL
+
+$fv $baba $amzn $itb #fv #stocks #nasdaq",positive,0.8247953057289124
+"aapl apple, inc. filings
+URL
+
+$aapl $amzn $dis $fxb #aapl #finance #invest",positive,0.8497446775436401
+"amzn URL inc. stock message board
+URL
+
+$amzn $bobe $aria $sh #amzn #finance #stock",positive,0.7237399220466614
+"xlu utilities select sector spdr bid size
+URL
+
+$xlu $goog $amzn $giii #xlu #pennystocks #stock",positive,0.8032990097999573
+"amzn URL inc. yield
+URL
+
+$amzn $rsp $hou.to $bx #amzn #tradeideas #stock",positive,0.8851866722106934

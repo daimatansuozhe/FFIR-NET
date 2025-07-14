@@ -1,0 +1,21 @@
+sentence,label,score
+"cod.l costco wholesale corp. market cap
+URL
+
+$cod.l $hd $dust $fb #cod.l #nasdaq #stockmarket",positive,0.7422234416007996
+"hd home depot, inc. volume
+URL
+
+$hd $uvxy $dust $sndk #hd #stocks #finance",positive,0.7230152487754822
+"mmm 3m co. company info
+URL
+
+$mmm $hd $sbux $bery #mmm #stocks #stockmarketmro marathon oil filings…",positive,0.6619972586631775
+"hd home depot, inc. last price
+URL
+
+$hd $aci $nflx $cmn #hd #stocks #nasdaq",positive,0.7610683441162109
+"ahs amn healthcare services, inc. exchange
+URL
+
+$ahs $xli $cnat $hd #ahs #tradeideas #stocks",positive,0.8088858127593994

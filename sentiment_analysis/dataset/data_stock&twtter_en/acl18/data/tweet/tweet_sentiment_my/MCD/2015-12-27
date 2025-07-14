@@ -1,0 +1,11 @@
+sentence,label,score
+"rt AT_USER c citigroup, inc. ask size
+URL
+
+$c $fizz $avid $mcd #c #share #pennystocks",positive,0.7676423788070679
+check which story for #dowjones has the highest score $v $mmm $mcd URL URL,positive,0.9314298629760742
+"atvi activision blizzard inc. volume
+URL
+
+$atvi $bac $mcd $sri #atvi #tradeideas #invest",positive,0.8383180499076843
+$mcd reaches inflation target AT_USER URL,positive,0.958536684513092

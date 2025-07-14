@@ -1,0 +1,24 @@
+sentence,label,score
+"rt AT_USER $infy $jnj $dfrg $fast
+$intc $hawk $csx $jpm
+$bac $blk $wfc $dal $c
+$nflx $xlnx $gs $bx $fcs
+$unh $mat $slb $ge $hon URL",positive,0.8899731040000916
+"coh coach, inc. eod data
+URL
+
+$coh $dust $gild $ge #coh #finance #stock",positive,0.8408237099647522
+"ge general electric co. ex-div date
+URL
+
+$ge $dge.l $vxz $has #ge #invest #tradeideas",positive,0.8654467463493347
+"ge general electric co. day low
+URL
+
+$ge $uvxy $vti $mat #ge #stocks #share",negative,0.6381211876869202
+"rt AT_USER rt AT_USER earnings week:
+
+tue- $intc $jpm $jnj
+wed- $bac $nflx $dal $wfc
+thur- $c $gs $mat
+fri- $pgr $gww $ge URL",positive,0.8155813217163086

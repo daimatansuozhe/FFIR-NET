@@ -1,0 +1,10 @@
+sentence,label,score
+"$ocls target $5.70, 250% upside, 2 articles on earnings beat $mnkd $moh $ngg investors read URL URL",positive,0.9639645218849182
+"ngg netqin mobile inc. prev close
+URL
+
+$ngg $hl $abx.to $nbg #ngg #stocks #invest",positive,0.8460116386413574
+"aavl avalanche biotechnologies, inc. short sales
+URL
+
+$aavl $ngg $hysr $ashr #aavl #invest #stocks",negative,0.7090295553207397

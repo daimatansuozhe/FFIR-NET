@@ -1,0 +1,4 @@
+sentence,label,score
+$dv are you looking to buy $nvr $dis $wtw #investing URL,positive,0.8522893190383911
+$pwr are you hanging on to $mo $dis $clf #nse URL,positive,0.8274939060211182
+"$dis: friday box office: heaven is for real earns $7.85m, johnny depps trans... URL",positive,0.5165841579437256

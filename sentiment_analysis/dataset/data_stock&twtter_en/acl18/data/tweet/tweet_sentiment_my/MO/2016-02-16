@@ -1,0 +1,9 @@
+sentence,label,score
+"rt AT_USER shw sherwin williams co. % change
+URL
+
+$shw $spwr $mo $erbb  #stockmarket #tradeideas",positive,0.8146425485610962
+"mo altria group inc. stock message board
+URL
+
+$mo $wmt $xlu $pg  #finance #stocks",positive,0.7870985865592957

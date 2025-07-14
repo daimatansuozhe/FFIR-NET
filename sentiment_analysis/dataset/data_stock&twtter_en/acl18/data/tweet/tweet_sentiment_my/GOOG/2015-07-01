@@ -1,0 +1,21 @@
+sentence,label,score
+"rt AT_USER stocks higher amid greece hopes, data; financials jump 1%:  URL $aapl $goog $pcln $k",positive,0.9736680388450623
+rt AT_USER AT_USER AT_USER AT_USER AT_USER talk about fuel? $pbr $goog  — (1) URL and (2) URL …,positive,0.6878893375396729
+"goog google inc. - class c market cap
+URL
+
+$goog $wba $xlk $aci #goog #investing #investing",positive,0.8880617022514343
+5 cheap and easy ways to improve your website seo URL $goog $msft,positive,0.9188884496688843
+"rt AT_USER new post - ""trading ideas: 5 stocks to watch for tomorrow"" URL by AT_USER $fb $twtr $goog $mdxg $…",positive,0.905264675617218
+"bib proshares ultra nasdaq biotechnology bid size
+URL
+
+$bib $goog $gogo $feye #bib #invest #stock",positive,0.9077386260032654
+"goog google inc. - class c ask size
+URL
+
+$goog $ewg $xlf $tmf #goog #tradeideas #tradeideas",positive,0.8173003196716309
+"sds proshares ultra short s&amp;p 500 market cap
+URL
+
+$sds $goog $c $kbio #sds #share #pennystocks",negative,0.7255172729492188

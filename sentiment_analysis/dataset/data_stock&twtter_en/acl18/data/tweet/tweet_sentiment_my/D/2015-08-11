@@ -1,0 +1,25 @@
+sentence,label,score
+rt AT_USER l$d [love x $ex x dreams] (2015); directed by dexter navy and a$ap rocky URL,positive,0.7880874872207642
+"rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL",positive,0.43840065598487854
+rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud death every morning... #talkthrumusic 🎼🎶 URL,neutral,0.46896490454673767
+"rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL this shit is too good",positive,0.6983091831207275
+"rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL this shit is too good",positive,0.6983091831207275
+"rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL",positive,0.43840065598487854
+rt AT_USER l$d,positive,0.7499744892120361
+rt AT_USER AT_USER ~ l$d (love x $ex x dreams) URL,positive,0.8431932926177979
+rt AT_USER l$d x a$ap rocky,positive,0.8128654360771179
+rt AT_USER l$d 👽,positive,0.8345585465431213
+"rt AT_USER lmao rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL",positive,0.496844083070755
+"rt AT_USER lmao rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL",positive,0.496844083070755
+"rt AT_USER lmao rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL",positive,0.496844083070755
+"rt AT_USER lmao rt AT_USER listen to no1drug | l$d (pain in me) by no1|no.1 #np on #soundcloud
+URL",positive,0.496844083070755
+l$d 😱,positive,0.8557960391044617
+rt AT_USER a$ap rocky - l$d URL,positive,0.7452085018157959

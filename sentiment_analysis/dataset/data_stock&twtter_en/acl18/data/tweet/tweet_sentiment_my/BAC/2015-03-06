@@ -1,0 +1,11 @@
+sentence,label,score
+#merrill hires several more ubs advisers -- street moves URL $bac,positive,0.9001010656356812
+s&amp;p100 #stocks performance $bac $bk $met $ms $aapl $ebay $cof $usb $aig $wfc $twx $c $jpm $abbv $cmcsa  more@ URL,positive,0.9218248724937439
+"$bac duke energy exec leaving for key post at bank of america: 
+duke energy exec leaving for key post at bank ... URL",negative,0.6527249217033386
+"$bac trade-ideas: bank of america corporation (bac) is today's post-market leader ...: 
+trade-ideas: bank of a... URL",positive,0.9016037583351135
+"$bac curious to see if it does eod rally to $16.40-16.50, bac was the clear winner of round 1 stress test, c is on the hot seat.",positive,0.8903725147247314
+"rt AT_USER .AT_USER AT_USER here's $aa $hpq &amp; $bac
+ URL",positive,0.8512277603149414
+rt AT_USER $jpm $c $bac branch managers told to set up velvet ropes and hire bouncers for the crush of borrowers about to show up …,positive,0.885974645614624

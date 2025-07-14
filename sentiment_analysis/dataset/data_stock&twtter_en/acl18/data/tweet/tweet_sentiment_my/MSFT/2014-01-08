@@ -1,0 +1,10 @@
+sentence,label,score
+rt AT_USER microsoft will not make ceo decision until february at the earliest. (via AT_USER $msft,negative,0.6420217156410217
+rt AT_USER ford’s alan mulally won’t be the next microsoft ceo. who should replace steve ballmer? URL $f $msft,negative,0.5585471391677856
+microsoft corporation : sheikh mohammed bin rashid smart learning ... $msft URL,positive,0.6672543287277222
+$msft microsoft acquires parature to add leading customer self-service suite... URL,positive,0.9554177522659302
+rt AT_USER nokia can put microsoft on the mobile map URL $nok $msft,positive,0.8119751811027527
+$msft microsoft corporation : tech data uk makes email to office 365 easy for ... URL,positive,0.7045386433601379
+$msft - ford ceo mulally won't leave for microsoft -ap URL,negative,0.666825532913208
+"didn't $hpq, $msft etc. try the marissa mayer growth-by-acquisition strategy? $yhoo buys company 'xyz' is like a broken record",positive,0.9026848673820496
+$f $msft $mu $apol $tcs $rbcn $sprt on the fly: after hours movers: full story URL,positive,0.9115229249000549

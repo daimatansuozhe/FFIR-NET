@@ -1,0 +1,4 @@
+sentence,label,score
+just $c tomorrow night,positive,0.9430510401725769
+rt AT_USER big banks want lower. $bac $gs $ms $jpm $wfc $c &lt;&lt;-- #banks still acting weak indeed.,negative,0.768158495426178
+"bought $c yesterday and i'm already up 49%, not bad.",positive,0.9576905369758606

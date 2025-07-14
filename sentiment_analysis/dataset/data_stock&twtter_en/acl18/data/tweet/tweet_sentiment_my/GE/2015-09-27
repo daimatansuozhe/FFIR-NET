@@ -1,0 +1,9 @@
+sentence,label,score
+"vti vanguard total stock market etf 52wk high
+URL
+
+$vti $ge $cgix $pmcb #vti #investing #tradeideas",positive,0.935276985168457
+"ilmn illumina, inc. tick
+URL
+
+$ilmn $ge $ddd $tip #ilmn #stock #pennystocks",positive,0.8466268181800842

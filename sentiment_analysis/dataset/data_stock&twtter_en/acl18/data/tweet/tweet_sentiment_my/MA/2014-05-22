@@ -1,0 +1,4 @@
+sentence,label,score
+$scco get great research on stocks $ma $ca $wtw #research URL,positive,0.9545544385910034
+"our penny stock picks saw 4,000% gains, so far this year! get the next pick early: URL $act $ma $tho $tsl",positive,0.9583908319473267
+are you considering buying $bah $ph $ma $goog #financialnews URL,positive,0.913166344165802

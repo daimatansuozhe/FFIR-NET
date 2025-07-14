@@ -1,0 +1,26 @@
+sentence,label,score
+$cvx #stocks you might want to sell $wr $pep $pcln #personalfinance URL,positive,0.6352769136428833
+insider trading updates on $cbi $pnw $int $pcln #newsletter URL,positive,0.9174782037734985
+"rt AT_USER #nyse #dow_jones
+$aapl $goog $fb $amzn $pcln
+
+هذا الأسبوع لدينا اعلان شركة
+$fdx
+$bbry",positive,0.9158942699432373
+"rt AT_USER #nyse #dow_jones
+$aapl $goog $fb $amzn $pcln
+
+هذا الأسبوع لدينا اعلان شركة
+$fdx
+$bbry",positive,0.9158942699432373
+"rt AT_USER #nyse #dow_jones
+$aapl $goog $fb $amzn $pcln
+
+هذا الأسبوع لدينا اعلان شركة
+$fdx
+$bbry",positive,0.9158942699432373
+$tup #stocks to hold onto $mo $hp $pcln check out URL,positive,0.9164777398109436
+"$pcln stock message board updated tuesday, december 16, 2014 10:11:45 am $fxi $tlm $eem $fxi URL",positive,0.8134975433349609
+target hit huge profits what is next $spy $five $lulu $outr $pcln: URL via AT_USER,positive,0.9132891893386841
+todays movers to research $fti $gt $sdrl $pcln #wallstreet URL,positive,0.8621395230293274
+are you bullish on these #stocks $pcln $esv $emr $lgnd #personalfinance URL,positive,0.965858519077301

@@ -1,0 +1,9 @@
+sentence,label,score
+"oil day high
+URL
+
+$oil $msft $fcx $ctrp #oil #finance #pennystocks",positive,0.9374737739562988
+rt AT_USER microsoft has finished rolling out skype translator to all windows users. $msft URL,positive,0.8562114834785461
+track curated news and tweets for multiple tickers - us tech giants URL $aapl $goog $msft $fb $twtr,positive,0.9152154922485352
+the stock market decline is gaining momentum URL $aal $aapl $amzn $cvx $dia $fb $gild $googl $hyg $iwm $jnk $kmi $msft,positive,0.8025901317596436
+december videogame sales slightly off as console transition continues URL $atvi $ea $ttwo $msft,negative,0.6434603333473206

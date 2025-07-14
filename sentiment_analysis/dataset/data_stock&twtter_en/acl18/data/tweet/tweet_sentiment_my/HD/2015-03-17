@@ -1,0 +1,4 @@
+sentence,label,score
+"$tna short sales updated tuesday, march 17, 2015 2:59:23 pm $pcln $lnkd $hd $mu URL",negative,0.75082927942276
+"$low, $ll, $tts, $shos, $hd earnings trend comparison #cml URL",positive,0.7584092020988464
+"$mhys reviews updated monday, march 16, 2015 12:03:44 pm $ea $hd $acad $slw URL",positive,0.8063347339630127

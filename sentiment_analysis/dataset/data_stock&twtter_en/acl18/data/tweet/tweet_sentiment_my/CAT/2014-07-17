@@ -1,0 +1,4 @@
+sentence,label,score
+are you looking to buy $cat $fti $crs $cray #financial rate_limit_exceeded,positive,0.864507257938385
+rt AT_USER $iyj  $cat  $acn  $emr  large outflows detected at etf #etfs URL,negative,0.6621122360229492
+$lmca #stocks to hold onto $cat $swks $slw #liquidity URL,positive,0.8690868616104126

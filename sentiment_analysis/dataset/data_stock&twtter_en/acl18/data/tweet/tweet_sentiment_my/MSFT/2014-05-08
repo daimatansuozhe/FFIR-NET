@@ -1,0 +1,5 @@
+sentence,label,score
+$msft - microsoft just fired a shot in the war for the living room -&gt; URL #stock #stocks #stockaction,positive,0.8058816194534302
+"bill gates sparks debate over microsoft selling off its xbox business 
+URL
+AT_USER $msft #divestiture",negative,0.6519728899002075

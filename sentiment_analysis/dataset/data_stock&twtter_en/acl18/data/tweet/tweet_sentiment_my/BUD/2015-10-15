@@ -1,0 +1,8 @@
+sentence,label,score
+"rt AT_USER early movers:
+
+$gs $bud $unh $mo $sbux
+$wmt $pm $nflx $tsla $fdc
+$xlnx $vrx $syt $aapl $grmn
+
+URL",positive,0.9084082841873169

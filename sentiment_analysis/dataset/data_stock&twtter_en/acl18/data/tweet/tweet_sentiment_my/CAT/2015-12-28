@@ -1,0 +1,10 @@
+sentence,label,score
+"agro adecoagro sa short sales
+URL
+
+$agro $abbv $pn $cat #agro #share #stock",negative,0.796562671661377
+"fl foot locker, inc. change
+URL
+
+$fl $sien $cat $sco #fl #stock #pennystocks",positive,0.8170905709266663
+meag munich ergo kapitalanlagegesellschaft continues to hold position in caterpillar inc. $cat URL #acn,positive,0.9425365328788757

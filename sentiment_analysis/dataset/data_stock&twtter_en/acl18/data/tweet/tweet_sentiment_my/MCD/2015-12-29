@@ -1,0 +1,25 @@
+sentence,label,score
+"aapl apple, inc. bid size
+URL
+
+$aapl $uso $mcd $ccl.in #aapl #stock #stock",positive,0.8737906813621521
+"rt AT_USER stocks hitting all-time highs today:
+
+$goog &amp; $googl
+$mcd
+$amzn
+$rcl
+$dps
+$sjm URL",positive,0.9628254175186157
+"rt AT_USER stocks hitting all-time highs today:
+
+$goog &amp; $googl
+$mcd
+$amzn
+$rcl
+$dps
+$sjm URL",positive,0.9628254175186157
+"rt AT_USER stocks that set new record closing highs today:
+
+$goog, $googl, $amzn, $rcl, $k, $mcd, $dps, $kmb, $tmo. URL",positive,0.9677927494049072
+AT_USER AT_USER those #taxdodgers made $4 billion last year! #coughup! #leaners #auspol $mcd,positive,0.7701828479766846

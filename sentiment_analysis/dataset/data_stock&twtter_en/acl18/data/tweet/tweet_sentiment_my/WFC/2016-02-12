@@ -1,0 +1,4 @@
+sentence,label,score
+"should you buy bank of america, wells fargo, jpmorgan, citigroup now? $wfc $bac $c $xlf $jpm URL",positive,0.897318422794342
+#wellsfargo ( $wfc) pt lowered to $60.00. read more: URL,negative,0.8037502765655518
+#wellsfargo ( $wfc) pt lowered to $60.00. read more: URL,negative,0.8037502765655518

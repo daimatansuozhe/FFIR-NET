@@ -1,0 +1,11 @@
+sentence,label,score
+"$msft active, relative volume: 3.32, 1h, 8:00 am, #nasdaq $ndx $dji $spy bosocial",positive,0.8704236745834351
+"bosocial: $msft active, relative volume: 3.32, 1h, 8:00 am, #nasdaq $ndx $dji $spy bosocial URL",positive,0.8286192417144775
+$msft:us microsoft: a $7.6 billion write-off plus layoffs is never a good sign #microsoft corp  URL #nasdaq,positive,0.6577966809272766
+"our penny stock picks have gained 3,600% in 9 months! subscribe to get our future picks: URL $ntek $msft $mwip",positive,0.9688266515731812
+"rt AT_USER tech ceos trade barbs, warm up for holiday tablet wars URL $msft $aapl",positive,0.9118321537971497
+"$msft:
+
+microsoft stock rating reaffirmed by keybanc (msft):
+
+URL",positive,0.972733199596405
