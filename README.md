@@ -23,7 +23,7 @@ The model is evaluated on two real-world datasets:
 Industry relationships for both datasets are sourced from the iFinD financial data terminal.
 
 ## Results
-FFIR-Net outperforms state-of-the-art baselines (e.g., LSTM, GCN, AD-GAT, FinHGNN) in both classification metrics (accuracy, AUC, F1-score) and practical trading profitability (IRR, Sharpe Ratio) across bull, bear, and sideways market conditions.
+FFIR-Net outperforms state-of-the-art baselines (e.g., LSTM, GCN, AD-GAT, FinHGNN,VGC-GAN,MagicNet) in both classification metrics (accuracy, AUC, F1-score) and practical trading profitability (IRR, Sharpe Ratio) across bull, bear, and sideways market conditions.
 
 Due to the needs of subsequent work, we are currently providing a simplified version of the model and example implementations. The full project code will be gradually released in future updates.
 
