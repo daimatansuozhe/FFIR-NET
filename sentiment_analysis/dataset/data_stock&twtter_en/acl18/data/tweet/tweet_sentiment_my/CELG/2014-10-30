@@ -1,6 +1,0 @@
-sentence,label,score
-"rt AT_USER $celg open
-
-click here: URL
-
-also see: $glw $amat $myec $ggal ~",positive,0.8901348114013672

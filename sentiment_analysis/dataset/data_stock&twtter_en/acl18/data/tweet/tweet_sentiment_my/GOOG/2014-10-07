@@ -1,5 +1,0 @@
-sentence,label,score
-$googl $goog 2% down day,negative,0.8298670053482056
-jnk stock chart $jnk $gdxj $hxd.to $goog URL URL,positive,0.7992948293685913
-commented on stocktwits: i admit $goog is not all that in all areas however the vision is clearer than $aol &amp; $yh... URL,positive,0.5596447587013245
-"""samsung's issued a warning that it's q3 profits are kinda crummy -- actually, they're down 60%"" $goog $aapl URL",negative,0.8684343695640564

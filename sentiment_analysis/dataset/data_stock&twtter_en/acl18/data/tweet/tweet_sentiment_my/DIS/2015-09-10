@@ -1,7 +1,0 @@
-sentence,label,score
-dow #stocks trend $intc $trv $v $axp $unh $ba $mcd $utx $nke $gs $vz $csco $ge $pfe $mmm $hd $wmt $aapl $dis  @ URL,positive,0.8988804817199707
-"gdx market vectors gold miners stock message board
-URL
-
-$gdx $googl $dis $blta #gdx #stock #investing",positive,0.8741204738616943
-"new disney store arrivals and sales for september 9, 2015 (84 items) URL $dis 2 #fb",positive,0.6495285034179688

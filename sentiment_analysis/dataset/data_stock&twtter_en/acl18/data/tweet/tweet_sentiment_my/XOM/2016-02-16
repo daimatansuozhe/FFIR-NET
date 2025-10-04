@@ -1,7 +1,0 @@
-sentence,label,score
-$xom long here.,positive,0.9564722776412964
-"fslr first solar inc. news
-URL
-
-$fslr $xom $gold $yri.to  #nasdaq #tradeideas",positive,0.9220855832099915
-what to do when the #stock market falls $adm $xom $de also $jnj $msft $afl $axp $spx URL,negative,0.787080705165863

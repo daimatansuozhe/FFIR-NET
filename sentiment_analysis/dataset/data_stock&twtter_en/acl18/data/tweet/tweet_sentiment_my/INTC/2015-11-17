@@ -1,8 +1,0 @@
-sentence,label,score
-"eltp elite pharmaceuticals, inc. day high
-URL
-
-$eltp $scty $intc $fdn #eltp #nasdaq #stock",positive,0.9320595860481262
-".AT_USER expands gaming motherboard lineup with high-end b150 $amd, $intc, URL URL",positive,0.977384626865387
-"$intc news: ""what to expect ahead of intel's analyst day thursday $intc"" URL  analyze: URL",positive,0.9505104422569275
-$mu micron stock predictions: the upcoming market leader in semiconductor devices URL $intc,positive,0.8809004426002502

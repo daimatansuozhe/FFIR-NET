@@ -1,9 +1,0 @@
-sentence,label,score
-"$grek investor opinions updated wednesday, october 28, 2015 08:59:23 am $wmt $intc $wmt $erx URL",positive,0.8462840914726257
-$intc: analyst action by jefferies on intel: URL URL,positive,0.7124106287956238
-apple: mac increases market share amidst pc downdraft URL $intc $msft $aapl,positive,0.6744043827056885
-"rt AT_USER $spx re*winder $intc *moore is $macro #iot #tech the race is on! it's the chips, stupid! URL 😎™ URL",positive,0.7874040007591248
-"uwti ipath s&amp;p 500 vix short-term futures etn summary
-URL
-
-$uwti $intc $rwm $hptg #uwti #stock #finance",negative,0.537505030632019

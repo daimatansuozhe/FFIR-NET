@@ -1,9 +1,0 @@
-sentence,label,score
-"amzn URL inc. exchange
-URL
-
-$amzn $cxr.to $xli $wmt #amzn #stockmarket #finance",positive,0.8117983937263489
-"wmt wal-mart stores, inc. exchange
-URL
-
-$wmt $osk $uvxy $tsla #wmt #stock #stock",positive,0.7236998677253723

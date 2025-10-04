@@ -1,5 +1,0 @@
-sentence,label,score
-rt AT_USER comcast $cmcsa and netflix $nflx team up to provide customers excellent user experience - URL,positive,0.9773837327957153
-"netflix, inc. : united states : netflix traffic gets served by comcast directly  URL $nflx $cmcsa",positive,0.7783723473548889
-rt AT_USER what the #comcast-#netflix deal means for the industry URL AT_USER AT_USER $nflx $cmcsa URL,positive,0.8248745799064636
-$cmcsa - an investor’s guide to cyclical and counter-cyclical industries -&gt; URL #stock #stocks #stockaction,positive,0.7629361152648926

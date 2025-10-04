@@ -1,7 +1,0 @@
-sentence,label,score
-".AT_USER AT_USER AT_USER
-do any of you have #courage to #support #fight against $jnj #harm?
-URL",negative,0.4949246644973755
-".AT_USER AT_USER AT_USER
-do any of you have the #courage to #support #fight against $jnj #harm?
-URL",negative,0.5265371203422546

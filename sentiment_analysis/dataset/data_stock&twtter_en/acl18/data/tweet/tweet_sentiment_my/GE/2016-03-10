@@ -1,5 +1,0 @@
-sentence,label,score
-volume alert - ge 30.11 general electric company $ge hit a high today of 30.29 closing the day 10:30 at 30.11  URL,positive,0.9304737448692322
-"most shorted nyse stocks in february:
-$chk, $s, $vale, $fcx, $aa, $pfe, $f, $pbr, $rig, $ge
-URL",negative,0.5941781997680664

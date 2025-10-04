@@ -1,6 +1,0 @@
-sentence,label,score
-#sentishiftup $pcln $sdrl $googl $rig $intc $aapl $lnkd $jpm $goog $msft #sentiquant 20150331 08:00:04:412 … … … …… URL,positive,0.7804866433143616
-"3 reasons google inc. should fear facebook inc.. $goog, $fb, $amzn. URL",negative,0.7839901447296143
-#sentishiftup $pcln $sdrl $googl $rig $intc $aapl $lnkd $jpm $goog $msft #sentiquant 20150331 08:00:04:412 … … … …… URL,positive,0.7804866433143616
-"rt AT_USER cupertino gets at&amp;t gbps internet, before google fiber reaches area. URL $t $goog • blazing fast, laugh…",positive,0.8836662769317627
-$aapl  $amzn  $baba  $bidu  $celg  $cvx  $fb  $fslr  $gild  $gld  $gmcr  $goog  $googl  $gpro  $gs  $iwm  $lnkd  $nflx  $pcln  $qqq  $sbux,positive,0.8481410145759583

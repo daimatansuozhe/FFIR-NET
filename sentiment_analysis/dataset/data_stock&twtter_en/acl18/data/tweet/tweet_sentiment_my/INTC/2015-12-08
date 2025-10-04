@@ -1,4 +1,0 @@
-sentence,label,score
-"apple is ill-equipped in the tablet space URL $aapl, $intc, $msft",positive,0.7651761174201965
-"$msft news: ""apple is ill-equipped in the tablet space $intc #briankrzanich…"" URL  analyze: URL",negative,0.5356436371803284
-"$intc news: ""apple is ill-equipped in the tablet space $intc #briankrzanich…"" URL  analyze: URL",negative,0.5211651921272278

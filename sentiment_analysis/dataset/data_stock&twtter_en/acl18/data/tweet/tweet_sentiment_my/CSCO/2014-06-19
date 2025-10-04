@@ -1,5 +1,0 @@
-sentence,label,score
-$csco - statement of changes in beneficial ownership (4) URL,positive,0.4680946469306946
-"$csco - facebook introduces wedge, fboss -&gt; URL #stock #stocks #stockaction",positive,0.9347540140151978
-cisco: a slow-moving company in the middle of a massive churn. URL $vmw $csco,negative,0.6038728356361389
-how tail-f fits into cisco's sdn and nfv plans URL $csco,positive,0.9132201075553894

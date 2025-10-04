@@ -1,4 +1,0 @@
-sentence,label,score
-"rt AT_USER dow stocks recover 90% of opening loss
-URL $aapl $intc $ba $unh $jnj",positive,0.9237011075019836
-alert: new social signal created on $intc - low at 27.37 - time: 16:39 - strength: 10. powered by URL,positive,0.8225142955780029

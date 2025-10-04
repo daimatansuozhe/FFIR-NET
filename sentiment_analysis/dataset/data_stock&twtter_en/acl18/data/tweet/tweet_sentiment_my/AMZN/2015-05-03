@@ -1,8 +1,0 @@
-sentence,label,score
-rt AT_USER the 4 traits of the perfect business. quote from jeff bezos. great share AT_USER -&gt; URL $amzn URL,positive,0.9580880403518677
-#apple will be the most dominant player by 2020. #presentation AT_USER #fourhorsemen: $amzn $appl $fb $goog URL,positive,0.9361830949783325
-"sh proshares short s&amp;p 500 fund filings
-click here -&gt; URL
-
-trending $sh $swy.to $aa $amzn #sh #investing #stock",negative,0.6568407416343689
-AT_USER since your tweet was sent $amzn has dropped -3.710%. see your featured tweet on market parse URL,negative,0.7418070435523987

@@ -1,4 +1,0 @@
-sentence,label,score
-$cmcsa: comcast corporation discloses insider trading URL URL,positive,0.6556169390678406
-your cable internet is about to get way faster. $brcm $cmcsa $goog $vz URL,positive,0.9340804815292358
-"""AT_USER comcast $cmcsa current 30-day call ivxm is at 28, compared to a one-month ago level of 17""",positive,0.8760654330253601

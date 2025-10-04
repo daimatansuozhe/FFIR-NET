@@ -1,7 +1,0 @@
-sentence,label,score
-top #stocks today. find out why. $amcx $orcl $anss $cadx #liquidity URL,positive,0.9295541644096375
-rt AT_USER oracle $orcl q2 adj. 0.69 vs. exp. usd 0.68 #stocks,positive,0.9282591342926025
-"rt AT_USER #oracle figures out - 
-2q adj eps 69c, est 68c
-2q adj rev $9.61b, est $9.50b
-$orcl",positive,0.9049388766288757

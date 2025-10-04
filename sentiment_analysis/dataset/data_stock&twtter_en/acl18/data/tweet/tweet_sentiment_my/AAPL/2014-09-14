@@ -1,8 +1,0 @@
-sentence,label,score
-rt AT_USER $aapl $goog $bbry $msft $nok $sne $alu this world map shows every device connected to the internet URL,positive,0.8851784467697144
-"apple, yahoo, yum in focus - marketwatch. $aapl. URL",positive,0.8844236731529236
-best review so far. a watch guy's thoughts on the apple watch after seeing it in the metal $aapl URL AT_USER,positive,0.7699580788612366
-"rt AT_USER some stocks the desk is watching: $lulu, $gpro, $fnsr, $twtr, $aapl URL",positive,0.744346559047699
-"apple working on products no one has guessed at, says tim cook $aapl #aapl
-URL",positive,0.6531362533569336
-"rt AT_USER active puts @ cboe; $aapl 8/29/14 102, sep 104 &amp; nov 110 $rsh sep &amp; oct 1",positive,0.8782047033309937

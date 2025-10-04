@@ -1,8 +1,0 @@
-sentence,label,score
-s&amp;p100 #stocks performance $hal $cat $aapl $apc $oxy $dvn $hpq $cop $slb $intc $met $cvx $twx $dow $xom  more@ URL,positive,0.9366138577461243
-intel long $intc URL,positive,0.9180894494056702
-analysts cut targets on micron but remain upbeat on 2016 $mu $sndk $intc $msft: full story URL,negative,0.7803627848625183
-"""AT_USER $intc, $aapl lead dow components in sales exposure to china""",positive,0.9335290193557739
-"rt AT_USER enter a symbol. be an expert. own the information.
-
-$intc trade card URL URL",positive,0.6699398159980774

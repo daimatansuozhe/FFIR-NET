@@ -1,4 +1,0 @@
-sentence,label,score
-weekly s&amp;p500 #stocks trend $btu $dhi $jcp $mat $joy $oke $isrg $omc $jnpr $dis $csco $ctxs $se $emn $nbr $fls @ URL,positive,0.9213382601737976
-weekly s&amp;p100 #stocks trend $dis $csco $ko $tgt $bhi $axp $hd $utx $pm $mdlz $bk $unp $mon $txn $all $fcx  @ URL,positive,0.9174115061759949
-dow #stocks trend $axp $utx $csco $ko $hd $dis $v $ibm $dd $intc $jpm $unh $trv $mrk $mmm $ge $gs $msft $cat  @ URL,positive,0.8946279883384705

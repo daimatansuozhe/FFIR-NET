@@ -1,9 +1,0 @@
-sentence,label,score
-"clr continental resources inc. change
-URL
-
-$clr $v $ge $nvax #clr #share #share",positive,0.7665058374404907
-"jnk spdr barclays high yield bond etf dividend
-URL
-
-$jnk $v $cvx $nke #jnk #investing #stock",positive,0.9005861878395081

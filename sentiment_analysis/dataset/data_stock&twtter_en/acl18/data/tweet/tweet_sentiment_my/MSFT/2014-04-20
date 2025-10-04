@@ -1,3 +1,0 @@
-sentence,label,score
-$msft: coca-cola or microsoft? URL,positive,0.7364687323570251
-google cloud is no real threat to microsoft $msft URL,negative,0.6125178337097168

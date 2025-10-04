@@ -1,6 +1,0 @@
-sentence,label,score
-"amazon has the fastest-growing web properties in 2015
-$amzn $googl $goog $vz $fb $msft URL URL",positive,0.9439706206321716
-$v $msft $nke $mcd $hd $ge $dis URL,positive,0.8747870922088623
-$msft:us  exclusive: microsoft to warn email users of suspected hacking by governments #microsoft corp  URL #nasdaq,negative,0.44956761598587036
-3 best performing dow #stocks of 2015 $ge $mcd $nke also $v $dis $unh $msft URL,positive,0.9652413725852966

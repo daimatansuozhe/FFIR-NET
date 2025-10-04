@@ -1,6 +1,0 @@
-sentence,label,score
-"rt AT_USER [$$] for apple and venmo, china shows what lies ahead:  URL $aapl $goog $pcln $k",positive,0.9646217226982117
-rt seekingalpha: my black friday specials URL $cmg $ctsh $gild $pcln $tsm $ulta $vmw $aapl URL,positive,0.716763436794281
-rt AT_USER my black friday specials URL $cmg $ctsh $gild $pcln $tsm $ulta $vmw $aapl,positive,0.7909104228019714
-"$pcln company info updated thursday, november 26, 2015 08:59:23 am $fb $jblu $hznp $gild URL URL",positive,0.813133180141449
-"$pcln reviews updated thursday, november 26, 2015 12:59:20 pm $intc $luv $opk $iyt URL",positive,0.8239168524742126

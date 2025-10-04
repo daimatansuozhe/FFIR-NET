@@ -1,9 +1,0 @@
-sentence,label,score
-rt AT_USER l$d,positive,0.7499744892120361
-baby i'm just rapping to this l$d. 🎶,positive,0.6921243667602539
-"AT_USER AT_USER AT_USER AT_USER ha ha ha - envy is a terrible thing  . . .
-
-b%sta$d !!",negative,0.5070852041244507
-rt AT_USER a$ap rocky | l$d URL,positive,0.8340768814086914
-rt AT_USER l$d URL,positive,0.7524978518486023
-walking home talking about l$d by a$ap and a guy says you guys wanna pop some lsd !!!,positive,0.9115182757377625

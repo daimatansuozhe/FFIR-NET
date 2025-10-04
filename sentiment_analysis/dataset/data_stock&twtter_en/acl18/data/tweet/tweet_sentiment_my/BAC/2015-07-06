@@ -1,9 +1,0 @@
-sentence,label,score
-"$bac $gs $c:
-
-jonathan brook, janney montgomery debt director, dies at 44:
-
-URL",negative,0.5497534275054932
-$bac - how bank of america will benefit from higher interest rates URL,positive,0.946175217628479
-AT_USER $bac banks give living wills another try URL,positive,0.8429126739501953
-"$suti has gained 66.67%, since our penny stock blog alert! huge news: URL $aapl $bac $cbis URL",positive,0.9637963771820068

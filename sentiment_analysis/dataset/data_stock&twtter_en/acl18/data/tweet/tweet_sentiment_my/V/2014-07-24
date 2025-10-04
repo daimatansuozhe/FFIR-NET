@@ -1,7 +1,0 @@
-sentence,label,score
-$cvc should you buy $ecl $v $pcln #financialnews rate_limit_exceeded,positive,0.867596447467804
-rt AT_USER visa reports third-quarter earnings of $3.2 billion. $v,positive,0.8800928592681885
-$utx #stocks you might want to buy $mnst $v $do must have URL,positive,0.8403474688529968
-$hum get great research on stocks $boh $v $wtw #nasdaq URL,positive,0.9446021318435669
-rt AT_USER $p $amzn $v $sbux - catalyst for a down day tomorrow ?,negative,0.6922351121902466
-this weeks stocks you should watch $el $v $txn $amzn #overvalued URL,positive,0.8388737440109253

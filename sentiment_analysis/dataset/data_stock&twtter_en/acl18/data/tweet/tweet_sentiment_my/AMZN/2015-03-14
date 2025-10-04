@@ -1,5 +1,0 @@
-sentence,label,score
-"rt AT_USER hulu, amazon and yahoo are all bidding on seinfeld. netflix took a pass. URL $amzn $yhoo $nflx",positive,0.8629376292228699
-"stocks trending now: URL 
-
-$sh $fb $luv $adxs $intc $eyes $cvs $save $goog $gold $sco $amzn ~",positive,0.9059740900993347

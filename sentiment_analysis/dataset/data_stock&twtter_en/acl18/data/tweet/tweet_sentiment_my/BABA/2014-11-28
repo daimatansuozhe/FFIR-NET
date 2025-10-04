@@ -1,9 +1,0 @@
-sentence,label,score
-"undervalued stock news from analyst URL
-$ntek $aapl $baba $do $esv $hsgx",positive,0.9588991403579712
-"rt AT_USER undervalued stock news from analyst URL
-$ntek $aapl $baba $do $esv $hsgx",positive,0.9650712609291077
-rt AT_USER $baba breaks above $100 and $yhoo hits its highest price since september of 2000.,positive,0.733251690864563
-"rt AT_USER undervalued stock news from analyst URL
-$ntek $aapl $baba $do $esv $hsgx",positive,0.9650712609291077
-URL &lt;-- inspiring trading interview with a top supertrades student! $live $yod $nxpi $baba $vsr,positive,0.9183387756347656

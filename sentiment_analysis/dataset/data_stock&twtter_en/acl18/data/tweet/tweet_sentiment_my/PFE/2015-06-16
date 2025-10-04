@@ -1,9 +1,0 @@
-sentence,label,score
-"pfe pfizer, inc. ideas
-URL
-
-$pfe $espr $gbgm $gild #pfe #finance #nasdaq",positive,0.8533202409744263
-"pfe pfizer, inc. quotes
-URL
-
-$pfe $bidu $wec $xeg.to #pfe #nasdaq #stocks",positive,0.8536339402198792

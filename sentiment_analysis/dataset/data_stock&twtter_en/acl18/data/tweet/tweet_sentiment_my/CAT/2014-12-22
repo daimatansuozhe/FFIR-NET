@@ -1,9 +1,0 @@
-sentence,label,score
-rt AT_USER what did a stock certificate look like 85 years ago? here is AT_USER (nyse: $cat) from 1929 URL,positive,0.7223024368286133
-rt AT_USER stunning photos of AT_USER machinery brought to celebration their 85th listing anniversary (nyse: $cat) URL,positive,0.7699822187423706
-rt AT_USER what did a stock certificate look like 85 years ago? here is AT_USER (nyse: $cat) from 1929 URL,positive,0.7223024368286133
-rt AT_USER stunning photos of AT_USER machinery brought to celebrate their 85th listing anniversary (nyse: $cat) URL,positive,0.7940775752067566
-caterpillar ceo sees oil decline as short-term painful but long-term positive URL $cat,positive,0.541028618812561
-"rt AT_USER #didyouknow back in 1929, you could purchase a caterpillar sixty for $4,175. (nyse: $cat) URL",positive,0.7525302767753601
-"rt AT_USER in 1929, we became a publicly traded company on the AT_USER a caterpillar thirty set you back $2,375. (nyse: $cat) URL",positive,0.6658735871315002
-"rt AT_USER in 1929, we became a publicly traded company on the AT_USER a caterpillar thirty set you back $2,375. (nyse: $cat) URL",positive,0.6658735871315002

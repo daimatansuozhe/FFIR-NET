@@ -1,8 +1,0 @@
-sentence,label,score
-"новый скайп отлично работал, но $msft все исправили и он снова тормозит",positive,0.6955127120018005
-"microsoft : researchers submit patent application, ""metal alloy injection molding protrusions"", for approval URL $msft",positive,0.9015732407569885
-"microsoft : ""tuning congestion notification for data center networks"" in patent application approval process URL $msft",positive,0.8261950016021729
-"$msft - tech stocks: amazon slips, blackberry surges among tech stocks URL",negative,0.5609621405601501
-$msft - microsoft promises to render your smartphone useless if it’s stolen -&gt; URL #stock #stocks #stockaction,positive,0.7522156238555908
-prediction: red hat $rht is acquired by $msft URL AT_USER AT_USER reply #yea#nay,positive,0.6902524828910828
-prediction: red hat $rht is acquired by $msft URL AT_USER AT_USER reply #yea#nay,positive,0.6902524828910828

@@ -1,6 +1,0 @@
-sentence,label,score
-"rt AT_USER earnings calendar 
-$msft $cat $amgn $aapl $yhoo 
-$fb $lvs $alxn $ba $baba $celg 
-$amzn $brcm $deck $v $wynn $ma URL",positive,0.8749459981918335
-rt AT_USER options expected to be active at cboe: $glw $bmy $cat $coh $msft $txn $pfe $mmm,positive,0.8313844203948975

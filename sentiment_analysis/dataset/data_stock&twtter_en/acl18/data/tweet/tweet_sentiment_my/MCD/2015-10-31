@@ -1,9 +1,0 @@
-sentence,label,score
-"hd home depot, inc. last trade
-URL
-
-$hd $iyt $ctxs $mcd #hd #tradeideas #tradeideas",positive,0.8512805700302124
-"mcd mcdonalds corp. filings
-URL
-
-$mcd $jnk $hon $nke #mcd #pennystocks #share",positive,0.776401162147522

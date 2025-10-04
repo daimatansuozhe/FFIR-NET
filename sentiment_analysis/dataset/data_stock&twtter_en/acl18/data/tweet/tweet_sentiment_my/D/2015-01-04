@@ -1,7 +1,0 @@
-sentence,label,score
-rt AT_USER #corrupciónroja se invirtieron 1700 millones u$d para línea 2 del metro valencia q estaría lista 2012 y no se termino URL,positive,0.41053903102874756
-"URL &lt;- awesome video on how timsykes went from $12,000 to $1.65 million trading stocks! $d $ibb $bcei",positive,0.8668152689933777
-l$d URL,positive,0.6165570616722107
-"rt AT_USER ""AT_USER solo quedan u$d 800 millones en efectivo en el bcv , no hay mas, se acabo... URL",neutral,0.5369300246238708
-"rt AT_USER solo quedan u$d 800 millones en efectivo en el bcv , no hay mas, se acabo... URL",neutral,0.4942534565925598
-"""AT_USER por pocos dias oferta samsung s3 i9300 en u$d 300. solo AT_USER te da más. garantía en venezuela."" que barato dame dos",neutral,0.5694828629493713

@@ -1,7 +1,0 @@
-sentence,label,score
-"$amgn:
-
-amgen upgraded at vetr inc. (amgn):
-
-URL",positive,0.9731533527374268
-"rt AT_USER new poll finds bay area biotech workers convinced 2015 holds more job cuts, as amgen $amgn bolts URL AT_USER",negative,0.7106026411056519

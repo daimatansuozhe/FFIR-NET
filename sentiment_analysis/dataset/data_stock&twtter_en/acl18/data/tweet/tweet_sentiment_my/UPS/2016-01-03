@@ -1,9 +1,0 @@
-sentence,label,score
-"aapl apple, inc. dividend
-URL
-
-$aapl $ups $tqqq $f #aapl #investing #stocks",positive,0.8871282935142517
-"rt URL myec myecheck, inc. 52wk low
-URL
-
-$myec $hd $psmt $ups #myec #tradeideas #stocks",positive,0.6628925204277039

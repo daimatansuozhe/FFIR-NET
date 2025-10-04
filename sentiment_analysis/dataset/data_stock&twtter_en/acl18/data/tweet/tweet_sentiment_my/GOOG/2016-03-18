@@ -1,9 +1,0 @@
-sentence,label,score
-mobile searches: the major revenue driver for google URL $goog,positive,0.8935120105743408
-#google ( $goog)'s janice wong explains android for work in latest 'coffee with a googler'. read more: URL,positive,0.8361713290214539
-"rt AT_USER apple: we weren't invited, but here's what other people expect from an 'se':  URL $aapl $goog $pcln …",positive,0.6671530604362488
-"#google ( $goog) onhub routers get speed history, automatic band steering. read more: URL",positive,0.8429294228553772
-"page, brin &amp; alphabet lose another alpha bet: boston dynamics put up for sale, robots retreat URL $goog $googl",negative,0.6862161159515381
-rt AT_USER why you should buy facebook and google if you're bearish on oil: URL $fb $goog,positive,0.5176226496696472
-"$sfor: mobiletrust explainer URL via AT_USER
-$msft $goog $fb $twtr $ibm $aapl $symc $amzn $ge $pfe $c $f $t",positive,0.8478899002075195

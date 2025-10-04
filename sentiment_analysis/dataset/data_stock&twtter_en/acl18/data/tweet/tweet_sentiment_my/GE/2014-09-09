@@ -1,6 +1,0 @@
-sentence,label,score
-"myopinion: $ge on 9/5/14, $ge announced a regular quarterly URL URL",positive,0.9075426459312439
-"$ge - market snapshot: u.s. stocks: futures slip; multimedia games, ge in focus URL",negative,0.6950622797012329
-dow #stocks trend $msft $nke $mrk $ba $mmm $intc $unh $t $v $ge $jpm $ko $jnj $pfe $gs $wmt $hd $pg $utx $dis  @ URL,positive,0.8678350448608398
-"general electric nyse $ge was recently upgraded with price target of $33 to ""outperform"" from ""market perform"" by bernstein #energy #mkt",positive,0.9758870601654053
-"mercenary links: if it’s nae scottish, it’s crap URL $fb $amzn $hd $ge $gs $dri",positive,0.8161495327949524

@@ -1,8 +1,0 @@
-sentence,label,score
-rt AT_USER 91% of google and linkedin employees are white or asian. the tech workforce: URL $lnkd $goog URL,negative,0.5055575370788574
-"google chairman believes tel aviv is the next silicon valley
-
- URL 
-
-#bdsfail AT_USER $goog",positive,0.9148098826408386
-"facebook améliore son ciblage publicitaire URL $fb, $goog, $msft",positive,0.8242388963699341

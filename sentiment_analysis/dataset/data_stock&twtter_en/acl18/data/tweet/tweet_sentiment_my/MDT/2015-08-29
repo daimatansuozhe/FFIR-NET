@@ -1,9 +1,0 @@
-sentence,label,score
-"mdt medtronic, inc. ex-div date
-URL
-
-$mdt $emb $axs $tast #mdt #stock #pennystocks",positive,0.7408722639083862
-"mdt medtronic, inc. p/e ratio
-URL
-
-$mdt $tast $uwti $feye #mdt #investing #stockmarket",positive,0.8257253170013428

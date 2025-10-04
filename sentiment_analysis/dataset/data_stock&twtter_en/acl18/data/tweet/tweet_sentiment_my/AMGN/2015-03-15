@@ -1,9 +1,0 @@
-sentence,label,score
-"rt AT_USER $regn 10-k: languages regarding fda's concerns about pcsk9 neurocognitive aes.
-$sny $amgn #acc15 URL",negative,0.7094043493270874
-"rt AT_USER pcsk9 inhibitors from amgen, sanofi, regeneron lower cardiovascular risk in studies URL $amgn $sny $regn #…",positive,0.7090666890144348
-3 #biotechetfs crushing the market in 2015 $biib $amgn $ibb $xbi $bib $bbc $spy  URL,positive,0.9377594590187073
-"$biib, $celg, $amgn, $regn, $gild assets trend comparison URL URL",positive,0.8791079521179199
-"$regn 10-k: languages regarding fda's concerns about pcsk9 neurocognitive aes.
-$sny $amgn #acc15 URL",negative,0.7368248105049133
-"rt AT_USER $amgn says pcsk9 inhibitor repatha reduced cardiovascular events, lowered ldl cholesterol by 61% vs standard of care",positive,0.6289507746696472

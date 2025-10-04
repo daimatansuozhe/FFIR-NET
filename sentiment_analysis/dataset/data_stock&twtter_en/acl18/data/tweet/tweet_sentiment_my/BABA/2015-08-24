@@ -1,7 +1,0 @@
-sentence,label,score
-rt AT_USER oh and here's alibaba ... $baba URL,positive,0.632800281047821
-rt AT_USER breaking: #alibaba down 13.8 percent. $baba,negative,0.8327776789665222
-"active stocks to watch: dreamworks animation skg inc. (nasdaq:dwa), alibaba group… URL $baba",positive,0.82798171043396
-"rt AT_USER the youngest suffer the most: recent ipos getting slaughtered.
-URL
-$box $etsy $twtr $baba URL",negative,0.7484737038612366
