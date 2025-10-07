@@ -27,4 +27,4 @@ FFIR-Net outperforms state-of-the-art baselines (e.g., LSTM, GCN, AD-GAT, FinHGN
 
 Due to the needs of subsequent work, we are currently providing a simplified version of the model and example implementations. The full project code will be gradually released in future updates.
 
-We appreciate your understanding. If you have any specific questions or requests regarding the code, please feel free to contact us. 
+We appreciate your understanding. If you have any specific questions or requests regarding the code, please feel free to contact us.
